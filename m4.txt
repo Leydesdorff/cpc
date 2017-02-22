@@ -1,0 +1,100 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+100	methods or apparatus for generating or transmitting mechanical vibrations of	0.1962	-0.2133	1	90	2212	628
+179	books	0.782	0.4971	2	95	9729	632
+252	"micro-structural devices or systems, e.g. micro-mechanical"	0.4226	-0.8556	1	92	7018	622
+253	processes or apparatus specially adapted for the manufacture or treatment of	0.3204	-0.868	1	92	6747	623
+255	specific uses or applications of nano-structures	0.5796	-0.4559	1	95	8329	645
+515	"measuring length, thickness or similar linear dimensions"	0.346	-0.3616	1	97	4760	643
+516	"measuring distances, levels or bearings"	0.1455	0.1279	5	94	9455	643
+517	measuring not specially adapted for a specific variable	-0.1978	-0.1376	1	98	8938	641
+518	"measuring volume, volume flow, mass flow or liquid level"	-0.0177	-0.2391	1	96	2715	646
+520	"measurement of mechanical vibrations or ultrasonic, sonic"	0.2644	-0.2903	1	97	3152	611
+521	"measurement of intensity, velocity, spectral content, polarisation, phase or"	0.4492	-0.4706	1	94	5427	637
+522	measuring temperature	-0.2123	-0.2761	1	93	4462	641
+523	"measuring force, stress, torque, work, mechanical power,"	0.1326	-0.5597	1	97	5033	641
+524	testing static or dynamic balance of machines or structures	0.1034	-0.3259	1	95	3576	643
+526	"measuring linear or angular speed, acceleration, deceleration, or shock"	0.0881	-0.6519	1	97	5601	635
+527	scanning-probe techniques or apparatus	0.4337	-0.6923	1	66	1370	589
+528	measuring electric variables	-0.364	0.0932	4	94	6760	644
+529	radio direction-finding	-0.0556	0.1421	5	94	9862	640
+533	"optical elements, systems, or apparatus"	0.4824	-0.6012	1	95	8843	648
+535	"devices or arrangements, the optical operation of which is modified by changi"	0.2758	-0.5255	1	95	5594	641
+536	apparatus or arrangements for taking photographs or for projecting or viewing	0.6864	0.0069	1	95	6383	643
+541	holographic processes or apparatus	0.7325	-0.1768	1	85	2309	611
+542	mechanically-driven clocks or watches	-0.0231	-0.9753	5	90	2931	606
+543	electromechanical clocks or watches	-0.2068	-0.9843	5	90	2875	579
+544	apparatus or tools specially designed for making or maintaining clocks or wat	-0.1328	-1.0772	5	69	932	494
+545	time-interval measuring	-0.0789	-0.7391	5	95	3915	597
+546	electronic time-pieces	-0.2419	-0.6726	5	96	6379	607
+547	radio-controlled time-pieces	-0.34	-0.854	5	82	2736	455
+548	control or regulating systems in general	-0.085	0.0299	1	97	7777	647
+551	control devices or systems insofar as characterised by	0.4605	-0.0403	2	93	3370	626
+554	optical computing devices	0.6641	-0.2255	1	78	1244	479
+555	electrical digital data processing	0.0339	0.51	2	97	16568	653
+556	analogue computers	-0.6954	0.1255	3	91	2573	567
+557	hybrid computing arrangements	-0.3598	-0.0462	3	87	1744	445
+558	recognition of data	0.4836	0.3951	2	96	14070	649
+560	computer systems based on specific computational models	0.1722	0.5123	2	94	6279	631
+561	"data processing systems or methods, specially adapted for administrative, com"	0.2525	0.9565	2	96	14313	651
+562	"image data processing or generation, in general"	0.6072	0.6031	2	94	12537	644
+563	ticket-issuing apparatus	0.116	0.8371	2	90	4445	610
+564	time or attendance registers	0.2425	0.7138	2	94	12364	644
+565	"handling of coins or of paper currency or similar valuable papers, e.g. testi"	0.6706	0.9822	2	83	6265	631
+566	coin-freed or like apparatus	0.6397	0.7921	2	94	7875	646
+567	"registering the receipt of cash, valuables, or tokens"	0.0344	0.7157	2	93	6946	613
+568	signalling or calling systems	-0.111	0.3028	5	97	9073	646
+569	"transmission systems for measured values, control or similar"	-0.2265	0.3289	4	97	8690	621
+570	traffic control systems	0.0619	0.3668	5	91	7291	630
+571	educational or demonstration appliances	0.5513	0.1973	2	98	7316	644
+572	coding or ciphering apparatus for cryptographic or other	0.4791	1.0536	2	84	5019	499
+575	arrangements or circuits for control of indicating devices using static means	0.5197	-0.3681	1	96	8792	637
+576	organs	1.2229	-0.0721	6	17	167	166
+577	"pianos, harpsichords, spinets or similar stringed musical"	1.3186	-0.1281	6	45	1321	501
+578	"stringed musical instruments; wind musical instruments; accordions or ..."	1.2299	-0.2095	6	54	905	621
+579	automatic musical instruments	1.3283	-0.1778	6	45	1173	382
+580	aids for music	1.222	-0.1592	6	78	1797	546
+581	electrophonic musical instruments	1.038	0.064	6	94	5053	617
+582	sound-producing devices	0.2955	-0.1092	1	97	3350	639
+583	speech analysis or synthesis	0.4281	0.8253	2	92	8615	616
+584	information storage based on relative movement between	0.378	0.4665	2	97	7394	648
+585	static stores	0.027	-0.0429	1	94	6378	635
+586	"constructional details of instruments, or comparable details of other apparat"	-0.0048	-0.5728	1	86	917	581
+598	magnets	-0.5279	-0.3033	4	98	4191	646
+599	"capacitors; capacitors, rectifiers, detectors, switching devices or ..."	-0.6898	-0.5185	3	85	2521	637
+600	electric switches	-0.1697	-0.4011	4	98	5600	643
+603	semiconductor devices	-0.0617	-0.4064	1	95	7231	653
+605	waveguides	-0.9387	-0.325	3	92	3705	619
+606	aerials	-0.5718	-0.0835	3	95	5873	641
+607	line connectors	-0.4662	-0.472	4	94	2900	647
+608	devices using stimulated emission	0.4217	-0.2865	1	92	2638	636
+610	"boards, substations, or switching arrangements for the supply"	-0.5013	-0.6242	4	76	1241	607
+611	"installation of electric cables or lines, or of combined optical"	-0.4479	-0.5738	4	88	1655	645
+612	emergency protective circuit arrangements	-0.6167	-0.3938	4	86	3024	615
+613	circuit arrangements or systems for supplying or distributing electric power	-0.6742	-0.2266	4	93	6000	641
+615	"apparatus for conversion between ac and ac, between ac and dc, or between dc"	-0.8161	-0.2661	4	90	3427	631
+616	electric machines not otherwise provided for	0.3251	-0.6298	1	92	2439	625
+619	"generation of oscillations, directly or by frequency-changing, by circuits em"	-1.0229	-0.0848	3	93	5986	583
+620	modulation	-1.1836	0.5081	3	86	5883	542
+621	demodulation or transference of modulation from one carrier	-1.2659	0.4298	3	83	4825	571
+622	amplifiers	-1.1022	0.2163	3	88	5445	607
+623	control of amplification	-0.8669	0.3695	3	97	6610	592
+624	"impedance networks, e.g. resonant circuits"	-0.8464	-0.1466	3	95	7036	619
+625	tuning resonant circuits	-0.9271	0.1056	3	91	6762	566
+626	pulse technique	-0.6649	-0.0345	3	96	4832	627
+627	"automatic control, starting, synchronisation, or stabilisation of generators"	-1.0087	0.0283	3	92	4940	593
+628	coding	-0.452	0.5941	7	96	5290	624
+629	transmission	-0.7059	0.4735	3	95	14907	643
+630	broadcast communication	-0.0131	0.979	7	93	11512	613
+631	multiplex communication	-0.5611	0.6176	7	91	8063	616
+632	secret communication	-0.195	1.0293	7	89	7691	580
+633	"transmission of digital information, e.g. telegraphic"	-0.2597	0.8357	7	95	16036	647
+634	telephonic communication	-0.1915	0.6879	7	96	11959	643
+635	"pictorial communication, e.g. television"	0.3867	0.6533	2	97	16283	650
+636	selecting	-0.3949	0.4313	7	93	7733	629
+637	"loudspeakers, microphones, gramophone pick-ups or like acoustic electromechan"	0.2692	0.0458	6	98	4638	641
+638	stereophonic systems	0.3472	0.2909	6	93	2400	539
+639	wireless communications networks	-0.4213	0.7776	7	93	13647	639
+645	printed circuits	-0.2952	-0.436	4	96	7093	650
+646	indexing scheme relating to climate change mitigation technologies related to	-0.5604	0.2436	4	96	11334	650
+652	"systems integrating technologies related to power network operation, communic"	-0.5507	0.0748	4	90	8197	615
+80	"card, board, or roulette games"	0.6567	0.3305	2	95	7087	639

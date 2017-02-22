@@ -1,0 +1,9 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+628	coding	0.431	-0.4087	1	7	1857	96
+630	broadcast communication	0.724	0.2951	1	7	3536	93
+631	multiplex communication	0.0889	0.3214	1	7	3465	91
+632	secret communication	0.972	-0.0518	1	7	2997	89
+633	"transmission of digital information, e.g. telegraphic"	-0.2389	-0.1359	2	7	4544	95
+634	telephonic communication	-0.8505	-0.0105	2	7	3986	96
+636	selecting	-0.6213	0.5332	2	7	3323	93
+639	wireless communications networks	-0.505	-0.5428	2	7	4104	93

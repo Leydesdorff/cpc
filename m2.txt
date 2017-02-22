@@ -1,0 +1,113 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+114	making metal chains	0.6032	0.2602	2	53	936	499
+139	perforating	0.0925	-0.1343	3	107	4810	635
+154	preparation or pretreatment of the material to be shaped	-0.0346	0.9499	4	104	7615	643
+155	shaping or joining of plastics	0.1032	0.3153	4	111	13379	650
+156	producing particular articles from plastics or from substances	0.3931	0.6932	4	107	6652	646
+157	"indexing scheme associated with subclasses b29b, b29c or b29d, relating to mo"	0.1009	0.6143	4	111	13872	648
+158	"indexing scheme associated with subclass b29c, relating to particular article"	0.2141	0.4519	4	110	13008	648
+161	"making wound articles, e.g. wound tubes, of paper or cardboard"	-0.1525	-0.09	4	65	494	502
+164	"layered products, i.e. products built-up of strata of flat or non- flat, e.g."	0.1296	0.1794	4	110	14294	649
+166	"machines or accessories for making, setting, or distributing type"	-0.7237	-0.1161	1	35	281	442
+167	processes for the manufacture or reproduction of printing	-0.9724	-0.3082	1	81	3190	604
+168	apparatus for the mechanical reproduction of printing surfaces for stereotype	-0.9111	-0.1958	1	42	783	308
+169	printing machines or presses	-0.7641	-0.4772	1	105	4555	639
+170	"apparatus for bronze printing, line printing, or for bordering or edging shee"	-0.6698	-0.4327	1	62	751	321
+171	typewriters	-1.0166	-0.057	1	100	3612	645
+172	stamps	-0.8326	-0.2031	1	68	1306	558
+173	"apparatus or devices for manifolding, duplicating, or printing for office or"	-0.7981	-0.2898	1	80	1095	529
+174	"printing, duplicating, marking, or copying processes"	-0.8724	-0.026	1	106	7753	640
+175	printing plates or foils	-0.8808	-0.4123	1	95	3803	612
+176	"indexing scheme relating to printing, lining machines, typewriters, and to st"	-0.8447	-0.5403	1	93	3537	623
+177	"permanently attaching together sheets, quires or signatures"	-0.6861	-0.0455	1	50	865	482
+178	bookbinding	-1.2101	-0.0412	1	66	5728	595
+180	sheets temporarily attached together	-0.5847	0.0216	1	79	761	606
+181	"indexing scheme relating to books, filing appliances or the like"	-1.2203	0.0543	1	59	5486	555
+182	implements for writing or drawing	-1.1264	0.1097	1	92	5053	613
+183	articles for writing or drawing upon	-0.6574	0.0871	1	94	1652	614
+184	bureau accessories not otherwise provided for	-1.083	0.3085	1	82	3602	612
+185	"machines, apparatus or tools for artistic work, e.g. for sculpturing, guilloc"	-0.6187	-0.2405	1	97	1496	592
+187	"painting or artistic drawing, not otherwise provided for"	-0.4431	-0.2871	1	102	1953	631
+236	"labelling or tagging machines, apparatus, or processes"	-0.4627	-0.1033	1	97	1409	622
+240	"handling thin or filamentary material, e.g. sheets, webs, cables"	-0.5426	-0.1711	1	108	6105	643
+250	"making articles from leather, canvas, or the like"	0.4099	-0.128	3	26	74	150
+284	treatment or chemical modification of rubbers	-0.3986	1.1813	6	54	1509	563
+285	macromolecular compounds obtained by reactions only involving carbon-to-carbo	-0.3223	0.8789	6	98	7328	644
+286	macromolecular compounds obtained otherwise than by reactions only involving	-0.2419	0.7687	6	101	10153	648
+288	working-up	-0.0945	0.7164	6	104	12665	645
+289	use of inorganic or non-macromolecular organic substances as	-0.4488	0.84	6	100	10534	648
+290	compositions of macromolecular compounds	-0.0105	0.8304	6	103	15780	649
+291	organic dyes or closely-related compounds for producing dyes	-1.028	0.4024	1	86	5720	619
+292	"treatment of inorganic materials, other than fibrous fillers,"	-0.7977	0.6042	6	77	3601	628
+293	"coating compositions, e.g. paints, varnishes or lacquers"	-0.7493	0.4973	6	100	12476	645
+297	adhesives	-0.3559	0.5109	6	104	6863	642
+311	detergent compositions	-0.1509	-0.7442	5	93	3728	639
+326	"mechanical treatment or processing of skins, hides or leather in general"	0.1569	-0.3116	3	81	695	502
+327	"chemical treatment of hides, skins or leather, e.g. tanning, impregnating, fi"	0.118	-0.4477	3	75	2599	534
+33	shirts	0.9526	0.1204	2	94	3554	592
+34	"corsets; brassieres"	0.9261	0.2216	2	72	1565	553
+346	"mechanical methods or apparatus in the manufacture of artificial filaments, t"	0.7603	-0.2799	7	99	6781	629
+347	"chemical features in the manufacture of artificial filaments, threads, fibres"	0.696	-0.1703	7	96	9888	631
+35	outerwear	0.7932	0.3225	2	106	6407	642
+350	"crimping or curling fibres, filaments, threads, or yarns"	0.8628	-0.1558	2	97	4833	627
+351	"warping, beaming or leasing"	0.7388	-0.6627	3	49	756	382
+352	"finishing or dressing of filaments, yarns, threads, cords, ropes"	1.0147	-0.4019	7	87	5703	585
+353	shedding mechanisms	0.8722	-0.6673	3	53	646	507
+354	woven fabrics	0.8807	-0.4135	3	98	7614	642
+355	auxiliary weaving apparatus	0.8209	-0.6259	3	76	1341	537
+356	knitting	1.0828	-0.0572	2	96	6844	628
+357	"braiding or manufacture of lace, including bobbin-net or carbonised lace"	0.7527	-0.0098	3	80	5210	608
+358	trimmings	0.4687	-0.024	2	91	1073	492
+359	making nets by knotting of filamentary material	0.5832	-0.0283	2	71	899	432
+36	garment fastenings	0.8129	0.229	2	90	3060	577
+360	"making textile fabrics, e.g. from fibres or filamentary material"	0.5152	-0.2792	7	104	11685	641
+361	sewing	0.517	-0.6329	3	97	3114	608
+362	embroidering	0.625	-0.5511	3	88	2112	579
+363	"indexing scheme associated with subclasses d05b and d05c, relating to sewing,"	0.488	-0.7048	3	96	3091	550
+364	"treating textile materials by liquids, gases or vapours"	0.2254	-0.5984	3	101	4962	624
+365	"finishing, dressing, tentering or stretching textile fabrics"	0.5506	-0.409	3	97	4569	601
+366	"laundering, drying, ironing, pressing or folding textile articles"	-0.014	-0.8396	5	93	1890	645
+367	"mechanical or pressure cleaning of carpets, rugs, sacks, hides or other skin"	-0.0282	-0.9385	5	72	1915	420
+368	"marking, inspecting, seaming or severing textile materials"	0.3525	-0.5055	3	107	2935	569
+369	"pleating, kilting, or goffering textile fabrics or wearing"	0.4588	-0.4874	3	65	579	345
+370	"bleaching, e.g. optical bleaching, dry-cleaning or washing fibres, threads, y"	-0.1062	-0.9719	5	79	3391	578
+371	"treatment, not provided for elsewhere in class d06, of fibres, threads, yarns"	0.0677	-0.5857	5	103	8925	638
+372	"wall, floor or like covering materials, e.g. linoleum, oilcloth, artificial l"	0.2973	-0.2902	3	105	6025	630
+373	dyeing or printing textiles	-0.2875	-0.3225	1	106	6911	619
+374	decorating textiles	-0.3039	-0.4206	1	102	4516	575
+375	ropes or cables in general	0.6492	0.1712	2	86	1829	601
+376	"indexing scheme associated with sublasses of section d, relating to textiles"	0.9539	-0.0832	3	98	9403	633
+38	"appliances or methods for making clothes, e.g. for dress-making,"	0.2812	-0.1648	3	107	3006	575
+380	paper-making machines	-0.2864	-0.7219	5	90	3868	633
+381	"calenders; accessories for paper-making machines"	-0.4013	-0.6993	5	82	1554	623
+382	pulp compositions	-0.21	-0.5629	5	99	6734	640
+39	hats	0.8957	0.6436	2	82	2710	622
+40	manufacturing or trimming hats or other head coverings	0.8864	0.5662	2	82	1501	531
+41	characteristic features of footwear	1.1647	0.5276	2	89	4529	640
+42	fastenings or attachments of footwear	1.1648	0.3541	2	64	3009	569
+43	"machines, tools, equipment or methods for manufacturing or repairing footwear"	1.0976	0.4219	2	88	3217	603
+44	"buttons, pins, buckles, slide fasteners, or the like"	0.5049	0.1525	2	103	3465	629
+45	jewellery	0.3932	0.1804	2	97	2143	619
+451	"belts, cables, or ropes, predominantly used for driving purposes"	0.5354	0.2522	2	94	1168	629
+46	"indexing scheme relating to buttons, pins, buckles or slide fasteners, and to"	0.4178	0.2734	2	77	1787	533
+49	hairdressing or shaving equipment	-0.0467	0.0578	4	106	1784	645
+496	drying solid materials or objects by removing liquid therefrom	-0.1086	-0.5724	5	96	4036	645
+534	spectacles	0.2451	0.8347	4	82	1660	622
+537	photosensitive materials for photographic purposes	-0.7165	0.2416	1	88	2151	633
+538	apparatus for processing exposed photographic materials	-0.7412	0.0498	1	83	734	618
+539	"photomechanical production of textured or patterned surfaces, e.g. for printi"	-0.8212	0.1397	1	89	2165	642
+540	"electrography; electrophotography; magnetography"	-0.9289	0.1247	1	92	2640	647
+552	digital computers in which all the computation is effected	-0.4671	0.0583	1	37	246	376
+559	counting mechanisms	-0.3417	0.2538	1	51	562	589
+573	railway or like time or fare tables	-0.5186	0.0685	1	31	192	347
+596	cables	-0.0297	0.4165	6	99	2810	643
+60	sanitary equipment not otherwise provided for	-0.0901	-0.2838	5	103	2683	639
+642	static electricity	-0.0658	-0.2204	5	82	1085	604
+65	filters implantable into blood vessels	0.4478	0.447	4	104	7401	651
+68	containers specially adapted for medical or pharmaceutical purposes	-0.2284	0.54	4	92	3600	645
+70	methods or apparatus for sterilising materials or objects in general	0.2628	0.5778	4	101	9318	648
+71	"devices for introducing media into, or onto, the body"	0.0902	0.473	4	97	4532	652
+74	"devices, apparatus or methods for life-saving"	0.642	0.4845	2	94	2101	641
+97	spraying apparatus	-0.1628	0.2332	4	104	4362	651
+98	apparatus for applying liquids or other fluent materials to	-0.2042	0.0614	4	106	6486	643
+99	processes for applying liquids or other fluent materials to	-0.2544	0.3707	4	106	8248	644

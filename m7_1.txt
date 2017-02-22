@@ -1,0 +1,9 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+436	"producing a reactive propulsive thrust, not otherwise provided"	-0.7947	-0.4826	2	7	338	16
+530	measurement of nuclear or x-radiation	0.7628	0.2409	1	7	1470	16
+531	geophysics	0.8783	-0.2508	1	7	1140	16
+594	techniques for handling particles or ionising radiation not otherwise provide	0.1026	0.246	1	7	2727	15
+601	electric discharge tubes or discharge lamps	-0.3381	-0.3152	2	7	1052	16
+643	x-ray technique	0.2676	-0.4396	1	7	1811	14
+644	plasma technique	-0.575	0.2106	2	7	1825	16
+72	electrotherapy	-0.3036	0.7908	2	7	521	15

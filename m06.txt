@@ -1,0 +1,68 @@
+id	label	cluster	weight
+103	cleaning in general	6	647
+105	reclamation of contaminated soil	6	613
+106	rolling of metal	6	630
+107	"manufacture of metal sheets, wire, rods, tubes or profiles, otherwise than by"	6	637
+108	"working or processing of sheet metal or metal tubes, rods or profiles without"	6	641
+109	working or processing of metal wire	6	609
+110	"making needles, pins or nails of metal"	6	508
+111	"making particular metal objects by rolling, e.g. screws, wheels,"	6	557
+112	forging	6	616
+113	"making forged or pressed metal products, e.g. horse-shoes, rivets,"	6	608
+116	casting of metals	6	640
+117	working metallic powder	6	642
+118	turning	6	636
+119	milling	6	602
+120	planing	6	635
+121	making gears or toothed racks	6	491
+122	thread cutting	6	525
+123	working of metal by the action of a high concentration of electric current on	6	620
+124	soldering or unsoldering	6	649
+125	other working of metal	6	645
+126	"details, components, or accessories for machine tools, e.g."	6	646
+127	"machines, devices, or processes for grinding or polishing"	6	641
+128	abrasive or related blasting with particulate material	6	628
+129	"tools for grinding, buffing, or sharpening"	6	629
+130	"tools or bench devices not otherwise provided for, for fastening, connecting,"	6	638
+131	hand-held nailing or stapling tools	6	604
+132	percussive tools	6	592
+133	combination or multi-purpose tools not otherwise provided for	6	615
+134	handles for hand implements	6	608
+135	"workshop equipment, e.g. for marking-out work"	6	625
+137	hand-held cutting tools not otherwise provided for	6	621
+138	cutting	6	639
+140	saws for wood or similar material	6	616
+141	"planing, drilling, milling, turning or universal machines for"	6	562
+144	accessory machines or apparatus	6	598
+153	working stone or stone-like materials	6	618
+165	"additive manufacturing, i.e. manufacturing of three-dimensional [3-d] objects"	6	556
+263	"manufacture, shaping, or supplementary processes"	6	641
+264	"chemical composition of glasses, glazes, or vitreous enamels"	6	644
+265	"lime, magnesia"	6	645
+295	polishing compositions other than french polish	6	596
+298	"materials for miscellaneous applications, not provided for elsewhere"	6	651
+302	cracking hydrocarbon oils	6	638
+330	modifying the physical structure of ferrous metals	6	634
+332	alloys	6	636
+333	changing the physical structure of non-ferrous metals and non-	6	610
+334	coating metallic material	6	647
+335	"enamelling of, or applying a vitreous layer to, metals"	6	482
+336	non-mechanical removal of metallic material from surface	6	634
+337	cleaning or degreasing of metallic material by chemical	6	615
+340	processes for the electrolytic or electrophoretic production	6	638
+341	processes for the electrolytic removal of materials from objects	6	593
+342	single-crystal-growth	6	633
+411	"earth drilling, e.g. deep drilling"	6	648
+412	mining or quarrying	6	610
+413	shafts	6	612
+414	"safety devices, transport, filling-up, rescue, ventilation, or draining in or"	6	602
+458	safety devices in general	6	608
+51	brushes	6	632
+52	manufacture of brushes	6	592
+550	systems for regulating electric or magnetic variables	6	610
+597	resistors	6	625
+62	diagnosis	6	650
+63	dentistry	6	642
+647	"capture, storage, sequestration or disposal of greenhouse gases [ghg]"	6	622
+653	technical subjects covered by former uspc cross-reference art collections [xr	6	653
+654	technical subjects covered by former us classification	6	653

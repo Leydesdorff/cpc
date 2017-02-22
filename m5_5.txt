@@ -1,0 +1,9 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+11	preservation of bodies of humans or animals or plants or parts thereof	0.0759	-0.4378	2	7	874	95
+15	slaughtering	0.6925	0.3036	3	7	1067	62
+16	"processing meat, poultry, or fish"	1.0254	0.1468	3	6	982	80
+17	"preserving, e.g. by canning, meat, fish, eggs, fruit, vegetables, edible seed"	0.5344	-0.344	2	7	729	91
+64	"veterinary instruments, implements, tools, or methods"	-0.452	-0.2274	1	7	804	75
+7	manufacture of dairy products	-0.5666	0.5588	1	7	400	58
+8	animal husbandry	-0.5035	0.2317	1	7	870	91
+9	shoeing of animals	-0.8061	-0.2317	1	6	152	20

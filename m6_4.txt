@@ -1,0 +1,13 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+105	reclamation of contaminated soil	-0.1437	0.1758	1	11	4551	39
+298	"materials for miscellaneous applications, not provided for elsewhere"	-0.085	0.6205	1	11	4362	54
+302	cracking hydrocarbon oils	-0.4188	-0.1375	1	11	5699	43
+330	modifying the physical structure of ferrous metals	-0.8099	-0.3117	1	11	5159	64
+411	"earth drilling, e.g. deep drilling"	0.3005	0.0544	2	11	7142	62
+412	mining or quarrying	1.0459	0.1147	2	11	608	52
+413	shafts	1.1075	-0.0818	2	11	641	52
+414	"safety devices, transport, filling-up, rescue, ventilation, or draining in or"	0.8443	-0.1444	2	11	1466	37
+550	systems for regulating electric or magnetic variables	-0.4496	-0.644	1	11	4090	33
+597	resistors	-0.853	0.1692	1	11	3572	57
+647	"capture, storage, sequestration or disposal of greenhouse gases [ghg]"	-0.006	-0.3848	1	11	6744	34
+653	technical subjects covered by former uspc cross-reference art collections [xr	-0.5323	0.5696	1	11	2528	66

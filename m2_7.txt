@@ -1,0 +1,5 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+346	"mechanical methods or apparatus in the manufacture of artificial filaments, t"	-0.2864	0.5553	1	3	2464	99
+347	"chemical features in the manufacture of artificial filaments, threads, fibres"	0.1964	-0.4801	1	3	3219	96
+352	"finishing or dressing of filaments, yarns, threads, cords, ropes"	0.6807	0.1643	1	3	1988	87
+360	"making textile fabrics, e.g. from fibres or filamentary material"	-0.5908	-0.2395	1	3	2613	104

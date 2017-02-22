@@ -1,0 +1,6 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+266	phosphatic fertilisers	-0.6744	-0.0991	1	4	5120	69
+267	nitrogenous fertilisers	-0.1058	-0.6189	1	4	5199	71
+268	"inorganic fertilisers not covered by subclasses c05b, c05c"	-0.2794	0.5676	1	4	5665	68
+269	"organic fertilisers not covered by subclasses c05b, c05c, e.g."	0.6024	-0.2923	1	4	4551	86
+270	mixtures of fertilisers covered individually by different subclasses of class	0.4572	0.4427	1	4	5445	81

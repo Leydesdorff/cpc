@@ -1,0 +1,6 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+120	planing	-0.2507	0.5429	1	4	5995	60
+138	cutting	-0.7355	-0.0832	1	4	3299	60
+140	saws for wood or similar material	0.5947	-0.3099	1	4	6152	49
+144	accessory machines or apparatus	-0.0894	-0.5808	1	4	6274	46
+458	safety devices in general	0.4809	0.4309	1	4	6226	43

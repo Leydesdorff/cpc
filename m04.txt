@@ -1,0 +1,100 @@
+id	label	cluster	weight
+100	methods or apparatus for generating or transmitting mechanical vibrations of	4	628
+179	books	4	632
+252	"micro-structural devices or systems, e.g. micro-mechanical"	4	622
+253	processes or apparatus specially adapted for the manufacture or treatment of	4	623
+255	specific uses or applications of nano-structures	4	645
+515	"measuring length, thickness or similar linear dimensions"	4	643
+516	"measuring distances, levels or bearings"	4	643
+517	measuring not specially adapted for a specific variable	4	641
+518	"measuring volume, volume flow, mass flow or liquid level"	4	646
+520	"measurement of mechanical vibrations or ultrasonic, sonic"	4	611
+521	"measurement of intensity, velocity, spectral content, polarisation, phase or"	4	637
+522	measuring temperature	4	641
+523	"measuring force, stress, torque, work, mechanical power,"	4	641
+524	testing static or dynamic balance of machines or structures	4	643
+526	"measuring linear or angular speed, acceleration, deceleration, or shock"	4	635
+527	scanning-probe techniques or apparatus	4	589
+528	measuring electric variables	4	644
+529	radio direction-finding	4	640
+533	"optical elements, systems, or apparatus"	4	648
+535	"devices or arrangements, the optical operation of which is modified by changi"	4	641
+536	apparatus or arrangements for taking photographs or for projecting or viewing	4	643
+541	holographic processes or apparatus	4	611
+542	mechanically-driven clocks or watches	4	606
+543	electromechanical clocks or watches	4	579
+544	apparatus or tools specially designed for making or maintaining clocks or wat	4	494
+545	time-interval measuring	4	597
+546	electronic time-pieces	4	607
+547	radio-controlled time-pieces	4	455
+548	control or regulating systems in general	4	647
+551	control devices or systems insofar as characterised by	4	626
+554	optical computing devices	4	479
+555	electrical digital data processing	4	653
+556	analogue computers	4	567
+557	hybrid computing arrangements	4	445
+558	recognition of data	4	649
+560	computer systems based on specific computational models	4	631
+561	"data processing systems or methods, specially adapted for administrative, com"	4	651
+562	"image data processing or generation, in general"	4	644
+563	ticket-issuing apparatus	4	610
+564	time or attendance registers	4	644
+565	"handling of coins or of paper currency or similar valuable papers, e.g. testi"	4	631
+566	coin-freed or like apparatus	4	646
+567	"registering the receipt of cash, valuables, or tokens"	4	613
+568	signalling or calling systems	4	646
+569	"transmission systems for measured values, control or similar"	4	621
+570	traffic control systems	4	630
+571	educational or demonstration appliances	4	644
+572	coding or ciphering apparatus for cryptographic or other	4	499
+575	arrangements or circuits for control of indicating devices using static means	4	637
+576	organs	4	166
+577	"pianos, harpsichords, spinets or similar stringed musical"	4	501
+578	"stringed musical instruments; wind musical instruments; accordions or ..."	4	621
+579	automatic musical instruments	4	382
+580	aids for music	4	546
+581	electrophonic musical instruments	4	617
+582	sound-producing devices	4	639
+583	speech analysis or synthesis	4	616
+584	information storage based on relative movement between	4	648
+585	static stores	4	635
+586	"constructional details of instruments, or comparable details of other apparat"	4	581
+598	magnets	4	646
+599	"capacitors; capacitors, rectifiers, detectors, switching devices or ..."	4	637
+600	electric switches	4	643
+603	semiconductor devices	4	653
+605	waveguides	4	619
+606	aerials	4	641
+607	line connectors	4	647
+608	devices using stimulated emission	4	636
+610	"boards, substations, or switching arrangements for the supply"	4	607
+611	"installation of electric cables or lines, or of combined optical"	4	645
+612	emergency protective circuit arrangements	4	615
+613	circuit arrangements or systems for supplying or distributing electric power	4	641
+615	"apparatus for conversion between ac and ac, between ac and dc, or between dc"	4	631
+616	electric machines not otherwise provided for	4	625
+619	"generation of oscillations, directly or by frequency-changing, by circuits em"	4	583
+620	modulation	4	542
+621	demodulation or transference of modulation from one carrier	4	571
+622	amplifiers	4	607
+623	control of amplification	4	592
+624	"impedance networks, e.g. resonant circuits"	4	619
+625	tuning resonant circuits	4	566
+626	pulse technique	4	627
+627	"automatic control, starting, synchronisation, or stabilisation of generators"	4	593
+628	coding	4	624
+629	transmission	4	643
+630	broadcast communication	4	613
+631	multiplex communication	4	616
+632	secret communication	4	580
+633	"transmission of digital information, e.g. telegraphic"	4	647
+634	telephonic communication	4	643
+635	"pictorial communication, e.g. television"	4	650
+636	selecting	4	629
+637	"loudspeakers, microphones, gramophone pick-ups or like acoustic electromechan"	4	641
+638	stereophonic systems	4	539
+639	wireless communications networks	4	639
+645	printed circuits	4	650
+646	indexing scheme relating to climate change mitigation technologies related to	4	650
+652	"systems integrating technologies related to power network operation, communic"	4	615
+80	"card, board, or roulette games"	4	639

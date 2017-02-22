@@ -1,0 +1,101 @@
+id	label	cluster	weight
+194	"arrangements or adaptations of heating, cooling, ventilating, or other air-tr"	3	639
+256	non-metallic elements	3	647
+257	ammonia	3	563
+258	"compounds of alkali metals, i.e. lithium, sodium, potassium,"	3	555
+259	"compounds of the metals beryllium, magnesium, aluminium, calcium, strontium,"	3	605
+260	compounds containing metals not covered	3	617
+261	indexing scheme relating to structural and physical aspects of solid inorgani	3	635
+299	"destructive distillation of carbonageous materials for production of gas, cok"	3	616
+300	"working-up pitch, asphalt, bitumen, tar"	3	525
+301	drying or working-up of peat	3	310
+303	production of acetylene by wet methods	3	167
+304	"production of producer gas, water-gas, synthesis gas from solid carbonaceous"	3	596
+305	purifying or modifying the chemical composition of combustible gases containi	3	568
+306	fuels not otherwise provided for	3	632
+307	lubricating compositions	3	629
+308	indexing scheme associated with subclass c10m relating to lubricating composi	3	621
+313	distillation or rectification of fermented solutions	3	424
+328	manufacture of iron or steel	3	592
+329	"processing of pig-iron, e.g. refining, manufacture of wrought- iron or steel"	3	596
+331	production and refining of metals	3	629
+338	electrolytic or electrophoretic processes for the production of compounds or	3	624
+339	"processes for the electrolytic production, recovery or refining of metals"	3	598
+415	"machines or engines, in general or of positive-displacement"	3	599
+416	rotary-piston or oscillating-piston machines or engines	3	604
+417	"non-positive displacement machines or engines, e.g. steam"	3	646
+418	steam engine plants	3	611
+419	cyclically operating valves for machines or engines	3	619
+420	lubricating of machines or engines in general	3	622
+421	gas-flow silencers or exhaust apparatus for machines or engines in general	3	635
+422	cooling of machines or engines in general	3	621
+423	internal-combustion piston engines	3	643
+424	gas-turbine plants	3	638
+425	controlling combustion engines	3	632
+426	"cylinders, pistons or casings, for combustion engines"	3	625
+427	hot gas or combustion-product positive-displacement engine	3	612
+428	jet-propulsion plants	3	629
+429	"supplying combustion engines in general, with combustible"	3	643
+430	starting of combustion engines	3	594
+431	"ignition, other than compression ignition, for internal- combustion engines"	3	605
+433	positive-displacement engines driven by liquids	3	500
+435	"spring, weight, inertia or like motors"	3	632
+437	positive displacement machines for liquids	3	646
+438	"rotary-piston, or oscillating-piston, positive-displacement machines for liqu"	3	633
+439	non-positive displacement pumps	3	642
+440	pumping of fluid by direct contact of another fluid or by using	3	620
+442	"indexing scheme relating to materials, material properties or material charac"	3	629
+443	indexing scheme for aspects relating to non-positive- displacement machines o	3	643
+444	systems acting by means of fluids in general	3	640
+445	fluid-circuit elements predominantly used for computing or	3	591
+446	"fluid dynamics, i.e. methods or means for influencing the flow of"	3	618
+453	pistons	3	644
+454	valves	3	647
+457	lubricating	3	633
+460	steam traps or like apparatus for draining-off liquids from enclosures predom	3	488
+461	gas-holders of variable capacity	3	319
+462	"vessels for containing or storing compressed, liquefied or solidified gases"	3	644
+463	pipe-line systems	3	627
+464	mantles	3	239
+471	methods of steam generation	3	629
+472	"preheating, or accumulating preheated, feed-water"	3	485
+473	superheating of steam	3	472
+474	methods or apparatus for combustion using only solid fuel	3	509
+475	combustion apparatus using fluent fuel	3	618
+476	burners	3	632
+477	cremation furnaces	3	620
+478	grates	3	390
+479	removal or treatment of combustion products or combustion	3	612
+480	feeding fuel to combustion apparatus	3	600
+481	air supply	3	597
+482	"casings, linings, walls or doors specially adapted for combustion chambers, e"	3	605
+483	regulating or controlling combustion	3	623
+484	ignition	3	596
+485	generating combustion products of high pressure or high	3	613
+486	domestic stoves or ranges for solid fuels	3	582
+487	other domestic stoves or ranges	3	632
+488	"domestic- or space-heating systems, e.g. central heating systems"	3	628
+489	"air-conditioning, air-humidification, ventilation, use of air"	3	650
+490	"fluid heaters, e.g. water or air heaters, having heat generating"	3	632
+491	producing or use of heat not otherwise provided for	3	644
+492	"refrigeration machines, plants or systems"	3	641
+495	"liquefaction, solidification or separation of gases or gaseous"	3	583
+497	"furnaces, kilns, ovens, or retorts in general"	3	629
+498	"details or accessories of furnaces, kilns, ovens, or retorts, in so far as th"	3	637
+499	"indexing scheme relating to aspects of the charges or furnaces, kilns, ovens"	3	474
+500	steam or vapour condensers	3	532
+501	"heat-exchange apparatus, not provided for in another subclass, in which the h"	3	595
+502	"heat-exchange apparatus, not provided for in another subclass, in which the h"	3	642
+503	"details of heat-exchange and heat-transfer apparatus, of"	3	645
+504	cleaning of internal or external surfaces of heat-exchange or heat-transfer c	3	587
+604	"processes or means, e.g. batteries, for the direct conversion of"	3	649
+609	spark gaps	3	614
+618	"generation of electric power by conversion of infra-red radiation, visible li"	3	627
+648	"reduction of greenhouse gases [ghg] emission, related to energy generation, t"	3	652
+649	climate change mitigation technologies in the production or processing of goo	3	651
+650	climate change mitigation technologies related to transportation	3	650
+76	chemical means for extinguishing fires or for combating or protecting against	3	613
+85	boiling	3	549
+86	separation	3	650
+88	"chemical or physical processes, e.g. catalysis, colloid chemistry"	3	649
+93	magnetic or electrostatic separation of solid materials from solid materials	3	640

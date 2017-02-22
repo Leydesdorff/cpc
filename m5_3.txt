@@ -1,0 +1,19 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+254	"nano-structures formed by manipulation of individual atoms, molecules, or lim"	0.3599	-0.8894	3	17	1936	52
+275	general methods of organic chemistry	0.0097	-0.6551	3	17	7026	70
+276	acyclic or carbocyclic compounds	-0.5411	-0.2798	1	17	3016	87
+277	heterocyclic compounds	-0.843	-0.317	1	17	3987	76
+278	"acyclic, carbocyclic or heterocyclic compounds containing elements other than"	-0.6328	-0.5647	1	17	2957	75
+280	sugars	-0.0983	-0.2074	3	17	7802	75
+281	steroids	-0.8888	0.0874	1	17	1362	63
+282	peptides	-0.2964	0.3268	4	17	7159	75
+318	apparatus for enzymology or microbiology	0.6924	0.4964	2	17	3120	91
+319	"micro-organisms or enzymes; compositions thereof"	-0.0205	0.4957	4	17	8445	85
+320	fermentation or enzyme-using processes to synthesise a desired chemical compo	0.0013	0.801	4	17	5495	88
+321	measuring or testing processes involving enzymes or micro- organisms	0.3235	0.0689	2	17	8370	74
+323	enzymes	-0.4348	0.7646	4	17	6241	81
+343	combinatorial chemistry	0.4316	-0.4304	3	17	8237	67
+525	investigating or analysing materials by determining their	0.6211	-0.0915	2	17	7403	94
+69	"preparations for medical, dental, or toilet purposes"	-0.631	0.2831	1	17	6379	90
+87	"mixing, e.g. dissolving, emulsifying, dispersing"	0.9527	0.2219	2	17	3437	93
+89	chemical or physical laboratory apparatus for general use	0.9945	-0.1105	2	17	6134	78

@@ -1,0 +1,101 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+194	"arrangements or adaptations of heating, cooling, ventilating, or other air-tr"	0.4928	0.1059	4	87	3739	639
+256	non-metallic elements	-0.2127	0.5885	1	99	10193	647
+257	ammonia	-0.3144	0.4709	1	93	2388	563
+258	"compounds of alkali metals, i.e. lithium, sodium, potassium,"	-0.5131	0.81	1	74	2210	555
+259	"compounds of the metals beryllium, magnesium, aluminium, calcium, strontium,"	-0.4318	0.8757	1	89	3509	605
+260	compounds containing metals not covered	-0.6104	0.8991	1	89	4802	617
+261	indexing scheme relating to structural and physical aspects of solid inorgani	-0.5061	0.9652	1	89	4127	635
+299	"destructive distillation of carbonageous materials for production of gas, cok"	-0.6616	0.2931	6	94	4050	616
+300	"working-up pitch, asphalt, bitumen, tar"	-0.7103	0.4272	6	71	1008	525
+301	drying or working-up of peat	-0.8139	0.3051	6	56	640	310
+303	production of acetylene by wet methods	0.1672	0.7125	1	46	249	167
+304	"production of producer gas, water-gas, synthesis gas from solid carbonaceous"	-0.5961	0.1676	6	95	7442	596
+305	purifying or modifying the chemical composition of combustible gases containi	-0.6881	0.1929	6	91	7426	568
+306	fuels not otherwise provided for	-0.3177	0.5723	6	96	7360	632
+307	lubricating compositions	0.2924	0.9162	6	84	3569	629
+308	indexing scheme associated with subclass c10m relating to lubricating composi	0.3325	0.9661	6	78	3443	621
+313	distillation or rectification of fermented solutions	-0.069	0.5887	1	78	2669	424
+328	manufacture of iron or steel	-1.0434	0.3215	1	85	3903	592
+329	"processing of pig-iron, e.g. refining, manufacture of wrought- iron or steel"	-0.9793	0.1998	1	82	4295	596
+331	production and refining of metals	-0.7975	0.5328	1	93	5797	629
+338	electrolytic or electrophoretic processes for the production of compounds or	-0.4264	0.688	1	95	3104	624
+339	"processes for the electrolytic production, recovery or refining of metals"	-0.6727	0.7205	1	76	1120	598
+415	"machines or engines, in general or of positive-displacement"	1.0488	-0.0214	2	84	5589	599
+416	rotary-piston or oscillating-piston machines or engines	0.9861	-0.3023	2	82	3856	604
+417	"non-positive displacement machines or engines, e.g. steam"	0.6021	-0.7099	7	92	6155	646
+418	steam engine plants	0.1586	-0.2702	2	98	8406	611
+419	cyclically operating valves for machines or engines	1.1955	0.3627	5	80	4062	619
+420	lubricating of machines or engines in general	0.941	0.176	5	88	3414	622
+421	gas-flow silencers or exhaust apparatus for machines or engines in general	0.5671	0.4802	5	96	5727	635
+422	cooling of machines or engines in general	0.7852	0.208	5	90	4038	621
+423	internal-combustion piston engines	0.8879	0.3517	5	99	11300	643
+424	gas-turbine plants	0.2785	-0.689	7	98	11100	638
+425	controlling combustion engines	0.974	0.5739	5	89	7709	632
+426	"cylinders, pistons or casings, for combustion engines"	1.1207	0.2091	5	90	5184	625
+427	hot gas or combustion-product positive-displacement engine	0.5271	-0.0874	2	99	8141	612
+428	jet-propulsion plants	0.5604	-0.8728	7	88	3791	629
+429	"supplying combustion engines in general, with combustible"	0.7377	0.4233	5	97	7326	643
+430	starting of combustion engines	1.0402	0.4392	5	69	3062	594
+431	"ignition, other than compression ignition, for internal- combustion engines"	0.8149	0.5545	5	85	4331	605
+433	positive-displacement engines driven by liquids	1.1011	-0.2398	2	58	1273	500
+435	"spring, weight, inertia or like motors"	0.5004	-0.2061	2	94	4752	632
+437	positive displacement machines for liquids	0.7093	-0.266	2	94	6144	646
+438	"rotary-piston, or oscillating-piston, positive-displacement machines for liqu"	0.8916	-0.2981	2	86	3606	633
+439	non-positive displacement pumps	0.3005	-0.4227	4	96	5690	642
+440	pumping of fluid by direct contact of another fluid or by using	0.3414	-0.5155	4	87	1941	620
+442	"indexing scheme relating to materials, material properties or material charac"	0.9406	-0.0693	2	94	4411	629
+443	indexing scheme for aspects relating to non-positive- displacement machines o	0.4119	-0.7446	7	96	8758	643
+444	systems acting by means of fluids in general	0.6731	-0.1419	2	90	4561	640
+445	fluid-circuit elements predominantly used for computing or	0.5706	-0.4035	2	78	2820	591
+446	"fluid dynamics, i.e. methods or means for influencing the flow of"	0.4513	-0.4518	2	93	1857	618
+453	pistons	0.7779	-0.1492	2	93	2319	644
+454	valves	0.4324	-0.303	2	94	4434	647
+457	lubricating	0.8485	0.0538	5	88	1739	633
+460	steam traps or like apparatus for draining-off liquids from enclosures predom	0.1851	-0.4068	4	70	505	488
+461	gas-holders of variable capacity	0.3513	0.0601	2	42	204	319
+462	"vessels for containing or storing compressed, liquefied or solidified gases"	0.185	0.1724	2	98	2502	644
+463	pipe-line systems	0.188	0.0593	2	97	4075	627
+464	mantles	-0.8801	-0.2617	3	37	247	239
+471	methods of steam generation	-0.2146	-0.3592	4	97	6679	629
+472	"preheating, or accumulating preheated, feed-water"	-0.0412	-0.4341	4	91	1990	485
+473	superheating of steam	-0.1631	-0.4532	4	90	2340	472
+474	methods or apparatus for combustion using only solid fuel	-0.8052	-0.5383	3	89	4404	509
+475	combustion apparatus using fluent fuel	-0.4129	-0.6185	3	97	12339	618
+476	burners	-0.4439	-0.8195	3	96	8011	632
+477	cremation furnaces	-0.7485	-0.3223	3	97	9678	620
+478	grates	-0.9459	-0.6362	3	54	1915	390
+479	removal or treatment of combustion products or combustion	-0.5922	-0.1217	3	97	7273	612
+480	feeding fuel to combustion apparatus	-0.51	-0.409	3	97	9549	600
+481	air supply	-0.6474	-0.5327	3	96	10958	597
+482	"casings, linings, walls or doors specially adapted for combustion chambers, e"	-0.5373	-0.6541	3	96	8566	605
+483	regulating or controlling combustion	-0.2875	-0.8565	3	94	8384	623
+484	ignition	-0.3048	-0.7431	3	84	2773	596
+485	generating combustion products of high pressure or high	-0.0477	-0.9665	3	91	6811	613
+486	domestic stoves or ranges for solid fuels	-0.7404	-0.7413	3	77	2132	582
+487	other domestic stoves or ranges	-0.5527	-0.7818	3	86	2998	632
+488	"domestic- or space-heating systems, e.g. central heating systems"	-0.0299	-0.5419	4	97	4090	628
+489	"air-conditioning, air-humidification, ventilation, use of air"	0.2357	-0.124	4	97	4540	650
+490	"fluid heaters, e.g. water or air heaters, having heat generating"	-0.1356	-0.6802	4	98	5744	632
+491	producing or use of heat not otherwise provided for	-0.5072	-0.2373	3	95	4483	644
+492	"refrigeration machines, plants or systems"	0.3768	-0.1449	4	95	4952	641
+495	"liquefaction, solidification or separation of gases or gaseous"	-0.1284	0.1384	2	92	2640	583
+497	"furnaces, kilns, ovens, or retorts in general"	-1.0054	0.0602	1	95	5317	629
+498	"details or accessories of furnaces, kilns, ovens, or retorts, in so far as th"	-0.8663	0.0149	1	97	6127	637
+499	"indexing scheme relating to aspects of the charges or furnaces, kilns, ovens"	-1.1039	0.0628	1	73	2207	474
+500	steam or vapour condensers	0.001	-0.2476	4	90	2324	532
+501	"heat-exchange apparatus, not provided for in another subclass, in which the h"	-0.2784	0.1013	4	95	3646	595
+502	"heat-exchange apparatus, not provided for in another subclass, in which the h"	0.0014	-0.0158	4	99	7501	642
+503	"details of heat-exchange and heat-transfer apparatus, of"	-0.0157	-0.0944	4	97	6799	645
+504	cleaning of internal or external surfaces of heat-exchange or heat-transfer c	-0.1888	-0.2238	4	91	1427	587
+604	"processes or means, e.g. batteries, for the direct conversion of"	-0.1367	0.6955	1	97	5977	649
+609	spark gaps	0.3866	0.427	4	83	2674	614
+618	"generation of electric power by conversion of infra-red radiation, visible li"	-0.7322	-0.2095	3	81	2355	627
+648	"reduction of greenhouse gases [ghg] emission, related to energy generation, t"	-0.2803	0.2083	1	99	12070	652
+649	climate change mitigation technologies in the production or processing of goo	-0.4591	0.456	1	99	9159	651
+650	climate change mitigation technologies related to transportation	0.6372	0.24	5	99	12891	650
+76	chemical means for extinguishing fires or for combating or protecting against	-0.5943	0.4226	1	92	2270	613
+85	boiling	-0.4159	-0.036	3	93	3935	549
+86	separation	0.0225	0.3584	1	99	8017	650
+88	"chemical or physical processes, e.g. catalysis, colloid chemistry"	-0.1562	0.3989	1	99	8440	649
+93	magnetic or electrostatic separation of solid materials from solid materials	0.2422	0.3479	4	92	3067	640

@@ -1,0 +1,16 @@
+id	label	cluster	weight
+10	catching or trapping of animals	8	644
+151	"shaping clay or other ceramic compositions, slag, or mixtures containing ceme"	8	642
+152	preparing clay	8	618
+160	"making boxes, cartons, envelopes or bags of paper or cardboard"	8	632
+162	making articles of paper or cardboard not provided for in	8	627
+163	mechanical working or deformation of paper or cardboard	8	630
+186	producing decorative effects	8	638
+188	special designs or pictures	8	625
+235	"machines, apparatus or devices for, or methods of, packaging"	8	647
+237	"containers for storage or transport of articles or materials,"	8	652
+37	artificial flowers	8	598
+5	horticulture	8	649
+56	"special furniture, fittings, or accessories for shops, storehouses, bars, res"	8	644
+57	household or table equipment	8	645
+574	displaying	8	648

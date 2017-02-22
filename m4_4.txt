@@ -1,0 +1,14 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+528	measuring electric variables	-0.0092	-0.1195	2	12	1705	94
+569	"transmission systems for measured values, control or similar"	0.786	0.6567	3	12	1295	97
+598	magnets	0.1487	-0.6639	2	12	1477	98
+600	electric switches	-0.4212	0.5112	1	12	1748	98
+607	line connectors	-0.7184	-0.2886	1	12	1555	94
+610	"boards, substations, or switching arrangements for the supply"	-0.8691	0.2527	1	12	964	76
+611	"installation of electric cables or lines, or of combined optical"	-0.9464	-0.0336	1	12	984	88
+612	emergency protective circuit arrangements	-0.0542	0.4843	1	12	2025	86
+613	circuit arrangements or systems for supplying or distributing electric power	0.4468	-0.2225	2	12	3267	93
+615	"apparatus for conversion between ac and ac, between ac and dc, or between dc"	0.7138	-0.6123	2	12	1985	90
+645	printed circuits	-0.4224	-0.3412	1	12	1572	96
+646	indexing scheme relating to climate change mitigation technologies related to	0.8107	-0.0203	3	12	2936	96
+652	"systems integrating technologies related to power network operation, communic"	0.5348	0.397	3	12	3073	90

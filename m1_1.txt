@@ -1,0 +1,28 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+199	vehicle passenger accommodation not otherwise provided for	-0.3352	0.7994	2	25	1417	127
+217	"hand-propelled vehicles, e.g. hand carts, perambulators"	-0.3558	-0.2678	1	25	1280	123
+218	vehicles drawn by animals	-0.9634	-0.7371	4	17	190	46
+238	gathering or removal of domestic or like refuse	0.5077	-0.4093	3	23	441	120
+248	harness	-0.9077	-0.6503	4	18	386	50
+249	b68c	-0.8556	-0.5234	4	22	330	61
+251	"methods, equipment, or machines for use in upholstering"	-0.9944	0.8042	2	19	938	73
+410	ladders	-0.0098	-0.3169	1	23	270	114
+456	"frames, casings, or beds of engines or other machines or apparatus not specif"	-0.2558	0.0947	1	25	1039	131
+47	walking sticks	-0.0555	-0.0469	1	25	586	105
+48	purses	-0.2251	-0.638	1	25	1390	113
+50	travelling or camp equipment	-0.0533	-0.5098	1	25	1544	115
+519	weighing	0.1339	0.5823	2	23	1047	120
+53	tables	-0.3778	-0.0109	1	25	1008	123
+54	chairs	-0.7158	0.639	2	24	2721	125
+55	furniture specially adapted for children	-0.2947	0.4589	2	25	1102	95
+553	digital fluid-pressure computing devices	0.9119	-0.3924	3	3	21	8
+66	transport or accomodation for patients	-0.5138	0.4072	2	25	1858	126
+67	"physical therapy apparatus, e.g. devices for locating or stimulating reflex p"	-0.0708	0.321	1	26	981	120
+75	fire-fighting	0.6761	-0.4213	3	23	290	126
+77	"apparatus for physical training, gymnastics, swimming, climbing,"	0.3792	0.184	1	25	831	126
+78	skates	0.2253	-0.0179	1	25	588	122
+79	bowling-alleys	0.212	0.2235	1	22	141	86
+81	merry-go-rounds	1.0039	-0.0578	3	24	1087	118
+82	"toys, e.g. tops, dolls, hoops, building blocks"	1.1145	0.3055	3	24	1839	129
+83	"devices for theatres, circuses, or the like"	1.3419	0.212	3	20	1878	109
+84	racing	0.4781	-0.0318	1	24	241	102

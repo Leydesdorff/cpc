@@ -1,0 +1,12 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+311	detergent compositions	-0.4406	0.3606	1	10	1796	93
+366	"laundering, drying, ironing, pressing or folding textile articles"	-0.692	-0.2067	1	10	1458	93
+367	"mechanical or pressure cleaning of carpets, rugs, sacks, hides or other skin"	-0.9567	-0.0718	1	10	1110	72
+370	"bleaching, e.g. optical bleaching, dry-cleaning or washing fibres, threads, y"	-0.7796	0.1668	1	9	2660	79
+371	"treatment, not provided for elsewhere in class d06, of fibres, threads, yarns"	-0.2207	0.1198	1	10	2083	103
+380	paper-making machines	0.7724	-0.3363	2	10	2318	90
+381	"calenders; accessories for paper-making machines"	0.6588	-0.6219	2	9	898	82
+382	pulp compositions	0.5433	-0.1394	2	10	2337	99
+496	drying solid materials or objects by removing liquid therefrom	-0.326	-0.3046	1	10	1463	96
+60	sanitary equipment not otherwise provided for	0.6954	0.4177	3	10	1068	103
+642	static electricity	0.7456	0.6158	3	10	513	82

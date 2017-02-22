@@ -1,0 +1,9 @@
+id	label	cluster	weight
+465	light sources not otherwise provided for	9	623
+466	"lighting devices or systems thereof, being portable or specially adapted for"	9	608
+467	non-portable lighting devices or systems thereof	9	638
+468	"details of lighting devices, of general application"	9	642
+469	"indexing scheme associated with subclasses f21k, f21l, f21s and f21v, relatin"	9	632
+470	"indexing scheme associated with subclasses f21k, f21l, f21s and f21v, relatin"	9	629
+602	electric incandescent lamps	9	588
+640	electric heating	9	646

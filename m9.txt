@@ -1,0 +1,9 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+465	light sources not otherwise provided for	-0.0555	0.731	1	7	7804	623
+466	"lighting devices or systems thereof, being portable or specially adapted for"	0.9284	-0.1837	1	7	2225	608
+467	non-portable lighting devices or systems thereof	-0.0633	0.0112	1	7	7654	638
+468	"details of lighting devices, of general application"	0.3718	-0.4503	1	7	8646	642
+469	"indexing scheme associated with subclasses f21k, f21l, f21s and f21v, relatin"	-0.5759	0.3683	1	7	7385	632
+470	"indexing scheme associated with subclasses f21k, f21l, f21s and f21v, relatin"	0.5009	0.4129	1	7	8648	629
+602	electric incandescent lamps	-0.8426	-0.2587	1	7	1308	588
+640	electric heating	-0.2638	-0.6307	1	7	5656	646

@@ -1,0 +1,6 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+588	nuclear reactors	0.7204	-0.3702	2	4	2116	16
+590	"protection against x-radiation, gamma radiation, corpuscular radiation or par"	-0.0976	0.384	1	4	1332	15
+591	conversion of chemical elements	-0.4442	-0.2583	1	4	851	15
+592	obtaining energy from radioactive sources	-0.8281	-0.0207	1	4	399	14
+595	"indexing scheme relating to nuclear reactors, power plants and explosives, to"	0.6495	0.2652	2	4	2502	15

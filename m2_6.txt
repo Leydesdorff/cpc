@@ -1,0 +1,11 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+284	treatment or chemical modification of rubbers	-0.6499	-0.6867	1	9	1239	54
+285	macromolecular compounds obtained by reactions only involving carbon-to-carbo	-0.7837	-0.1051	1	9	3815	98
+286	macromolecular compounds obtained otherwise than by reactions only involving	0.0665	0.6792	1	9	4619	101
+288	working-up	-0.1484	-0.2124	1	9	4506	104
+289	use of inorganic or non-macromolecular organic substances as	0.2412	-0.5184	2	9	5303	100
+290	compositions of macromolecular compounds	-0.2334	0.221	1	9	6044	103
+292	"treatment of inorganic materials, other than fibrous fillers,"	0.8919	-0.4298	2	9	1703	77
+293	"coating compositions, e.g. paints, varnishes or lacquers"	0.5819	-0.0117	2	9	4086	100
+297	adhesives	-0.6015	0.5776	1	9	2813	104
+596	cables	0.6354	0.4862	2	9	1170	99

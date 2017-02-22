@@ -1,0 +1,16 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+10	catching or trapping of animals	0.0107	-0.5131	1	14	5391	644
+151	"shaping clay or other ceramic compositions, slag, or mixtures containing ceme"	1.3652	0.0748	2	14	2464	642
+152	preparing clay	1.32	-0.0778	2	12	2847	618
+160	"making boxes, cartons, envelopes or bags of paper or cardboard"	0.4789	-0.114	2	14	11342	632
+162	making articles of paper or cardboard not provided for in	0.8537	0.0159	2	14	6490	627
+163	mechanical working or deformation of paper or cardboard	-0.1143	-0.1445	1	14	12067	630
+186	producing decorative effects	-0.681	-0.4286	1	14	12711	638
+188	special designs or pictures	-0.3612	-0.5312	1	14	14275	625
+235	"machines, apparatus or devices for, or methods of, packaging"	-0.4724	0.561	1	14	13453	647
+237	"containers for storage or transport of articles or materials,"	0.222	0.2388	1	14	11531	652
+37	artificial flowers	-0.9364	-0.0713	1	13	9888	598
+5	horticulture	-0.7677	0.3063	1	14	13610	649
+56	"special furniture, fittings, or accessories for shops, storehouses, bars, res"	-0.2907	0.2141	1	13	7006	644
+57	household or table equipment	-0.5433	-0.0619	1	14	14050	645
+574	displaying	-0.0832	0.5315	1	14	8029	648

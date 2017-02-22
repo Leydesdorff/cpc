@@ -1,0 +1,8 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+19	"edible oils of fats, e.g. margarines, shortenings, cooking oils"	0.5858	0.3184	2	6	4318	80
+23	fodder	-0.2325	-0.1905	1	6	2905	89
+28	indexing scheme relating to lactic or propionic acid bacteria used in foodstu	-0.9323	-0.1702	1	6	838	73
+309	"producing (pressing, extraction), refining and preserving fats, fatty substan"	0.478	-0.1934	2	6	4500	78
+310	"fatty acids from fats, oils or waxes"	-0.1395	0.3854	1	6	1106	78
+322	processes using micro-organisms	-0.7976	0.0478	1	6	995	77
+6	new plants or processes for obtaining them	1.0381	-0.1976	2	6	3676	52

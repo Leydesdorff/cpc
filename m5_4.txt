@@ -1,0 +1,10 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+22	protein compositions for foodstuffs	-0.6187	0.1403	1	8	506	85
+279	compounds of unknown constitution	1.0926	-0.1664	2	8	894	74
+283	"polysaccharides; derivatives thereof"	-0.0631	-0.6035	2	8	1123	90
+287	derivatives of natural macromolecular compounds	0.3995	-0.4022	2	8	1854	88
+294	natural resins	-0.3834	0.469	1	7	86	54
+296	preparation of glue or gelatine	-0.8869	-0.2134	1	7	202	63
+324	production of sucrose	0.1525	0.6067	3	8	840	83
+325	"saccharides, other than sucrose, obtained from natural sources or by hydrolys"	0.667	0.3411	3	8	1732	85
+73	specific use of cosmetics or similar toilet preparations	-0.3594	-0.1716	1	8	379	86

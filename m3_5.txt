@@ -1,0 +1,13 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+419	cyclically operating valves for machines or engines	0.08	-0.0551	1	11	3106	80
+420	lubricating of machines or engines in general	0.9931	-0.0229	1	11	2197	88
+421	gas-flow silencers or exhaust apparatus for machines or engines in general	-0.8779	0.3573	2	11	3236	96
+422	cooling of machines or engines in general	0.5228	-0.1951	1	11	2125	90
+423	internal-combustion piston engines	0.0461	0.3856	1	11	6862	99
+425	controlling combustion engines	-0.6062	-0.4279	2	11	6330	89
+426	"cylinders, pistons or casings, for combustion engines"	0.5397	0.3309	1	11	3065	90
+429	"supplying combustion engines in general, with combustible"	-0.1041	-0.5254	2	11	4662	97
+430	starting of combustion engines	-0.436	-0.022	2	11	2308	69
+431	"ignition, other than compression ignition, for internal- combustion engines"	-0.9531	-0.2126	2	11	3260	85
+457	lubricating	1.2552	-0.0594	1	11	881	88
+650	climate change mitigation technologies related to transportation	-0.4596	0.4465	2	11	5904	99

@@ -1,0 +1,20 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+139	perforating	0.6941	-0.5547	3	17	2302	107
+250	"making articles from leather, canvas, or the like"	-0.68	-0.4369	2	7	23	26
+326	"mechanical treatment or processing of skins, hides or leather in general"	-0.4058	-0.5151	2	15	410	81
+327	"chemical treatment of hides, skins or leather, e.g. tanning, impregnating, fi"	-0.0785	-0.7483	2	11	932	75
+351	"warping, beaming or leasing"	0.0026	0.6882	1	14	454	49
+353	shedding mechanisms	0.417	0.8621	1	16	517	53
+354	woven fabrics	0.563	0.4204	1	17	2386	98
+355	auxiliary weaving apparatus	0.2891	0.7341	1	16	950	76
+357	"braiding or manufacture of lace, including bobbin-net or carbonised lace"	1.1977	-0.3631	3	14	3140	80
+361	sewing	-0.9039	0.0452	4	17	2571	97
+362	embroidering	-0.6526	0.3502	4	17	1387	88
+363	"indexing scheme associated with subclasses d05b and d05c, relating to sewing,"	-0.9697	0.2469	4	18	2368	96
+364	"treating textile materials by liquids, gases or vapours"	0.1293	-0.4093	2	17	1533	101
+365	"finishing, dressing, tentering or stretching textile fabrics"	0.4359	-0.0127	1	17	2036	97
+368	"marking, inspecting, seaming or severing textile materials"	-0.2371	0.2598	1	18	1343	107
+369	"pleating, kilting, or goffering textile fabrics or wearing"	-0.0066	0.1734	1	13	293	65
+372	"wall, floor or like covering materials, e.g. linoleum, oilcloth, artificial l"	-0.0792	-0.4511	2	18	1430	105
+376	"indexing scheme associated with sublasses of section d, relating to textiles"	0.8568	-0.0884	3	18	3995	98
+38	"appliances or methods for making clothes, e.g. for dress-making,"	-0.5722	-0.2007	2	18	952	107

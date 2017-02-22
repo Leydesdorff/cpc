@@ -1,0 +1,9 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+299	"destructive distillation of carbonageous materials for production of gas, cok"	-0.4751	-0.1489	1	7	1292	94
+300	"working-up pitch, asphalt, bitumen, tar"	-0.6753	-0.2887	1	7	519	71
+301	drying or working-up of peat	-0.2328	-0.3412	1	5	319	56
+304	"production of producer gas, water-gas, synthesis gas from solid carbonaceous"	-0.6746	0.3471	2	7	2904	95
+305	purifying or modifying the chemical composition of combustible gases containi	-0.3927	0.3926	2	7	2771	91
+306	fuels not otherwise provided for	0.1428	0.0103	1	7	3346	96
+307	lubricating compositions	1.1231	-0.1236	3	6	2671	84
+308	indexing scheme associated with subclass c10m relating to lubricating composi	1.1846	0.1524	3	6	2638	78

@@ -1,0 +1,6 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+190	vehicle tyres	-0.6774	-0.0667	1	4	2283	117
+191	vehicle connections	-0.2313	0.6485	1	4	1400	116
+201	vehicle lighting or signalling	-0.1355	-0.585	1	4	3851	115
+202	"vehicles, vehicle fittings, or vehicle parts, not otherwise provided for"	0.4897	-0.3664	1	4	3765	131
+203	"servicing, cleaning, repairing, supporting, lifting, or manoeuvring of vehicl"	0.5545	0.3697	1	4	2521	119

@@ -1,0 +1,10 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+195	"windows, windscreens, non-fixed roofs, doors, or similar devices for vehicles"	-0.6588	-0.063	3	8	1096	127
+403	locks	0.559	0.4067	1	8	1768	122
+404	"bolts or fastening devices for wings, specially for doors"	0.8286	0.254	1	8	2095	121
+405	"hinges or other suspension devices for doors, windows or wings"	-0.0243	-0.2417	2	8	3219	121
+406	devices for moving wings into open or closed position	-0.4527	-0.6375	2	8	3149	124
+407	safes or strong-rooms for valuables	0.6942	-0.1837	1	8	538	99
+408	"indexing scheme relating to hinges or other suspension devices for doors, win"	0.0472	-0.6906	2	8	4100	126
+409	"fixed or movable closures for openings in buildings, vehicles, fences or like"	-0.3394	0.4515	3	8	1664	114
+58	furnishings for windows or doors	-0.6538	0.7042	3	8	437	96

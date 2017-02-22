@@ -1,0 +1,20 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+115	foundry moulding	-1.1158	-0.5394	2	14	466	89
+192	vehicles for use both on rail and on road	-0.4465	0.0351	3	17	769	96
+198	"power supply lines, and devices along rails, for electrically-"	0.395	0.5994	3	17	479	103
+200	"vehicles adapted for load transportation or to transport,"	0.357	-0.5545	1	18	1059	130
+208	railway systems	0.2163	0.2647	3	18	1610	116
+209	locomotives	-0.1964	0.7786	4	18	1751	103
+210	body details or kinds of railway vehicles	-0.2893	-0.5675	2	18	2330	120
+211	"rail vehicle suspensions, e.g. underframes, bogies or arrangements of wheel a"	-0.671	-0.5295	2	18	1711	75
+212	couplings	-0.9532	-0.3534	2	17	784	71
+213	brakes or other retarding apparatus peculiar to rail vehicles	-0.2394	-0.1854	2	18	634	86
+214	shifting or shunting of rail vehicles	-0.1655	0.173	3	18	852	80
+215	other auxiliary equipment for railways	-0.4116	0.5458	4	18	1111	103
+216	guiding railway traffic	-0.4199	0.8868	4	17	1699	102
+239	"transport or storage devices, e.g. conveyors for loading or tipping"	0.423	-0.0899	1	18	748	130
+241	elevators	0.8498	-0.0371	1	16	364	115
+242	cranes	0.8308	-0.4039	1	18	1126	130
+243	capstans	1.0208	-0.2826	1	16	682	119
+244	"hoisting, lifting, hauling or pushing, not otherwise provided for,"	0.6922	-0.2516	1	18	873	129
+384	permanent way	0.1237	0.5113	3	18	1074	109

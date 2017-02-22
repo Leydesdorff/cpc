@@ -1,0 +1,18 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+205	air-cushion vehicles	-0.7012	0.015	1	16	608	87
+225	ships or other waterborne vessels	-0.1737	0.4444	2	16	2269	134
+226	"launching, hauling-out, or dry-docking of vessels"	-0.2277	0.7335	2	16	1055	127
+227	offensive or defensive arrangements on vessels	-0.3775	0.3683	2	16	1286	116
+228	marine propulsion or steering	0.0199	0.2255	2	16	1661	118
+229	auxiliaries on vessels	0.2254	0.3823	2	16	1401	113
+230	lighter-than air aircraft	-0.5229	-0.2637	1	15	700	87
+231	aeroplanes	-0.7689	-0.3205	1	15	2093	129
+232	equipment for fitting in or to aircraft	-0.5761	-0.5167	1	16	1458	132
+233	ground or aircraft-carrier-deck installations specially adapted for use in co	-0.8278	-0.5425	1	16	1043	133
+234	cosmonautics	-0.3414	-0.391	1	16	389	128
+390	ship-lifting devices or mechanisms	-0.0643	0.8586	2	14	266	48
+432	machines or engines for liquids	0.795	0.2338	3	16	2097	83
+434	wind motors	0.6997	-0.4499	3	16	3089	105
+441	indexing scheme relating to machines or engines other than non-positive-displ	0.7381	-0.1375	3	16	3855	116
+614	dynamo-electric machines	1.038	-0.2092	3	16	1315	122
+617	"control or regulation of electric motors, electric generators or dynamo-elect"	1.0655	-0.4305	3	16	945	111

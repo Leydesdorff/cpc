@@ -1,0 +1,5 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+532	meteorology	-0.7393	-0	2	1	55	9
+587	fusion reactors	0.4383	-0	1	2	1490	15
+589	nuclear power plant	0.9112	0	1	2	1459	15
+593	nuclear explosives	-0.6101	0	2	3	110	12

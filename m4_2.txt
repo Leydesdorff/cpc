@@ -1,0 +1,19 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+179	books	-0.7677	-0.2276	1	17	5499	95
+551	control devices or systems insofar as characterised by	1.2174	0.0003	3	16	1408	93
+555	electrical digital data processing	0.42	-0.0999	3	17	6845	97
+558	recognition of data	-0.212	0.2366	2	17	7153	96
+560	computer systems based on specific computational models	0.4767	-0.4894	3	17	2725	94
+561	"data processing systems or methods, specially adapted for administrative, com"	0.129	0.3137	2	17	7860	96
+562	"image data processing or generation, in general"	0.0485	-0.3331	1	17	7494	94
+563	ticket-issuing apparatus	-0.5316	0.7561	2	17	2320	90
+564	time or attendance registers	-0.5158	0.3539	2	17	6244	94
+565	"handling of coins or of paper currency or similar valuable papers, e.g. testi"	-0.8238	0.1327	1	16	4974	83
+566	coin-freed or like apparatus	0.2487	0.6539	2	17	5483	94
+567	"registering the receipt of cash, valuables, or tokens"	-0.1457	0.8972	2	17	3962	93
+571	educational or demonstration appliances	0.8501	-0.1879	3	17	3257	98
+572	coding or ciphering apparatus for cryptographic or other	-0.6848	-0.6146	1	17	3452	84
+583	speech analysis or synthesis	-0.3221	-0.6487	1	17	4913	92
+584	information storage based on relative movement between	-0.0155	-0.773	1	17	3554	97
+635	"pictorial communication, e.g. television"	-0.2414	-0.2518	1	17	6813	97
+80	"card, board, or roulette games"	0.8698	0.2817	3	17	4142	95

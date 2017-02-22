@@ -1,0 +1,21 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+114	making metal chains	1.0446	-0.1538	1	14	849	53
+33	shirts	-0.5314	0.0777	2	17	2021	94
+34	"corsets; brassieres"	-0.7067	-0.0516	2	18	1226	72
+35	outerwear	-0.3265	-0.3202	3	19	2987	106
+350	"crimping or curling fibres, filaments, threads, or yarns"	0.655	0.1153	1	19	1035	97
+356	knitting	-0.1055	0.3938	2	19	2116	96
+358	trimmings	0.6319	0.3509	1	19	640	91
+359	making nets by knotting of filamentary material	0.7525	0.3931	1	16	460	71
+36	garment fastenings	-0.2398	-0.007	2	19	2396	90
+375	ropes or cables in general	0.9465	0.0774	1	18	776	86
+39	hats	-0.7804	-0.5079	3	18	2091	82
+40	manufacturing or trimming hats or other head coverings	-0.7947	-0.73	3	19	1116	82
+41	characteristic features of footwear	-0.9166	0.4449	4	18	3134	89
+42	fastenings or attachments of footwear	-0.4693	0.5839	4	18	2504	64
+43	"machines, tools, equipment or methods for manufacturing or repairing footwear"	-0.9457	0.6916	4	17	2259	88
+44	"buttons, pins, buckles, slide fasteners, or the like"	0.1903	-0.1304	1	19	1278	103
+45	jewellery	0.613	-0.133	1	19	1733	97
+451	"belts, cables, or ropes, predominantly used for driving purposes"	0.8627	-0.1192	1	19	592	94
+46	"indexing scheme relating to buttons, pins, buckles or slide fasteners, and to"	0.3057	-0.3619	1	18	1440	77
+74	"devices, apparatus or methods for life-saving"	-0.1855	-0.6136	3	19	847	94

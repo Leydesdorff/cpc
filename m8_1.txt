@@ -1,0 +1,12 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+10	catching or trapping of animals	-0.8712	-0.116	1	10	4735	14
+163	mechanical working or deformation of paper or cardboard	-0.322	-0.1431	1	10	10597	14
+186	producing decorative effects	-0.0488	0.8455	1	10	11327	14
+188	special designs or pictures	-0.0677	0.3505	1	10	12714	14
+235	"machines, apparatus or devices for, or methods of, packaging"	0.6133	-0.5134	1	10	11741	14
+237	"containers for storage or transport of articles or materials,"	-0.4098	-0.6879	1	10	9465	14
+37	artificial flowers	0.867	0.1037	1	10	8932	13
+5	horticulture	0.508	0.5409	1	10	12207	14
+56	"special furniture, fittings, or accessories for shops, storehouses, bars, res"	0.1001	-0.7618	1	10	6287	13
+57	household or table equipment	0.2878	-0.0921	1	10	12572	14
+574	displaying	-0.6567	0.4738	1	10	7123	14

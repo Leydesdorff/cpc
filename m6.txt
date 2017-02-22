@@ -1,0 +1,68 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+103	cleaning in general	-0.2167	0.4661	1	66	2385	647
+105	reclamation of contaminated soil	-1.0486	-0.699	4	39	5130	613
+106	rolling of metal	-0.1264	-0.2714	3	60	1529	630
+107	"manufacture of metal sheets, wire, rods, tubes or profiles, otherwise than by"	-0.0067	-0.2192	3	66	3112	637
+108	"working or processing of sheet metal or metal tubes, rods or profiles without"	0.036	-0.3688	3	65	2850	641
+109	working or processing of metal wire	0.1773	0.1124	3	54	1522	609
+110	"making needles, pins or nails of metal"	0.2676	-0.0281	3	49	839	508
+111	"making particular metal objects by rolling, e.g. screws, wheels,"	0.13	-0.404	3	52	1466	557
+112	forging	0.2331	-0.2047	3	59	2971	616
+113	"making forged or pressed metal products, e.g. horse-shoes, rivets,"	0.1517	-0.2827	3	59	3032	608
+116	casting of metals	-0.2907	-0.1014	3	65	2192	640
+117	working metallic powder	-0.351	0.0076	3	59	5811	642
+118	turning	0.531	-0.1617	2	62	4445	636
+119	milling	0.5006	-0.3214	2	57	2131	602
+120	planing	1.1699	-0.4131	5	60	8585	635
+121	making gears or toothed racks	0.3628	-0.3487	2	43	659	491
+122	thread cutting	0.5936	-0.2565	2	51	1426	525
+123	working of metal by the action of a high concentration of electric current on	-0.3648	0.9036	1	55	3830	620
+124	soldering or unsoldering	-0.2291	0.0995	1	66	3914	649
+125	other working of metal	0.1516	-0.1011	3	66	4753	645
+126	"details, components, or accessories for machine tools, e.g."	0.7504	-0.1916	2	65	6261	646
+127	"machines, devices, or processes for grinding or polishing"	-0.1829	0.6512	1	63	4293	641
+128	abrasive or related blasting with particulate material	-0.1209	0.3468	1	66	1296	628
+129	"tools for grinding, buffing, or sharpening"	-0.3228	0.3444	1	62	4653	629
+130	"tools or bench devices not otherwise provided for, for fastening, connecting,"	0.7819	0.0896	2	61	3540	638
+131	hand-held nailing or stapling tools	0.599	0.1498	2	44	1267	604
+132	percussive tools	0.7594	-0.0278	2	51	2077	592
+133	combination or multi-purpose tools not otherwise provided for	0.9338	0.0988	2	49	4354	615
+134	handles for hand implements	0.8993	0.2474	2	48	2079	608
+135	"workshop equipment, e.g. for marking-out work"	1.0004	0.0106	2	55	2064	625
+137	hand-held cutting tools not otherwise provided for	0.7685	0.2474	2	54	1079	621
+138	cutting	0.9825	-0.2981	5	60	5184	639
+140	saws for wood or similar material	1.3397	-0.4023	5	49	8131	616
+141	"planing, drilling, milling, turning or universal machines for"	1.1977	-0.1168	2	38	3208	562
+144	accessory machines or apparatus	1.4656	-0.3413	5	46	8022	598
+153	working stone or stone-like materials	-0.2846	-0.2184	1	62	3180	618
+165	"additive manufacturing, i.e. manufacturing of three-dimensional [3-d] objects"	0.1375	0.4642	6	46	1634	556
+263	"manufacture, shaping, or supplementary processes"	-0.5572	0.1109	1	61	2546	641
+264	"chemical composition of glasses, glazes, or vitreous enamels"	-0.635	0.2834	1	54	2999	644
+265	"lime, magnesia"	-0.7007	0.1039	1	62	3726	645
+295	polishing compositions other than french polish	-0.5744	0.7578	1	47	3060	596
+298	"materials for miscellaneous applications, not provided for elsewhere"	-0.9701	-0.1099	4	54	7043	651
+302	cracking hydrocarbon oils	-1.1088	-0.5703	4	43	6502	638
+330	modifying the physical structure of ferrous metals	-0.7023	-0.3537	4	64	8204	634
+332	alloys	-0.5287	-0.208	3	63	8782	636
+333	changing the physical structure of non-ferrous metals and non-	-0.1163	-0.0924	3	59	3386	610
+334	coating metallic material	-0.4772	0.3476	1	62	3712	647
+335	"enamelling of, or applying a vitreous layer to, metals"	-0.6995	0.3571	1	39	497	482
+336	non-mechanical removal of metallic material from surface	-0.316	0.5639	1	57	3267	634
+337	cleaning or degreasing of metallic material by chemical	-0.3995	0.5418	1	46	1687	615
+340	processes for the electrolytic or electrophoretic production	-0.4508	0.7709	1	57	3018	638
+341	processes for the electrolytic removal of materials from objects	-0.4731	0.9067	1	48	4270	593
+342	single-crystal-growth	-0.5009	0.2465	1	55	2037	633
+411	"earth drilling, e.g. deep drilling"	-0.829	-0.5806	4	62	9644	648
+412	mining or quarrying	-0.3566	-0.4928	4	52	1844	610
+413	shafts	-0.4168	-0.6398	4	52	931	612
+414	"safety devices, transport, filling-up, rescue, ventilation, or draining in or"	-0.6134	-0.7163	4	37	1616	602
+458	safety devices in general	1.4522	-0.5097	5	43	7741	608
+51	brushes	0.3655	0.7726	6	42	2016	632
+52	manufacture of brushes	0.2969	0.809	6	47	1832	592
+550	systems for regulating electric or magnetic variables	-1.215	-0.7108	4	33	4647	610
+597	resistors	-1.1026	-0.3818	4	57	4437	625
+62	diagnosis	0.3665	0.225	2	64	2759	650
+63	dentistry	0.183	0.5777	6	62	2142	642
+647	"capture, storage, sequestration or disposal of greenhouse gases [ghg]"	-1.2255	-0.5493	4	34	7545	622
+653	technical subjects covered by former uspc cross-reference art collections [xr	-0.1132	0.0578	4	66	7910	653
+654	technical subjects covered by former us classification	0.0428	0.0212	2	66	11394	653

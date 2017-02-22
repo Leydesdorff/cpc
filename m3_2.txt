@@ -1,0 +1,19 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+415	"machines or engines, in general or of positive-displacement"	0.5404	0.1265	2	17	2653	84
+416	rotary-piston or oscillating-piston machines or engines	0.9968	0.0677	4	17	2485	82
+418	steam engine plants	0.1891	0.7235	2	17	2332	98
+427	hot gas or combustion-product positive-displacement engine	0.3586	0.4235	2	17	3096	99
+433	positive-displacement engines driven by liquids	0.8213	-0.4269	4	16	986	58
+435	"spring, weight, inertia or like motors"	0.1845	-0.0787	2	17	2559	94
+437	positive displacement machines for liquids	-0.1357	-0.3315	1	17	3570	94
+438	"rotary-piston, or oscillating-piston, positive-displacement machines for liqu"	1.0196	-0.221	4	16	2001	86
+442	"indexing scheme relating to materials, material properties or material charac"	0.3005	-0.5836	1	16	2074	94
+444	systems acting by means of fluids in general	0.0023	0.2419	2	17	2846	90
+445	fluid-circuit elements predominantly used for computing or	-0.7825	-0.656	1	16	1886	78
+446	"fluid dynamics, i.e. methods or means for influencing the flow of"	-0.9563	-0.5383	1	16	625	93
+453	pistons	-0.0782	-0.6002	1	17	766	93
+454	valves	-0.6498	-0.2922	1	17	2070	94
+461	gas-holders of variable capacity	-0.6119	0.6272	3	12	140	42
+462	"vessels for containing or storing compressed, liquefied or solidified gases"	-0.4546	0.5647	3	17	746	98
+463	pipe-line systems	-0.4126	0.1559	3	17	1763	97
+495	"liquefaction, solidification or separation of gases or gaseous"	-0.3314	0.7974	3	17	490	92

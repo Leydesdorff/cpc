@@ -1,0 +1,655 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>
+1	soil working in agriculture or forestry	-0.0449	0.111	1	634	3754.5296
+2	planting	0.1779	0.0654	1	636	3368.4556
+3	harvesting	0.0007	0.0796	1	636	3482.3338
+4	processing of harvested produce	0.2303	-0.1085	1	607	1344.262
+5	horticulture	-0.0111	-1.1322	8	649	18688.5096
+6	new plants or processes for obtaining them	1.5802	-0.5169	5	584	5323.5538
+7	manufacture of dairy products	0.3923	-0.2022	5	602	1208.0122
+8	animal husbandry	0.2416	-0.1968	5	649	8328.9104
+9	shoeing of animals	-0.0449	-0.2511	5	491	465.6708
+10	catching or trapping of animals	-0.1905	-0.4457	8	644	10032.456
+11	preservation of bodies of humans or animals or plants or parts thereof	0.778	-0.2886	5	643	9265.2426
+12	bakers ovens	0.7043	0.012	5	617	3565.3808
+13	machines or equipment for making or processing doughs	0.7707	-0.3673	5	628	4010.7162
+14	"treatment, e.g. preservation, of flour or dough, e.g. by addition of material"	1.1086	-0.4666	5	607	8836.5778
+15	slaughtering	0.2554	-0.3194	5	606	2758.0572
+16	"processing meat, poultry, or fish"	0.3555	-0.311	5	635	3943.5724
+17	"preserving, e.g. by canning, meat, fish, eggs, fruit, vegetables, edible seed"	0.8315	-0.2616	5	621	6110.0198
+18	"dairy products, e.g. milk, butter, cheese"	1.1702	-0.455	5	595	7314.589
+19	"edible oils of fats, e.g. margarines, shortenings, cooking oils"	1.4559	-0.4877	5	568	9075.8738
+20	coffee	0.947	-0.2853	5	573	2650.7068
+21	cocoa	0.9989	-0.4027	5	635	8086.0684
+22	protein compositions for foodstuffs	1.149	-0.5056	5	561	5957.089
+23	fodder	1.2737	-0.4183	5	608	9887.4222
+24	"foods, foodstuffs, or non-alcoholic beverages, not covered by subclasses a23b"	1.1321	-0.3985	5	643	17095.4276
+25	"machines or apparatus for treating harvested fruit, vegetables or flower bulb"	0.7083	-0.2483	5	607	2063.8258
+26	"shaping or working of foodstuffs, not fully covered by a single"	0.9112	-0.4413	5	614	7558.4376
+27	"indexing scheme relating to foods, foodstuffs or non-alcoholic beverages"	1.0768	-0.3962	5	620	10514.2344
+28	indexing scheme relating to lactic or propionic acid bacteria used in foodstu	1.2294	-0.4426	5	349	2759.6908
+29	manufacture or preparation of tobacco for smoking or chewing	0.9078	-0.0259	5	599	4043.1438
+30	machines for making cigars or cigarettes	0.7809	-0.1433	5	604	2500.8786
+31	cigars	0.8555	-0.1002	5	607	4248.297
+32	smokers requisites	0.7743	0.163	5	613	4381.9074
+33	shirts	-0.3084	-0.6577	2	592	4508.6404
+34	"corsets; brassieres"	-0.3776	-0.6149	2	553	1995.4578
+35	outerwear	-0.2679	-0.5073	2	642	10234.1526
+36	garment fastenings	-0.4382	-0.5569	2	577	4622.0886
+37	artificial flowers	-0.2642	-1.1495	8	598	12155.8098
+38	"appliances or methods for making clothes, e.g. for dress-making,"	-0.2061	-0.7261	2	575	4338.522
+39	hats	-0.5736	-0.3706	2	622	6366.9468
+40	manufacturing or trimming hats or other head coverings	-0.4481	-0.4967	2	531	2029.5576
+41	characteristic features of footwear	-0.5924	-0.5024	2	640	7420.2712
+42	fastenings or attachments of footwear	-0.5526	-0.6019	2	569	3790.9264
+43	"machines, tools, equipment or methods for manufacturing or repairing footwear"	-0.5385	-0.5388	2	603	4909.644
+44	"buttons, pins, buckles, slide fasteners, or the like"	-0.3108	-0.5751	2	629	6629.4746
+45	jewellery	-0.4127	-0.4456	2	619	4085.5838
+46	"indexing scheme relating to buttons, pins, buckles or slide fasteners, and to"	-0.5094	-0.4086	2	533	3576.0072
+47	walking sticks	-0.3933	-0.0781	1	598	1923.8224
+48	purses	-0.5027	-0.3084	1	636	5668.5646
+49	hairdressing or shaving equipment	0.1777	-0.3085	2	645	6648.6108
+50	travelling or camp equipment	-0.5332	-0.2681	1	629	6099.315
+51	brushes	-0.0085	-0.355	6	632	4460.9096
+52	manufacture of brushes	0.0009	-0.3857	6	592	3777.3152
+53	tables	-0.431	-0.2812	1	644	6874.9532
+54	chairs	-0.3984	-0.1901	1	641	6251.4846
+55	furniture specially adapted for children	-0.5462	-0.21	1	595	1999.327
+56	"special furniture, fittings, or accessories for shops, storehouses, bars, res"	-0.3394	-0.9017	8	644	14380.115
+57	household or table equipment	-0.1971	-1.1639	8	645	17523.8966
+58	furnishings for windows or doors	-0.2482	-0.3517	1	578	1964.2974
+59	kitchen equipment	0.5646	-0.0318	5	647	5339.241
+60	sanitary equipment not otherwise provided for	-0.0138	-0.2971	2	639	5984.096
+61	domestic washing or cleaning	0.0717	0.0582	1	646	9280.3908
+62	diagnosis	-0.215	-0.118	6	650	15446.3274
+63	dentistry	0.0569	-0.2499	6	642	5392.6704
+64	"veterinary instruments, implements, tools, or methods"	0.1727	-0.2027	5	613	4338.8396
+65	filters implantable into blood vessels	0.0925	-0.4634	2	651	14733.149
+66	transport or accomodation for patients	-0.5236	0.0297	1	641	6006.5648
+67	"physical therapy apparatus, e.g. devices for locating or stimulating reflex p"	-0.337	-0.1298	1	640	5739.7704
+68	containers specially adapted for medical or pharmaceutical purposes	0.0974	-0.3696	2	645	10186.1482
+69	"preparations for medical, dental, or toilet purposes"	0.9548	-0.367	5	648	18307.7344
+70	methods or apparatus for sterilising materials or objects in general	0.455	-0.3955	2	648	18966.7944
+71	"devices for introducing media into, or onto, the body"	0.0565	-0.0818	2	652	17140.664
+72	electrotherapy	-0.1865	0.1024	7	646	7881.8792
+73	specific use of cosmetics or similar toilet preparations	0.8135	-0.5725	5	639	8804.2994
+74	"devices, apparatus or methods for life-saving"	-0.17	-0.1529	2	641	5122.6934
+75	fire-fighting	-0.0931	0.3274	1	642	5364.0194
+76	chemical means for extinguishing fires or for combating or protecting against	0.8023	0.2811	3	613	6774.3186
+77	"apparatus for physical training, gymnastics, swimming, climbing,"	-0.4855	-0.2225	1	647	7419.4776
+78	skates	-0.6604	-0.1321	1	632	4416.1084
+79	bowling-alleys	-0.4072	-0.2408	1	583	939.1914
+80	"card, board, or roulette games"	-0.9564	-0.1199	4	639	10801.2944
+81	merry-go-rounds	-0.6066	0.1612	1	605	2872.4776
+82	"toys, e.g. tops, dolls, hoops, building blocks"	-0.7168	-0.0383	1	642	7140.07
+83	"devices for theatres, circuses, or the like"	-0.8284	0.0105	1	595	5167.0444
+84	racing	-0.5669	-0.0394	1	455	1184.6252
+85	boiling	0.7514	0.5147	3	549	6723.3454
+86	separation	0.6383	0.241	3	650	21485.9854
+87	"mixing, e.g. dissolving, emulsifying, dispersing"	0.6156	-0.0008	5	647	18949.7278
+88	"chemical or physical processes, e.g. catalysis, colloid chemistry"	0.8129	0.1899	3	649	27071.1596
+89	chemical or physical laboratory apparatus for general use	0.5822	0.1291	5	646	15674.7406
+90	preparing grain for milling	0.8369	-0.3395	5	466	1583.1068
+91	"crushing, pulverising, or disintegrating in general"	0.4792	-0.1934	5	632	5573.8614
+92	separating solid materials using liquids or using pneumatic	0.7451	0.0905	5	613	6678.9552
+93	magnetic or electrostatic separation of solid materials from solid materials	0.4484	0.3297	3	640	7354.2862
+94	flotation	0.8299	0.0858	5	584	3597.7556
+95	centrifuges	0.5818	0.2538	5	612	2535.1404
+96	"apparatus using free vortex flow, e.g. cyclones"	0.5449	0.2454	5	587	2729.0782
+97	spraying apparatus	0.2921	-0.0884	2	651	13153.7248
+98	apparatus for applying liquids or other fluent materials to	0.3499	-0.562	2	643	15659.997
+99	processes for applying liquids or other fluent materials to	0.3454	-0.396	2	644	17208.4494
+100	methods or apparatus for generating or transmitting mechanical vibrations of	-0.327	0.0805	4	628	5202.504
+101	"seperating solids from solids by sieving, screening, or sifting or by using g"	0.5544	-0.0669	5	627	3303.9544
+102	postal sorting	-0.0137	-0.1888	5	632	5293.3248
+103	cleaning in general	0.3324	-0.0429	6	647	10949.4742
+104	disposal of solid waste	0.6585	0.2003	5	631	8757.478
+105	reclamation of contaminated soil	0.7056	0.4744	6	613	11291.5044
+106	rolling of metal	0.1829	-0.011	6	630	3237.4132
+107	"manufacture of metal sheets, wire, rods, tubes or profiles, otherwise than by"	0.1211	0.0262	6	637	6371.3346
+108	"working or processing of sheet metal or metal tubes, rods or profiles without"	0.0458	0.0186	6	641	6410.292
+109	working or processing of metal wire	0.1057	-0.3192	6	609	5151.1458
+110	"making needles, pins or nails of metal"	0.0762	-0.2129	6	508	1505.2898
+111	"making particular metal objects by rolling, e.g. screws, wheels,"	0.0223	-0.0244	6	557	2384.6406
+112	forging	0.0083	0.0098	6	616	4576.477
+113	"making forged or pressed metal products, e.g. horse-shoes, rivets,"	0.0189	0.1081	6	608	5377.481
+114	making metal chains	-0.2804	-0.3587	2	499	1344.0292
+115	foundry moulding	0.009	0.3398	1	636	5086.9618
+116	casting of metals	0.317	0.3645	6	640	6970.4812
+117	working metallic powder	0.4373	0.1805	6	642	13600.8394
+118	turning	-0.0786	-0.1528	6	636	5726.1984
+119	milling	-0.0617	-0.1936	6	602	2804.2778
+120	planing	-0.3266	-0.6947	6	635	10144.3834
+121	making gears or toothed racks	-0.0282	-0.0635	6	491	976.8214
+122	thread cutting	-0.1168	-0.1657	6	525	1874.5488
+123	working of metal by the action of a high concentration of electric current on	0.5181	-0.121	6	620	4776.9202
+124	soldering or unsoldering	0.1086	-0.0838	6	649	12519.1856
+125	other working of metal	0.0145	0.1563	6	645	13391.0232
+126	"details, components, or accessories for machine tools, e.g."	-0.1756	-0.3166	6	646	10261.9826
+127	"machines, devices, or processes for grinding or polishing"	0.3551	-0.1458	6	641	6357.6964
+128	abrasive or related blasting with particulate material	0.3092	0.0034	6	628	3217.8806
+129	"tools for grinding, buffing, or sharpening"	0.402	-0.1203	6	629	7208.566
+130	"tools or bench devices not otherwise provided for, for fastening, connecting,"	-0.2454	-0.1446	6	638	6277.2216
+131	hand-held nailing or stapling tools	-0.2817	-0.1727	6	604	2608.825
+132	percussive tools	-0.185	-0.0731	6	592	2982.7608
+133	combination or multi-purpose tools not otherwise provided for	-0.2608	-0.226	6	615	6527.1692
+134	handles for hand implements	-0.2902	-0.2218	6	608	4076.8372
+135	"workshop equipment, e.g. for marking-out work"	-0.3671	-0.2601	6	625	5509.8204
+136	manipulators	-0.2934	0.0406	1	641	10563.5352
+137	hand-held cutting tools not otherwise provided for	-0.0769	-0.3332	6	621	2274.43
+138	cutting	-0.0931	-0.6368	6	639	10972.1908
+139	perforating	0.0151	-0.6313	2	635	8753.659
+140	saws for wood or similar material	-0.3686	-0.7608	6	616	9411.4856
+141	"planing, drilling, milling, turning or universal machines for"	-0.2544	-0.5707	6	562	4121.198
+142	working veneer or plywood	0.2578	-0.5791	5	546	2673.947
+143	dovetailed work	-0.06	-0.82	1	564	8025.0432
+144	accessory machines or apparatus	-0.4024	-0.8212	6	598	9060.5582
+145	bending wood or similar material	0.5658	-0.5315	5	395	1866.9692
+146	"mechanical working of cane, cork, or similar materials"	0.292	-0.5719	5	364	994.6984
+147	"processes, apparatus or selection of substances for impregnating, staining, d"	0.6232	-0.422	5	586	2247.4348
+148	removing bark or vestiges of branches	0.2377	-0.4356	5	570	1487.6056
+149	working of wood not provided for in subclasses b27b - b27l	0.0528	-0.7974	1	606	8170.7332
+150	"manufacture by dry processes of articles, with or without organic binding age"	0.5017	-0.7324	5	617	11134.9186
+151	"shaping clay or other ceramic compositions, slag, or mixtures containing ceme"	0.4385	-0.3332	8	642	15632.6004
+152	preparing clay	0.4201	-0.6945	8	618	12375.2904
+153	working stone or stone-like materials	0.1973	-0.0751	6	618	5116.126
+154	preparation or pretreatment of the material to be shaped	0.4574	-0.5125	2	643	15776.0064
+155	shaping or joining of plastics	0.0651	-0.5306	2	650	33842.7518
+156	producing particular articles from plastics or from substances	-0.1391	-0.4674	2	646	12155.1994
+157	"indexing scheme associated with subclasses b29b, b29c or b29d, relating to mo"	0.2509	-0.5081	2	648	28383.2026
+158	"indexing scheme associated with subclass b29c, relating to particular article"	0.1024	-0.4993	2	648	27848.012
+159	presses in general	0.4179	-0.2217	5	643	5357.952
+160	"making boxes, cartons, envelopes or bags of paper or cardboard"	0.0828	-1.1385	8	632	17849.8638
+161	"making wound articles, e.g. wound tubes, of paper or cardboard"	0.1707	-0.5304	2	502	1113.0704
+162	making articles of paper or cardboard not provided for in	0.1851	-0.8929	8	627	13613.7356
+163	mechanical working or deformation of paper or cardboard	0.0941	-1.2213	8	630	17295.9968
+164	"layered products, i.e. products built-up of strata of flat or non- flat, e.g."	0.155	-0.48	2	649	36159.3816
+165	"additive manufacturing, i.e. manufacturing of three-dimensional [3-d] objects"	0.1032	-0.2664	6	556	4539.4672
+166	"machines or accessories for making, setting, or distributing type"	-0.5064	-0.6113	2	442	686.8744
+167	processes for the manufacture or reproduction of printing	-0.1381	-0.8694	2	604	4002.3742
+168	apparatus for the mechanical reproduction of printing surfaces for stereotype	-0.3425	-0.8424	2	308	918.0982
+169	printing machines or presses	-0.1357	-0.8328	2	639	6300.1698
+170	"apparatus for bronze printing, line printing, or for bordering or edging shee"	-0.1935	-0.8696	2	321	1112.7322
+171	typewriters	-0.6497	-0.69	2	645	11342.7556
+172	stamps	-0.3358	-0.8162	2	558	1744.1886
+173	"apparatus or devices for manifolding, duplicating, or printing for office or"	-0.2887	-0.8583	2	529	1608.242
+174	"printing, duplicating, marking, or copying processes"	0.0472	-0.8835	2	640	13951.972
+175	printing plates or foils	-0.0067	-0.8665	2	612	5066.99
+176	"indexing scheme relating to printing, lining machines, typewriters, and to st"	-0.1107	-0.8691	2	623	4499.8826
+177	"permanently attaching together sheets, quires or signatures"	-0.4806	-0.7805	2	482	1282.6524
+178	bookbinding	-0.7949	-0.8451	2	595	9231.4138
+179	books	-0.8597	-0.5922	4	632	14562.3904
+180	sheets temporarily attached together	-0.5639	-0.6458	2	606	2379.4322
+181	"indexing scheme relating to books, filing appliances or the like"	-0.8675	-0.825	2	555	9188.6596
+182	implements for writing or drawing	-0.7444	-0.7629	2	613	8252.9948
+183	articles for writing or drawing upon	-0.5058	-0.5678	2	614	3613.7766
+184	bureau accessories not otherwise provided for	0.2144	-0.9493	2	612	6507.904
+185	"machines, apparatus or tools for artistic work, e.g. for sculpturing, guilloc"	-0.1447	-0.5897	2	592	4354.0248
+186	producing decorative effects	-0.0564	-1.1544	8	638	20545.1138
+187	"painting or artistic drawing, not otherwise provided for"	0.0125	-0.5663	2	631	3873.2274
+188	special designs or pictures	-0.1219	-1.2643	8	625	18478.0406
+189	vehicle wheels	-0.4522	0.3064	1	619	5234.5678
+190	vehicle tyres	-0.6439	0.0962	1	639	10774.0954
+191	vehicle connections	-0.7596	0.3019	1	602	5066.556
+192	vehicles for use both on rail and on road	-0.449	0.5542	1	459	1974.0958
+193	vehicle suspension arrangements	-0.6141	0.5052	1	632	6779.892
+194	"arrangements or adaptations of heating, cooling, ventilating, or other air-tr"	-0.2872	0.7494	3	639	9508.9604
+195	"windows, windscreens, non-fixed roofs, doors, or similar devices for vehicles"	-0.6139	0.0314	1	644	5582.9542
+196	arrangement or mounting of propulsion units or of transmissions in vehicles	-0.6251	0.7335	1	643	19149.4486
+197	electric equipment or propulsion of electrically-propelled vehicles	-0.5303	0.7355	1	631	16336.6536
+198	"power supply lines, and devices along rails, for electrically-"	-0.4439	0.4397	1	538	1977.8622
+199	vehicle passenger accommodation not otherwise provided for	-0.7117	0.0881	1	642	9345.2934
+200	"vehicles adapted for load transportation or to transport,"	-0.374	0.2026	1	638	4623.2718
+201	vehicle lighting or signalling	-1.0321	0.4027	1	631	15548.8262
+202	"vehicles, vehicle fittings, or vehicle parts, not otherwise provided for"	-0.8748	0.3197	1	648	17403.3622
+203	"servicing, cleaning, repairing, supporting, lifting, or manoeuvring of vehicl"	-0.7426	0.399	1	634	10440.4728
+204	vehicle brake control systems or parts thereof	-0.6952	0.6053	1	632	9501.455
+205	air-cushion vehicles	-0.3515	0.5598	1	488	1369.5608
+206	conjoint control of vehicle sub-units of different type or different function	-0.7185	0.7737	1	623	15543.3162
+207	indexing scheme relating to aspects cross-cutting vehicle technology	-0.4347	0.811	1	618	10833.6894
+208	railway systems	-0.4784	0.4258	1	584	2949.984
+209	locomotives	-0.5251	0.6494	1	569	4799.5432
+210	body details or kinds of railway vehicles	-0.4564	0.4722	1	622	4114.6036
+211	"rail vehicle suspensions, e.g. underframes, bogies or arrangements of wheel a"	-0.4829	0.5456	1	559	2148.284
+212	couplings	-0.4112	0.4956	1	521	1246.4152
+213	brakes or other retarding apparatus peculiar to rail vehicles	-0.535	0.5242	1	475	1326.574
+214	shifting or shunting of rail vehicles	-0.491	0.4962	1	352	1216.6182
+215	other auxiliary equipment for railways	-0.5283	0.4808	1	561	2462.5802
+216	guiding railway traffic	-0.6206	0.5489	1	581	4319.757
+217	"hand-propelled vehicles, e.g. hand carts, perambulators"	-0.5177	-0.0035	1	627	4351.2018
+218	vehicles drawn by animals	-0.5106	-0.1221	1	204	275.1104
+219	motor vehicles	-0.5219	0.3747	1	643	10416.362
+220	cycle stands	-0.6689	0.1635	1	552	2048.9182
+221	cycle saddles or seats	-0.6428	0.2197	1	622	4156.9562
+222	cycles	-0.6576	0.3612	1	628	5545.9146
+223	brakes specially adapted for cycles	-0.672	0.4419	1	515	1423.1344
+224	rider propulsion of wheeled vehicles or sledges	-0.632	0.6412	1	600	4781.7678
+225	ships or other waterborne vessels	-0.2163	0.3894	1	648	7896.5976
+226	"launching, hauling-out, or dry-docking of vessels"	-0.321	0.2632	1	636	4190.5332
+227	offensive or defensive arrangements on vessels	-0.194	0.5093	1	612	4032.3794
+228	marine propulsion or steering	-0.2284	0.6189	1	629	4207.9728
+229	auxiliaries on vessels	-0.1402	0.6388	1	590	4562.2014
+230	lighter-than air aircraft	-0.2382	0.5014	1	574	1669.7278
+231	aeroplanes	-0.284	0.5169	1	642	7561.3572
+232	equipment for fitting in or to aircraft	-0.2497	0.5413	1	643	8197.8186
+233	ground or aircraft-carrier-deck installations specially adapted for use in co	-0.2727	0.3478	1	635	4711.3378
+234	cosmonautics	-0.1316	0.4902	1	636	4018.8688
+235	"machines, apparatus or devices for, or methods of, packaging"	0.0586	-1.0182	8	647	19095.79
+236	"labelling or tagging machines, apparatus, or processes"	-0.1828	-0.674	2	622	3362.015
+237	"containers for storage or transport of articles or materials,"	0.1165	-0.8217	8	652	22543.8816
+238	gathering or removal of domestic or like refuse	-0.1552	0.0117	1	627	3745.7928
+239	"transport or storage devices, e.g. conveyors for loading or tipping"	0.0796	-0.033	1	646	7771.4542
+240	"handling thin or filamentary material, e.g. sheets, webs, cables"	-0.3767	-0.6781	2	643	11362.3172
+241	elevators	-0.5292	0.0943	1	615	2577.3722
+242	cranes	-0.2741	0.1915	1	631	4719.2542
+243	capstans	-0.3919	0.1705	1	587	2491.144
+244	"hoisting, lifting, hauling or pushing, not otherwise provided for,"	-0.4044	0.2361	1	627	4901.1328
+245	"applying closure members to bottles jars, or similar containers"	0.2196	-0.2841	5	603	2148.8358
+246	"cleaning, filling with liquids or semiliquids, or emptying, of bottles, jars,"	0.3196	-0.2828	5	600	2651.9642
+247	"dispensing, delivering or transferring liquids, not otherwise"	0.2913	0.0673	5	640	6405.213
+248	harness	-0.4888	-0.1491	1	439	838.3556
+249	b68c	-0.4664	-0.1631	1	453	722.2472
+250	"making articles from leather, canvas, or the like"	-0.3161	-0.4843	2	150	172.9126
+251	"methods, equipment, or machines for use in upholstering"	-0.3254	-0.3887	1	559	2397.921
+252	"micro-structural devices or systems, e.g. micro-mechanical"	-0.5997	0.2126	4	622	10418.338
+253	processes or apparatus specially adapted for the manufacture or treatment of	-0.461	0.0826	4	623	11298.1496
+254	"nano-structures formed by manipulation of individual atoms, molecules, or lim"	0.6651	0.0928	5	520	6574.027
+255	specific uses or applications of nano-structures	0.1263	-0.1256	4	645	23960.4756
+256	non-metallic elements	0.7763	0.4115	3	647	18617.0142
+257	ammonia	0.9071	0.5102	3	563	3910.5944
+258	"compounds of alkali metals, i.e. lithium, sodium, potassium,"	0.9534	0.367	3	555	3797.3536
+259	"compounds of the metals beryllium, magnesium, aluminium, calcium, strontium,"	0.8678	0.2763	3	605	7647.1102
+260	compounds containing metals not covered	0.7524	0.2576	3	617	10307.5488
+261	indexing scheme relating to structural and physical aspects of solid inorgani	0.6743	-0.0751	3	635	14574.4564
+262	"treatment of water, waste water, sewage, or sludge"	0.7048	0.2144	5	649	12960.4272
+263	"manufacture, shaping, or supplementary processes"	0.4501	0.1217	6	641	6827.0512
+264	"chemical composition of glasses, glazes, or vitreous enamels"	0.3957	-0.0231	6	644	9818.3664
+265	"lime, magnesia"	0.5765	0.0461	6	645	16657.4184
+266	phosphatic fertilisers	1.3608	0.1398	5	493	7127.097
+267	nitrogenous fertilisers	1.3149	0.1592	5	528	7499.2558
+268	"inorganic fertilisers not covered by subclasses c05b, c05c"	1.308	0.1158	5	553	8519.201
+269	"organic fertilisers not covered by subclasses c05b, c05c, e.g."	1.1804	0.1178	5	605	9599.1634
+270	mixtures of fertilisers covered individually by different subclasses of class	1.2581	0.1026	5	588	8833.7082
+271	explosives or thermic compositions	0.4182	0.6871	1	607	4875.4228
+272	detonating or priming devices	0.3088	0.7151	1	537	3095.1136
+273	means for generating smoke or mist	0.3971	0.7359	1	566	2960.454
+274	matches	0.3904	0.6427	1	91	100.1684
+275	general methods of organic chemistry	1.0197	-0.0748	5	598	12808.4636
+276	acyclic or carbocyclic compounds	0.9559	-0.1001	5	646	14847.9898
+277	heterocyclic compounds	1.0018	-0.3298	5	643	8525.5986
+278	"acyclic, carbocyclic or heterocyclic compounds containing elements other than"	0.8717	-0.2293	5	631	10439.7672
+279	compounds of unknown constitution	1.0921	-0.1502	5	434	3275.0326
+280	sugars	1.1441	-0.1485	5	622	12483.049
+281	steroids	1.2532	-0.3586	5	497	2337.2648
+282	peptides	1.1601	-0.278	5	637	11551.3752
+283	"polysaccharides; derivatives thereof"	0.8196	-0.6971	5	614	12166.001
+284	treatment or chemical modification of rubbers	0.6352	-0.3436	2	563	2645.7406
+285	macromolecular compounds obtained by reactions only involving carbon-to-carbo	0.6976	-0.5273	2	644	13327.8604
+286	macromolecular compounds obtained otherwise than by reactions only involving	0.6333	-0.5963	2	648	18671.3722
+287	derivatives of natural macromolecular compounds	0.9707	-0.456	5	578	8257.339
+288	working-up	0.5877	-0.6504	2	645	23682.2804
+289	use of inorganic or non-macromolecular organic substances as	0.5338	-0.4867	2	648	19146.5926
+290	compositions of macromolecular compounds	0.5579	-0.6042	2	649	27333.3168
+291	organic dyes or closely-related compounds for producing dyes	0.3893	-0.8648	2	619	11057.3754
+292	"treatment of inorganic materials, other than fibrous fillers,"	0.5283	-0.3742	2	628	9680.121
+293	"coating compositions, e.g. paints, varnishes or lacquers"	0.361	-0.7305	2	645	21210.876
+294	natural resins	0.9203	-0.263	5	416	945.1912
+295	polishing compositions other than french polish	0.6077	-0.1408	6	596	4958.5168
+296	preparation of glue or gelatine	0.7448	-0.6293	5	290	809.1158
+297	adhesives	0.341	-0.6562	2	642	12247.5018
+298	"materials for miscellaneous applications, not provided for elsewhere"	0.5394	0.1991	6	651	16595.3664
+299	"destructive distillation of carbonageous materials for production of gas, cok"	0.9322	0.47	3	616	6379.0194
+300	"working-up pitch, asphalt, bitumen, tar"	0.9107	0.2138	3	525	2350.8088
+301	drying or working-up of peat	0.9922	0.2976	3	310	1115.234
+302	cracking hydrocarbon oils	0.834	0.4397	6	638	15056.4854
+303	production of acetylene by wet methods	0.628	0.7728	3	167	325.8402
+304	"production of producer gas, water-gas, synthesis gas from solid carbonaceous"	0.9831	0.6732	3	596	9370.8554
+305	purifying or modifying the chemical composition of combustible gases containi	1.0266	0.68	3	568	9136.7654
+306	fuels not otherwise provided for	1.0233	0.3775	3	632	12193.8826
+307	lubricating compositions	0.885	0.0997	3	629	6913.002
+308	indexing scheme associated with subclass c10m relating to lubricating composi	0.9014	0.1307	3	621	6375.3512
+309	"producing (pressing, extraction), refining and preserving fats, fatty substan"	1.4829	-0.4388	5	585	8274.9394
+310	"fatty acids from fats, oils or waxes"	1.2509	-0.1897	5	581	6643.2434
+311	detergent compositions	0.6991	-0.4112	2	639	10097.8546
+312	brewing of beer	0.946	-0.2324	5	549	4282.782
+313	distillation or rectification of fermented solutions	1.0388	0.322	3	424	4307.5942
+314	wine	0.9044	-0.3783	5	549	4647.5108
+315	pasteurisation	0.8556	-0.3882	5	554	2978.5934
+316	vinegar	1.0305	-0.4396	5	171	722.5534
+317	pitching or depitching machines	0.7423	-0.441	5	225	680.9646
+318	apparatus for enzymology or microbiology	0.8334	0.0236	5	640	10979.6852
+319	"micro-organisms or enzymes; compositions thereof"	1.2081	-0.2967	5	642	16008.5224
+320	fermentation or enzyme-using processes to synthesise a desired chemical compo	1.2151	-0.2117	5	623	13939.1662
+321	measuring or testing processes involving enzymes or micro- organisms	0.8145	-0.0434	5	636	17804.3136
+322	processes using micro-organisms	1.2526	-0.2522	5	546	5448.0418
+323	enzymes	1.2863	-0.3236	5	598	11704.216
+324	production of sucrose	1.087	-0.3089	5	524	3099.8476
+325	"saccharides, other than sucrose, obtained from natural sources or by hydrolys"	1.0896	-0.2264	5	516	6482.4324
+326	"mechanical treatment or processing of skins, hides or leather in general"	0.0734	-0.6457	2	502	1246.9116
+327	"chemical treatment of hides, skins or leather, e.g. tanning, impregnating, fi"	0.4868	-0.6915	2	534	3694.6008
+328	manufacture of iron or steel	0.9083	0.6448	3	592	4656.5938
+329	"processing of pig-iron, e.g. refining, manufacture of wrought- iron or steel"	0.8322	0.6672	3	596	5356.4312
+330	modifying the physical structure of ferrous metals	0.435	0.3862	6	634	12862.9928
+331	production and refining of metals	0.8287	0.4992	3	629	9348.1978
+332	alloys	0.4057	0.2694	6	636	14020.54
+333	changing the physical structure of non-ferrous metals and non-	0.2201	0.0985	6	610	6164.8822
+334	coating metallic material	0.3516	0.1869	6	647	11671.2788
+335	"enamelling of, or applying a vitreous layer to, metals"	0.4153	0.1443	6	482	1372.2886
+336	non-mechanical removal of metallic material from surface	0.5063	-0.0187	6	634	8313.7068
+337	cleaning or degreasing of metallic material by chemical	0.6115	-0.0697	6	615	4894.8022
+338	electrolytic or electrophoretic processes for the production of compounds or	0.7043	0.4055	3	624	5888.0912
+339	"processes for the electrolytic production, recovery or refining of metals"	0.7155	0.3665	3	598	2144.003
+340	processes for the electrolytic or electrophoretic production	0.4405	-0.0494	6	638	6477.7168
+341	processes for the electrolytic removal of materials from objects	0.546	-0.1615	6	593	6073.159
+342	single-crystal-growth	0.3321	0.2348	6	633	8238.6356
+343	combinatorial chemistry	0.9519	-0.0016	5	623	15468.869
+344	mechanical treatment of natural fibrous or filamentary material to obtain fib	0.5727	-0.4432	5	470	1206.9558
+345	chemical treatment of natural filamentary or fibrous material to obtain filam	0.8207	-0.4958	5	266	1818.1272
+346	"mechanical methods or apparatus in the manufacture of artificial filaments, t"	0.4584	-0.6489	2	629	10444.8602
+347	"chemical features in the manufacture of artificial filaments, threads, fibres"	0.4841	-0.6098	2	631	14985.8976
+348	"preliminary treatment of fibres, e.g. for spinning"	0.3888	-0.501	5	602	2076.9322
+349	spinning or twisting	0.2205	-0.5509	5	603	1252.416
+350	"crimping or curling fibres, filaments, threads, or yarns"	0.1338	-0.6113	2	627	6854.6434
+351	"warping, beaming or leasing"	0.0402	-0.7334	2	382	924.3564
+352	"finishing or dressing of filaments, yarns, threads, cords, ropes"	0.2923	-0.8521	2	585	7069.0528
+353	shedding mechanisms	0.0001	-0.7325	2	507	823.8104
+354	woven fabrics	0.1069	-0.7229	2	642	10271.9696
+355	auxiliary weaving apparatus	0.0228	-0.7053	2	537	1870.2264
+356	knitting	-0.1113	-0.7563	2	628	8173.3236
+357	"braiding or manufacture of lace, including bobbin-net or carbonised lace"	0.1148	-0.6599	2	608	7345.3782
+358	trimmings	-0.2225	-0.648	2	492	1547.0032
+359	making nets by knotting of filamentary material	-0.1659	-0.6209	2	432	1347.4294
+360	"making textile fabrics, e.g. from fibres or filamentary material"	0.3476	-0.7921	2	641	16289.1688
+361	sewing	-0.1312	-0.9158	2	608	3645.6856
+362	embroidering	-0.0831	-0.9032	2	579	2506.5826
+363	"indexing scheme associated with subclasses d05b and d05c, relating to sewing,"	-0.0997	-0.9451	2	550	3478.7814
+364	"treating textile materials by liquids, gases or vapours"	0.3033	-0.7696	2	624	6480.1368
+365	"finishing, dressing, tentering or stretching textile fabrics"	0.1705	-0.7786	2	601	5864.9688
+366	"laundering, drying, ironing, pressing or folding textile articles"	0.3117	-0.2406	2	645	4580.803
+367	"mechanical or pressure cleaning of carpets, rugs, sacks, hides or other skin"	0.3818	-0.6469	2	420	2428.9282
+368	"marking, inspecting, seaming or severing textile materials"	-0.0122	-0.7874	2	569	4062.9204
+369	"pleating, kilting, or goffering textile fabrics or wearing"	-0.0703	-0.7811	2	345	1211.748
+370	"bleaching, e.g. optical bleaching, dry-cleaning or washing fibres, threads, y"	0.6481	-0.5099	2	578	5215.1902
+371	"treatment, not provided for elsewhere in class d06, of fibres, threads, yarns"	0.5309	-0.657	2	638	13610.8794
+372	"wall, floor or like covering materials, e.g. linoleum, oilcloth, artificial l"	0.2819	-0.6976	2	630	9296.2098
+373	dyeing or printing textiles	0.2483	-0.9105	2	619	9524.2332
+374	decorating textiles	0.1215	-0.9731	2	575	5954.5852
+375	ropes or cables in general	-0.1373	-0.2839	2	601	3559.0238
+376	"indexing scheme associated with sublasses of section d, relating to textiles"	-0.0292	-0.6979	2	633	12483.7866
+377	fibrous raw materials or their mechanical treatment	0.7459	-0.3208	5	591	7728.2274
+378	production of cellulose by removing non-cellulose substances from cellulose-c	0.9036	-0.3152	5	616	8803.513
+379	treatment of the materials before passing to the paper-making machine	0.6993	-0.1979	5	580	2621.5628
+380	paper-making machines	0.4369	-0.75	2	633	6561.1762
+381	"calenders; accessories for paper-making machines"	0.3184	-0.4607	2	623	3170.6712
+382	pulp compositions	0.565	-0.7558	2	640	11824.6592
+383	fibreboard	0.5904	-0.541	5	550	3082.417
+384	permanent way	-0.4199	0.3885	1	608	2280.0038
+385	"construction of, or surfaces for, roads, sports grounds, or the like"	0.0733	0.0034	1	642	5366.3006
+386	"construction of bridges,"	-0.1308	0.0792	1	596	2928.0276
+387	"additional work, such as equipping roads or the construction of platforms, he"	-0.0215	-0.4441	1	628	7762.7194
+388	street cleaning	-0.0797	0.1439	1	624	1986.2368
+389	hydraulic engineering	-0.0059	0.2915	1	636	4832.7298
+390	ship-lifting devices or mechanisms	-0.286	0.3821	1	243	588.9386
+391	foundations	0.0751	0.1061	1	642	5813.5194
+392	dredging	-0.152	0.2749	1	638	4535.8928
+393	"installations or methods for obtaining, collecting, or"	0.097	0.4197	1	614	3827.7818
+394	domestic plumbing installations for fresh water or waste	0.059	0.3274	1	627	4525.9786
+395	water-closets or urinals with flushing devices	0.0548	0.2821	1	614	1983.7542
+396	sewers	0.1638	0.2399	1	629	3301.5828
+397	general building constructions	-0.0697	-0.4012	1	646	12902.1222
+398	structural elements	0.0465	-0.3585	1	643	12331.8256
+399	roof coverings	0.171	-0.3848	1	640	9342.359
+400	"finishing work on buildings, e.g. stairs, floors"	-0.0304	-0.6244	1	644	11009.1456
+401	scaffolding	-0.1465	-0.1226	1	639	5829.6374
+402	buildings or like structures for particular purposes	-0.2245	-0.0024	1	647	6694.183
+403	locks	-0.6357	-0.0316	1	638	5492.8466
+404	"bolts or fastening devices for wings, specially for doors"	-0.5975	-0.0831	1	619	4612.0468
+405	"hinges or other suspension devices for doors, windows or wings"	-0.2408	-0.4127	1	634	12216.128
+406	devices for moving wings into open or closed position	-0.6622	-0.0649	1	632	7515.1026
+407	safes or strong-rooms for valuables	-0.5367	-0.0919	1	583	2003.928
+408	"indexing scheme relating to hinges or other suspension devices for doors, win"	-0.3696	-0.3095	1	643	12732.8958
+409	"fixed or movable closures for openings in buildings, vehicles, fences or like"	-0.2309	-0.3049	1	641	6896.9384
+410	ladders	-0.3429	-0.0788	1	585	1724.7808
+411	"earth drilling, e.g. deep drilling"	0.4458	0.4648	6	648	15705.8436
+412	mining or quarrying	0.2429	0.1342	6	610	3243.9476
+413	shafts	0.1402	0.1808	6	612	2284.94
+414	"safety devices, transport, filling-up, rescue, ventilation, or draining in or"	0.2339	0.3319	6	602	3099.5136
+415	"machines or engines, in general or of positive-displacement"	-0.0673	1.0062	3	599	7688.6546
+416	rotary-piston or oscillating-piston machines or engines	0.0769	0.8922	3	604	4821.964
+417	"non-positive displacement machines or engines, e.g. steam"	0.2424	0.8565	3	646	9457.1346
+418	steam engine plants	0.4492	0.9511	3	611	10390.7716
+419	cyclically operating valves for machines or engines	-0.0259	0.9806	3	619	5335.0118
+420	lubricating of machines or engines in general	0.111	0.7137	3	622	4819.3114
+421	gas-flow silencers or exhaust apparatus for machines or engines in general	0.2168	0.939	3	635	8167.3042
+422	cooling of machines or engines in general	-0.0109	0.8796	3	621	6174.9668
+423	internal-combustion piston engines	0.0634	0.9958	3	643	15100.0404
+424	gas-turbine plants	0.355	1.0233	3	638	13884.9734
+425	controlling combustion engines	-0.0712	1.0737	3	632	10667.5824
+426	"cylinders, pistons or casings, for combustion engines"	0.0494	0.9168	3	625	6703.1024
+427	hot gas or combustion-product positive-displacement engine	0.2171	0.9963	3	612	10385.9746
+428	jet-propulsion plants	0.1619	0.9131	3	629	5682.0476
+429	"supplying combustion engines in general, with combustible"	0.135	0.9634	3	643	9936.1532
+430	starting of combustion engines	-0.3578	0.9916	3	594	7224.5512
+431	"ignition, other than compression ignition, for internal- combustion engines"	-0.0681	0.9479	3	605	5892.632
+432	machines or engines for liquids	-0.1384	0.7812	1	607	5015.2316
+433	positive-displacement engines driven by liquids	-0.1838	0.8063	3	500	2326.7874
+434	wind motors	-0.2049	0.8865	1	628	7469.9238
+435	"spring, weight, inertia or like motors"	-0.0563	0.7009	3	632	9900.6492
+436	"producing a reactive propulsive thrust, not otherwise provided"	0.0182	0.6663	7	493	1384.014
+437	positive displacement machines for liquids	0.0737	0.5881	3	646	15055.5606
+438	"rotary-piston, or oscillating-piston, positive-displacement machines for liqu"	0.008	0.7703	3	633	6312.2586
+439	non-positive displacement pumps	0.1777	0.6949	3	642	10431.6336
+440	pumping of fluid by direct contact of another fluid or by using	0.2935	0.6505	3	620	3042.1846
+441	indexing scheme relating to machines or engines other than non-positive-displ	-0.1526	0.8617	1	633	9358.0394
+442	"indexing scheme relating to materials, material properties or material charac"	-0.0105	0.7209	3	629	9710.2774
+443	indexing scheme for aspects relating to non-positive- displacement machines o	0.3041	0.9134	3	643	12398.149
+444	systems acting by means of fluids in general	-0.0704	0.756	3	640	8348.5668
+445	fluid-circuit elements predominantly used for computing or	0.2798	0.4022	3	591	8242.3906
+446	"fluid dynamics, i.e. methods or means for influencing the flow of"	0.1635	0.5222	3	618	4736.1626
+447	devices for fastening or securing constructional elements or machine parts to	-0.1732	-0.2712	1	644	12428.7018
+448	shafts	-0.097	0.2089	1	646	9362.4722
+449	couplings for transmitting rotation	-0.3325	0.3765	1	644	7226.3118
+450	springs	-0.4264	0.1992	1	644	7038.4266
+451	"belts, cables, or ropes, predominantly used for driving purposes"	-0.2049	-0.1946	2	629	3316.2764
+452	gearing	-0.4457	0.694	1	647	8341.5232
+453	pistons	0.0504	0.4655	3	644	5821.367
+454	valves	0.194	0.4019	3	647	12774.0008
+455	pipes	0.0561	0.183	1	649	8857.115
+456	"frames, casings, or beds of engines or other machines or apparatus not specif"	-0.4902	-0.0567	1	636	7225.0966
+457	lubricating	0.0327	0.3827	3	633	4050.488
+458	safety devices in general	-0.4446	-0.8157	6	608	8869.5536
+459	constructional elements in general	-0.2524	-0.0867	1	315	802.9874
+460	steam traps or like apparatus for draining-off liquids from enclosures predom	0.249	0.6835	3	488	1007.1702
+461	gas-holders of variable capacity	0.1688	0.3132	3	319	678.4982
+462	"vessels for containing or storing compressed, liquefied or solidified gases"	0.2288	0.4353	3	644	6040.5296
+463	pipe-line systems	0.3374	0.5641	3	627	9466.1374
+464	mantles	0.2703	0.5821	3	239	418.185
+465	light sources not otherwise provided for	-0.8942	0.5003	9	623	13067.2548
+466	"lighting devices or systems thereof, being portable or specially adapted for"	-0.6546	0.2622	9	608	4846.02
+467	non-portable lighting devices or systems thereof	-0.8497	0.4228	9	638	15835.6658
+468	"details of lighting devices, of general application"	-0.8386	0.3654	9	642	15935.0692
+469	"indexing scheme associated with subclasses f21k, f21l, f21s and f21v, relatin"	-0.7975	0.3667	9	632	13352.42
+470	"indexing scheme associated with subclasses f21k, f21l, f21s and f21v, relatin"	-0.9369	0.4599	9	629	15041.8062
+471	methods of steam generation	0.5662	0.7031	3	629	9728.6764
+472	"preheating, or accumulating preheated, feed-water"	0.5124	0.8257	3	485	2549.434
+473	superheating of steam	0.5854	0.8707	3	472	2766.2242
+474	methods or apparatus for combustion using only solid fuel	0.803	0.7032	3	509	5989.6956
+475	combustion apparatus using fluent fuel	0.7497	0.9507	3	618	13990.6434
+476	burners	0.6903	0.8485	3	632	10002.9718
+477	cremation furnaces	0.8426	0.7964	3	620	12183.8464
+478	grates	0.8862	0.8231	3	390	2113.3136
+479	removal or treatment of combustion products or combustion	0.8685	0.7555	3	612	8961.1018
+480	feeding fuel to combustion apparatus	0.8102	0.857	3	600	11022.0606
+481	air supply	0.8173	0.9343	3	597	12259.647
+482	"casings, linings, walls or doors specially adapted for combustion chambers, e"	0.6888	0.966	3	605	9782.6832
+483	regulating or controlling combustion	0.6032	0.9256	3	623	10001.007
+484	ignition	0.5513	0.8134	3	596	3413.318
+485	generating combustion products of high pressure or high	0.604	1.0801	3	613	7659.4606
+486	domestic stoves or ranges for solid fuels	0.6824	0.7036	3	582	2695.4524
+487	other domestic stoves or ranges	0.5316	0.4554	3	632	6311.2304
+488	"domestic- or space-heating systems, e.g. central heating systems"	0.1989	0.7503	3	628	7479.7396
+489	"air-conditioning, air-humidification, ventilation, use of air"	-0.0809	0.5959	3	650	11964.7518
+490	"fluid heaters, e.g. water or air heaters, having heat generating"	0.4483	0.7914	3	632	8022.412
+491	producing or use of heat not otherwise provided for	0.3092	0.5108	3	644	8931.4708
+492	"refrigeration machines, plants or systems"	0.088	0.6512	3	641	10561.138
+493	"production, working, storing or distribution of ice"	0.2878	0.2488	5	623	3266.8462
+494	refrigerators	0.1052	0.2533	5	645	10336.1302
+495	"liquefaction, solidification or separation of gases or gaseous"	0.7176	0.745	3	583	3489.8364
+496	drying solid materials or objects by removing liquid therefrom	0.6613	-0.1082	2	645	11359.006
+497	"furnaces, kilns, ovens, or retorts in general"	0.7787	0.5579	3	629	8540.6396
+498	"details or accessories of furnaces, kilns, ovens, or retorts, in so far as th"	0.7088	0.608	3	637	9275.3982
+499	"indexing scheme relating to aspects of the charges or furnaces, kilns, ovens"	0.7454	0.5685	3	474	3168.8334
+500	steam or vapour condensers	0.4653	0.7351	3	532	3071.6644
+501	"heat-exchange apparatus, not provided for in another subclass, in which the h"	0.632	0.5092	3	595	7429.2834
+502	"heat-exchange apparatus, not provided for in another subclass, in which the h"	0.4444	0.6097	3	642	12848.5872
+503	"details of heat-exchange and heat-transfer apparatus, of"	0.4352	0.5495	3	645	12517.786
+504	cleaning of internal or external surfaces of heat-exchange or heat-transfer c	0.4992	0.5245	3	587	2621.474
+505	"functional features or details common to both smallarms and ordnance, e.g. ca"	-0.2987	0.235	1	634	4050.8288
+506	weapons for projecting missiles without use of explosive or combustible prope	-0.176	0.1513	1	626	2772.2526
+507	"smallarms, e.g. pistols, rifles"	-0.3562	0.1525	1	605	3749.363
+508	"apparatus for launching projectiles or missiles from barrels,"	-0.1878	0.4811	1	545	2138.0092
+509	weapon sights	-0.3808	0.2632	1	608	3424.4064
+510	armour	-0.1226	0.1658	1	642	8157.238
+511	targets	-0.3384	0.2155	1	625	2022.555
+512	"explosive charges, e.g. for blasting, fireworks, ammunition"	-0.0196	0.4984	1	641	5485.9188
+513	ammunition fuzes	-0.0046	0.5908	1	596	3296.4666
+514	blasting	0.0716	0.5049	1	618	3613.506
+515	"measuring length, thickness or similar linear dimensions"	-0.435	-0.0387	4	643	9900.0568
+516	"measuring distances, levels or bearings"	-0.9284	0.1591	4	643	17184.2078
+517	measuring not specially adapted for a specific variable	-0.7499	0.2467	4	641	14242.5196
+518	"measuring volume, volume flow, mass flow or liquid level"	-0.082	0.2669	4	646	9674.0402
+519	weighing	-0.4368	-0.0764	1	637	7858.8014
+520	"measurement of mechanical vibrations or ultrasonic, sonic"	-0.509	0.2605	4	611	5207.1028
+521	"measurement of intensity, velocity, spectral content, polarisation, phase or"	-0.556	0.1737	4	637	12630.7552
+522	measuring temperature	-0.3922	0.4244	4	641	10836.3742
+523	"measuring force, stress, torque, work, mechanical power,"	-0.5579	0.1281	4	641	9552.0536
+524	testing static or dynamic balance of machines or structures	-0.235	0.4181	4	643	10156.9838
+525	investigating or analysing materials by determining their	0.3781	0.0646	5	652	23520.5492
+526	"measuring linear or angular speed, acceleration, deceleration, or shock"	-0.7311	0.0392	4	635	9782.4648
+527	scanning-probe techniques or apparatus	-0.0368	0.2123	4	589	2811.9114
+528	measuring electric variables	-0.8004	0.1737	4	644	10787.6222
+529	radio direction-finding	-0.8995	0.2126	4	640	17311.4034
+530	measurement of nuclear or x-radiation	-0.079	0.3797	7	619	3977.8062
+531	geophysics	-0.1103	0.4383	7	636	7774.6932
+532	meteorology	-0.6068	0.4495	7	566	3179.5352
+533	"optical elements, systems, or apparatus"	-0.6069	-0.1363	4	648	19225.783
+534	spectacles	-0.361	-0.4483	2	622	3655.0116
+535	"devices or arrangements, the optical operation of which is modified by changi"	-0.6908	-0.175	4	641	15148.697
+536	apparatus or arrangements for taking photographs or for projecting or viewing	-0.6913	-0.3711	4	643	11024.1782
+537	photosensitive materials for photographic purposes	0.2196	-0.6521	2	633	4103.839
+538	apparatus for processing exposed photographic materials	-0.1829	-0.5115	2	618	2099.2398
+539	"photomechanical production of textured or patterned surfaces, e.g. for printi"	0.0177	-0.2779	2	642	8503.257
+540	"electrography; electrophotography; magnetography"	-0.0868	-0.7144	2	647	4794.8686
+541	holographic processes or apparatus	-0.4443	-0.4056	4	611	5207.026
+542	mechanically-driven clocks or watches	-0.7523	-0.309	4	606	5228.4132
+543	electromechanical clocks or watches	-0.903	-0.1913	4	579	3720.787
+544	apparatus or tools specially designed for making or maintaining clocks or wat	-0.7852	-0.2617	4	494	1291.8092
+545	time-interval measuring	-0.8064	-0.1407	4	597	6462.2506
+546	electronic time-pieces	-0.9759	-0.1613	4	607	8380.5768
+547	radio-controlled time-pieces	-1.1027	-0.1299	4	455	3054.5782
+548	control or regulating systems in general	-0.4752	0.196	4	647	18423.442
+549	systems for controlling or regulating non-electric variables	-0.29	0.4462	1	650	17483.378
+550	systems for regulating electric or magnetic variables	-0.2443	0.7167	6	610	10700.636
+551	control devices or systems insofar as characterised by	-0.7657	0.0759	4	626	6463.1344
+552	digital computers in which all the computation is effected	-0.6519	-0.4693	2	376	643.0818
+553	digital fluid-pressure computing devices	-0.3373	0.4289	1	95	116.9196
+554	optical computing devices	-0.5753	-0.2908	4	479	1898.212
+555	electrical digital data processing	-0.9964	-0.0788	4	653	24484.7854
+556	analogue computers	-1.0348	-0.0259	4	567	3288.0384
+557	hybrid computing arrangements	-1.0909	-0.0248	4	445	2170.8106
+558	recognition of data	-0.9027	-0.3619	4	649	22830.1788
+559	counting mechanisms	-0.4552	-0.3232	2	589	2099.9274
+560	computer systems based on specific computational models	-0.8671	0.1127	4	631	9719.352
+561	"data processing systems or methods, specially adapted for administrative, com"	-1.0846	-0.2003	4	651	19642.1488
+562	"image data processing or generation, in general"	-0.978	-0.2917	4	644	17025.0382
+563	ticket-issuing apparatus	-0.8879	-0.2539	4	610	6637.835
+564	time or attendance registers	-1.0186	0.0064	4	644	17680.3454
+565	"handling of coins or of paper currency or similar valuable papers, e.g. testi"	-1.0169	-0.5418	4	631	9039.2308
+566	coin-freed or like apparatus	-1.0502	-0.2968	4	646	10150.3294
+567	"registering the receipt of cash, valuables, or tokens"	-1.0384	-0.1779	4	613	9216.133
+568	signalling or calling systems	-0.827	0.115	4	646	16302.237
+569	"transmission systems for measured values, control or similar"	-0.9653	0.1307	4	621	13379.6036
+570	traffic control systems	-0.9671	0.3444	4	630	13264.352
+571	educational or demonstration appliances	-0.8225	-0.2374	4	644	13295.9062
+572	coding or ciphering apparatus for cryptographic or other	-1.2522	-0.3639	4	499	5799.7414
+573	railway or like time or fare tables	-0.69	-0.4839	2	347	568.0362
+574	displaying	-0.4611	-0.7054	8	648	21666.6496
+575	arrangements or circuits for control of indicating devices using static means	-0.8642	-0.1548	4	637	13081.8134
+576	organs	-1.0664	-0.4031	4	166	194.6972
+577	"pianos, harpsichords, spinets or similar stringed musical"	-1.0201	-0.4372	4	501	1523.252
+578	"stringed musical instruments; wind musical instruments; accordions or ..."	-0.8119	-0.4173	4	621	1519.5254
+579	automatic musical instruments	-1.0437	-0.444	4	382	1293.9682
+580	aids for music	-0.9419	-0.4081	4	546	2471.0162
+581	electrophonic musical instruments	-1.0957	-0.3428	4	617	5804.9538
+582	sound-producing devices	-0.6236	0.1277	4	639	8655.3974
+583	speech analysis or synthesis	-1.2666	-0.1865	4	616	10061.9704
+584	information storage based on relative movement between	-0.9981	-0.212	4	648	9915.0238
+585	static stores	-0.8352	-0.0975	4	635	9009.5364
+586	"constructional details of instruments, or comparable details of other apparat"	-0.3593	0.0582	4	581	2477.2196
+587	fusion reactors	0.0533	0.7874	7	557	2780.2914
+588	nuclear reactors	0.2089	0.6414	7	633	4594.5004
+589	nuclear power plant	0.0983	0.7951	7	574	3862.113
+590	"protection against x-radiation, gamma radiation, corpuscular radiation or par"	0.3922	0.4443	7	630	5362.908
+591	conversion of chemical elements	0.2538	0.5038	7	539	2212.6282
+592	obtaining energy from radioactive sources	0.2128	0.5082	7	483	1227.4812
+593	nuclear explosives	-0.2887	0.6437	7	225	347.9112
+594	techniques for handling particles or ionising radiation not otherwise provide	0.0033	0.3919	7	625	5996.0096
+595	"indexing scheme relating to nuclear reactors, power plants and explosives, to"	0.2391	0.6236	7	624	4441.1766
+596	cables	0.2588	-0.0066	2	643	9678.6518
+597	resistors	0.3169	0.4527	6	625	9646.928
+598	magnets	-0.3961	0.3215	4	646	13003.822
+599	"capacitors; capacitors, rectifiers, detectors, switching devices or ..."	-0.1828	0.3043	4	637	7144.1896
+600	electric switches	-0.7189	0.1544	4	643	10208.1636
+601	electric discharge tubes or discharge lamps	0.144	0.3578	7	646	9985.743
+602	electric incandescent lamps	-0.5324	0.3306	9	588	3124.2798
+603	semiconductor devices	-0.2355	0.0768	4	653	17785.394
+604	"processes or means, e.g. batteries, for the direct conversion of"	0.3577	0.4738	3	649	12523.1712
+605	waveguides	-0.9828	0.2665	4	619	5063.498
+606	aerials	-0.926	0.2416	4	641	9016.886
+607	line connectors	-0.5554	0.2559	4	647	6547.5782
+608	devices using stimulated emission	-0.308	0.1491	4	636	5290.229
+609	spark gaps	0.1409	0.4738	3	614	4223.9916
+610	"boards, substations, or switching arrangements for the supply"	-0.5187	0.1493	4	607	2415.3518
+611	"installation of electric cables or lines, or of combined optical"	-0.3816	0.1083	4	645	5819.5492
+612	emergency protective circuit arrangements	-0.6558	0.5077	4	615	5650.1214
+613	circuit arrangements or systems for supplying or distributing electric power	-0.5723	0.6584	4	641	15009.0414
+614	dynamo-electric machines	-0.3354	0.5178	1	645	8574.4306
+615	"apparatus for conversion between ac and ac, between ac and dc, or between dc"	-0.7634	0.637	4	631	6573.447
+616	electric machines not otherwise provided for	-0.3103	0.3135	4	625	5986.3082
+617	"control or regulation of electric motors, electric generators or dynamo-elect"	-0.4093	0.6723	1	630	7472.6874
+618	"generation of electric power by conversion of infra-red radiation, visible li"	0.0331	0.535	3	627	5786.9724
+619	"generation of oscillations, directly or by frequency-changing, by circuits em"	-1.2436	0.2718	4	583	6570.8494
+620	modulation	-1.5395	0.2692	4	542	6109.4886
+621	demodulation or transference of modulation from one carrier	-1.5508	0.2967	4	571	4961.0376
+622	amplifiers	-1.3799	0.3168	4	607	5926.9776
+623	control of amplification	-1.4143	0.2185	4	592	6998.3684
+624	"impedance networks, e.g. resonant circuits"	-1.1277	0.3305	4	619	8585.0192
+625	tuning resonant circuits	-1.3289	0.2479	4	566	7214.2846
+626	pulse technique	-1.0062	0.1807	4	627	6552.7182
+627	"automatic control, starting, synchronisation, or stabilisation of generators"	-1.275	0.2629	4	593	5420.9158
+628	coding	-1.335	0.0461	4	624	5887.421
+629	transmission	-1.2601	0.1925	4	643	17810.8416
+630	broadcast communication	-1.3727	-0.0986	4	613	12629.859
+631	multiplex communication	-1.3661	0.1198	4	616	8578.2458
+632	secret communication	-1.422	-0.0686	4	580	8134.2362
+633	"transmission of digital information, e.g. telegraphic"	-1.2576	0.0372	4	647	19329.4862
+634	telephonic communication	-1.2202	-0.0011	4	643	14863.6928
+635	"pictorial communication, e.g. television"	-1.1738	-0.2333	4	650	21857.2274
+636	selecting	-1.1764	0.1472	4	629	9300.3378
+637	"loudspeakers, microphones, gramophone pick-ups or like acoustic electromechan"	-0.958	0.0285	4	641	7397.1946
+638	stereophonic systems	-1.2316	-0.0611	4	539	2766.332
+639	wireless communications networks	-1.2422	0.1071	4	639	16484.769
+640	electric heating	-0.3048	0.5681	9	646	19793.0092
+641	electric circuits or apparatus specially designed for use in equipment for ki	-0.1946	0.2132	1	432	1682.3108
+642	static electricity	-0.0441	-0.0197	2	604	2669.5206
+643	x-ray technique	-0.0653	0.4862	7	586	3491.0832
+644	plasma technique	0.1381	0.5668	7	626	6365.8336
+645	printed circuits	-0.3907	0.0137	4	650	17098.4758
+646	indexing scheme relating to climate change mitigation technologies related to	-0.7713	0.4482	4	650	24120.2964
+647	"capture, storage, sequestration or disposal of greenhouse gases [ghg]"	0.6584	0.6402	6	622	14156.4784
+648	"reduction of greenhouse gases [ghg] emission, related to energy generation, t"	0.3895	0.5821	3	652	26848.671
+649	climate change mitigation technologies in the production or processing of goo	0.6473	0.3077	3	651	33293.6022
+650	climate change mitigation technologies related to transportation	-0.1118	0.8755	3	650	26837.7604
+651	climate change mitigation technologies related to wastewater treatment or was	0.6895	-0.0273	5	649	17566.7692
+652	"systems integrating technologies related to power network operation, communic"	-0.8635	0.5615	4	615	12350.2036
+653	technical subjects covered by former uspc cross-reference art collections [xr	-0.0318	-0.1144	6	653	54881.7382
+654	technical subjects covered by former us classification	0.0165	-0.144	6	653	67010.0676

@@ -1,0 +1,28 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+101	"seperating solids from solids by sieving, screening, or sifting or by using g"	0.6268	0.2496	1	22	1183	75
+102	postal sorting	0.4528	-0.1613	1	21	954	72
+104	disposal of solid waste	0.534	-0.3957	1	25	1495	90
+142	working veneer or plywood	-0.8451	-0.2704	3	19	797	41
+145	bending wood or similar material	-0.9342	-0.602	3	14	970	33
+146	"mechanical working of cane, cork, or similar materials"	-0.8869	-0.0457	3	18	452	34
+147	"processes, apparatus or selection of substances for impregnating, staining, d"	-0.9913	-0.317	3	20	375	74
+148	removing bark or vestiges of branches	-0.6125	-0.0039	3	20	570	42
+150	"manufacture by dry processes of articles, with or without organic binding age"	-0.6665	-0.3614	3	23	1684	75
+159	presses in general	0.0066	-0.0467	2	26	641	93
+25	"machines or apparatus for treating harvested fruit, vegetables or flower bulb"	0.184	0.3795	2	23	377	78
+262	"treatment of water, waste water, sewage, or sludge"	0.8013	-0.6028	1	23	1508	93
+344	mechanical treatment of natural fibrous or filamentary material to obtain fib	-0.2943	0.7104	2	23	677	58
+345	chemical treatment of natural filamentary or fibrous material to obtain filam	-0.3381	0.4431	2	20	550	59
+348	"preliminary treatment of fibres, e.g. for spinning"	-0.3787	0.8956	2	24	703	47
+349	spinning or twisting	-0.3692	1.0375	2	13	255	23
+377	fibrous raw materials or their mechanical treatment	-0.0051	-0.2845	4	26	3225	91
+378	production of cellulose by removing non-cellulose substances from cellulose-c	-0.2121	-0.0672	4	25	1874	91
+379	treatment of the materials before passing to the paper-making machine	0.4015	0.1267	4	25	1441	71
+383	fibreboard	-0.6733	-0.6698	3	22	1173	68
+651	climate change mitigation technologies related to wastewater treatment or was	0.3684	-0.5971	1	25	2977	95
+90	preparing grain for milling	0.038	0.5165	2	24	483	73
+91	"crushing, pulverising, or disintegrating in general"	-0.0209	0.1522	2	26	1591	91
+92	separating solid materials using liquids or using pneumatic	0.761	-0.0957	1	23	2538	88
+94	flotation	1.0765	-0.2153	1	21	1487	80
+95	centrifuges	0.9807	0.0441	1	16	215	72
+96	"apparatus using free vortex flow, e.g. cyclones"	0.9966	0.1815	1	19	617	50

@@ -1,0 +1,21 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+12	bakers ovens	0.6731	0.5598	2	18	1292	64
+13	machines or equipment for making or processing doughs	0.9803	0.3208	2	17	2268	72
+14	"treatment, e.g. preservation, of flour or dough, e.g. by addition of material"	0.9206	-0.015	3	17	4030	86
+18	"dairy products, e.g. milk, butter, cheese"	0.431	-0.4974	3	18	3159	86
+20	coffee	0.0807	0.2126	2	17	1527	79
+21	cocoa	0.5532	-0.2418	3	18	3887	87
+24	"foods, foodstuffs, or non-alcoholic beverages, not covered by subclasses a23b"	0.4488	-0.015	3	19	5283	95
+245	"applying closure members to bottles jars, or similar containers"	-0.886	0.0259	1	16	431	55
+246	"cleaning, filling with liquids or semiliquids, or emptying, of bottles, jars,"	-0.8083	0.0648	1	19	499	61
+247	"dispensing, delivering or transferring liquids, not otherwise"	-0.5324	0.4235	4	19	2216	70
+26	"shaping or working of foodstuffs, not fully covered by a single"	0.8742	-0.2662	2	18	3712	91
+27	"indexing scheme relating to foods, foodstuffs or non-alcoholic beverages"	0.1208	-0.1209	3	18	4537	91
+312	brewing of beer	-0.1211	-0.7254	1	19	1409	83
+314	wine	-0.3492	-0.6435	1	19	2453	83
+315	pasteurisation	-0.5427	-0.4609	1	19	1271	84
+316	vinegar	-0.3235	-0.4604	1	15	467	52
+317	pitching or depitching machines	-0.7089	-0.381	1	11	363	21
+493	"production, working, storing or distribution of ice"	-0.5845	0.9129	4	18	1606	55
+494	refrigerators	-0.4397	0.7942	4	19	2215	72
+59	kitchen equipment	0.2136	0.513	2	18	1611	82

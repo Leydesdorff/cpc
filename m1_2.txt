@@ -1,0 +1,21 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+143	dovetailed work	1.4848	0.0123	3	16	5955	56
+149	working of wood not provided for in subclasses b27b - b27l	1.403	-0.3092	3	17	5967	57
+385	"construction of, or surfaces for, roads, sports grounds, or the like"	-0.1943	0.2181	1	18	1427	121
+386	"construction of bridges,"	0.0192	0.0797	1	18	1206	115
+387	"additional work, such as equipping roads or the construction of platforms, he"	-0.2876	0.4793	1	18	1034	124
+389	hydraulic engineering	-0.5056	0.0228	2	19	1234	120
+391	foundations	-0.2879	-0.061	1	19	2227	122
+393	"installations or methods for obtaining, collecting, or"	-0.9573	-0.0943	2	16	713	99
+394	domestic plumbing installations for fresh water or waste	-1.0712	-0.2257	2	16	924	98
+395	water-closets or urinals with flushing devices	-1.1749	-0.1675	2	14	571	77
+396	sewers	-0.7766	0.0022	2	18	1199	98
+397	general building constructions	0.6075	-0.0653	1	19	7034	125
+398	structural elements	0.493	0.2108	1	19	5599	121
+399	roof coverings	-0.0996	0.522	1	19	1847	103
+400	"finishing work on buildings, e.g. stairs, floors"	1.0314	0.1543	3	19	6676	106
+401	scaffolding	0.1424	0.2607	1	19	2194	131
+402	buildings or like structures for particular purposes	-0.0496	-0.1498	1	19	1801	130
+447	devices for fastening or securing constructional elements or machine parts to	0.7579	-0.3619	3	19	4920	131
+455	pipes	-0.7376	-0.2405	2	19	949	132
+459	constructional elements in general	0.2031	-0.2869	1	15	253	67

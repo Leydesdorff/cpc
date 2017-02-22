@@ -1,0 +1,99 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+101	"seperating solids from solids by sieving, screening, or sifting or by using g"	-0.3279	-0.5706	1	75	1399	627
+102	postal sorting	-0.3072	-0.328	1	72	1409	632
+104	disposal of solid waste	-0.1661	-0.2227	1	90	2767	631
+11	preservation of bodies of humans or animals or plants or parts thereof	0.1716	0.0354	5	95	5319	643
+12	bakers ovens	-0.6117	0.6397	2	64	1576	617
+13	machines or equipment for making or processing doughs	-0.5019	0.6951	2	72	2844	628
+14	"treatment, e.g. preservation, of flour or dough, e.g. by addition of material"	-0.1399	0.6983	2	86	7707	607
+142	working veneer or plywood	-0.6996	-0.3462	1	41	847	546
+145	bending wood or similar material	-0.7232	-0.1963	1	33	1217	395
+146	"mechanical working of cane, cork, or similar materials"	-0.685	-0.4294	1	34	476	364
+147	"processes, apparatus or selection of substances for impregnating, staining, d"	-0.4389	-0.2858	1	74	972	586
+148	removing bark or vestiges of branches	-0.6288	-0.4563	1	42	608	570
+15	slaughtering	-0.1273	0.4544	5	62	1368	606
+150	"manufacture by dry processes of articles, with or without organic binding age"	-0.5823	-0.3504	1	75	2307	617
+159	presses in general	-0.446	-0.0759	1	93	1620	643
+16	"processing meat, poultry, or fish"	-0.221	0.4452	5	80	1809	635
+17	"preserving, e.g. by canning, meat, fish, eggs, fruit, vegetables, edible seed"	-0.2086	0.3498	5	91	3860	621
+18	"dairy products, e.g. milk, butter, cheese"	0.0264	0.729	2	86	6606	595
+19	"edible oils of fats, e.g. margarines, shortenings, cooking oils"	0.4405	0.9317	6	80	8484	568
+20	coffee	-0.5392	0.4782	2	79	2151	573
+21	cocoa	-0.3326	0.5414	2	87	6382	635
+22	protein compositions for foodstuffs	0.1072	0.4759	4	85	5253	561
+23	fodder	0.304	0.5825	6	89	8518	608
+24	"foods, foodstuffs, or non-alcoholic beverages, not covered by subclasses a23b"	-0.0376	0.6219	2	95	13750	643
+245	"applying closure members to bottles jars, or similar containers"	-0.7246	0.1749	2	55	613	603
+246	"cleaning, filling with liquids or semiliquids, or emptying, of bottles, jars,"	-0.7525	0.2104	2	61	639	600
+247	"dispensing, delivering or transferring liquids, not otherwise"	-0.8241	0.4402	2	70	2567	640
+25	"machines or apparatus for treating harvested fruit, vegetables or flower bulb"	-0.4206	0.1067	1	78	1300	607
+254	"nano-structures formed by manipulation of individual atoms, molecules, or lim"	1.2033	-0.7548	3	52	2042	520
+26	"shaping or working of foodstuffs, not fully covered by a single"	-0.362	0.6399	2	91	5798	614
+262	"treatment of water, waste water, sewage, or sludge"	0.068	-0.0833	1	93	4371	649
+266	phosphatic fertilisers	1.1258	0.4898	7	69	5991	493
+267	nitrogenous fertilisers	1.1905	0.3955	7	71	6072	528
+268	"inorganic fertilisers not covered by subclasses c05b, c05c"	1.0042	0.4459	7	68	6910	553
+269	"organic fertilisers not covered by subclasses c05b, c05c, e.g."	0.7681	0.2516	7	86	7040	605
+27	"indexing scheme relating to foods, foodstuffs or non-alcoholic beverages"	-0.2089	0.6145	2	91	8760	620
+270	mixtures of fertilisers covered individually by different subclasses of class	1.0235	0.3305	7	81	6817	588
+275	general methods of organic chemistry	1.1807	-0.5851	3	70	7611	598
+276	acyclic or carbocyclic compounds	0.668	-0.2661	3	87	4755	646
+277	heterocyclic compounds	0.9011	-0.2807	3	76	5056	643
+278	"acyclic, carbocyclic or heterocyclic compounds containing elements other than"	0.8422	-0.3872	3	75	3692	631
+279	compounds of unknown constitution	0.1972	-0.4685	4	74	2026	434
+28	indexing scheme relating to lactic or propionic acid bacteria used in foodstu	0.2529	0.7235	6	73	2536	349
+280	sugars	1.1195	-0.396	3	75	8944	622
+281	steroids	0.8539	-0.0954	3	63	1904	497
+282	peptides	1.0615	-0.152	3	75	8934	637
+283	"polysaccharides; derivatives thereof"	0.2321	-0.0866	4	90	4640	614
+287	derivatives of natural macromolecular compounds	0.1257	-0.2583	4	88	4361	578
+29	manufacture or preparation of tobacco for smoking or chewing	-1.2448	-0.1867	8	82	2870	599
+294	natural resins	0.3126	-0.2429	4	54	357	416
+296	preparation of glue or gelatine	0.0208	0.1971	4	63	433	290
+30	machines for making cigars or cigarettes	-1.2871	-0.3287	8	56	1712	604
+309	"producing (pressing, extraction), refining and preserving fats, fatty substan"	0.5742	0.8448	6	78	7473	585
+31	cigars	-1.3011	-0.2583	8	76	2914	607
+310	"fatty acids from fats, oils or waxes"	0.5296	0.279	6	78	4100	581
+312	brewing of beer	-0.2333	0.1952	2	83	2897	549
+314	wine	-0.4647	0.2567	2	83	3549	549
+315	pasteurisation	-0.5462	0.2031	2	84	1861	554
+316	vinegar	-0.4611	0.3367	2	52	662	171
+317	pitching or depitching machines	-0.7048	0.0738	2	21	526	225
+318	apparatus for enzymology or microbiology	0.4027	-0.4421	3	91	5613	640
+319	"micro-organisms or enzymes; compositions thereof"	0.9381	0.0447	3	85	12569	642
+32	smokers requisites	-1.3864	-0.2229	8	56	1862	613
+320	fermentation or enzyme-using processes to synthesise a desired chemical compo	0.6005	0.0144	3	88	10474	623
+321	measuring or testing processes involving enzymes or micro- organisms	0.9755	-0.5379	3	74	9486	636
+322	processes using micro-organisms	0.5762	0.4524	6	77	4207	546
+323	enzymes	0.8057	0.0775	3	81	9491	598
+324	production of sucrose	-0.09	0.0326	4	83	2479	524
+325	"saccharides, other than sucrose, obtained from natural sources or by hydrolys"	0.0399	-0.2999	4	85	4928	516
+343	combinatorial chemistry	1.0434	-0.6817	3	67	8949	623
+344	mechanical treatment of natural fibrous or filamentary material to obtain fib	-0.5946	-0.5839	1	58	849	470
+345	chemical treatment of natural filamentary or fibrous material to obtain filam	-0.3739	-0.4283	1	59	1203	266
+348	"preliminary treatment of fibres, e.g. for spinning"	-0.6843	-0.6564	1	47	770	602
+349	spinning or twisting	-0.7207	-0.6873	1	23	274	603
+377	fibrous raw materials or their mechanical treatment	-0.2796	-0.508	1	91	4807	591
+378	production of cellulose by removing non-cellulose substances from cellulose-c	-0.0833	-0.4348	1	91	4540	616
+379	treatment of the materials before passing to the paper-making machine	-0.2797	-0.6736	1	71	1725	580
+383	fibreboard	-0.6478	-0.2738	1	68	1387	550
+493	"production, working, storing or distribution of ice"	-0.9691	0.6	2	55	1745	623
+494	refrigerators	-0.8943	0.5551	2	72	2577	645
+525	investigating or analysing materials by determining their	0.6796	-0.5656	3	94	8795	652
+59	kitchen equipment	-0.6507	0.4931	2	82	2129	647
+6	new plants or processes for obtaining them	0.6274	1.1348	6	52	5164	584
+64	"veterinary instruments, implements, tools, or methods"	0.3823	0.2005	5	75	2092	613
+651	climate change mitigation technologies related to wastewater treatment or was	-0.0718	-0.2417	1	95	5511	649
+69	"preparations for medical, dental, or toilet purposes"	0.6063	-0.1094	3	90	10500	648
+7	manufacture of dairy products	0.0464	0.3929	5	58	658	602
+73	specific use of cosmetics or similar toilet preparations	0.3306	0.0975	4	86	3528	639
+8	animal husbandry	0.2855	0.277	5	91	4310	649
+87	"mixing, e.g. dissolving, emulsifying, dispersing"	0.1897	-0.3514	3	93	6167	647
+89	chemical or physical laboratory apparatus for general use	0.6861	-0.731	3	78	6750	646
+9	shoeing of animals	0.3836	0.3277	5	20	176	491
+90	preparing grain for milling	-0.3635	-0.1589	1	73	1264	466
+91	"crushing, pulverising, or disintegrating in general"	-0.4547	-0.4374	1	91	2089	632
+92	separating solid materials using liquids or using pneumatic	-0.1479	-0.5366	1	88	3352	613
+94	flotation	-0.0038	-0.6022	1	80	1966	584
+95	centrifuges	0.1714	-0.6481	1	72	944	612
+96	"apparatus using free vortex flow, e.g. cyclones"	-0.1196	-0.6832	1	50	698	587

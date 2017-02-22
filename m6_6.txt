@@ -1,0 +1,5 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+165	"additive manufacturing, i.e. manufacturing of three-dimensional [3-d] objects"	0.8589	-0.0003	2	1	676	46
+51	brushes	-0.4427	0.0013	1	2	1571	42
+52	manufacture of brushes	-0.8492	-0.001	1	2	1352	47
+63	dentistry	0.433	-0.0001	2	3	1233	62

@@ -1,0 +1,113 @@
+id	label	cluster	weight
+114	making metal chains	2	499
+139	perforating	2	635
+154	preparation or pretreatment of the material to be shaped	2	643
+155	shaping or joining of plastics	2	650
+156	producing particular articles from plastics or from substances	2	646
+157	"indexing scheme associated with subclasses b29b, b29c or b29d, relating to mo"	2	648
+158	"indexing scheme associated with subclass b29c, relating to particular article"	2	648
+161	"making wound articles, e.g. wound tubes, of paper or cardboard"	2	502
+164	"layered products, i.e. products built-up of strata of flat or non- flat, e.g."	2	649
+166	"machines or accessories for making, setting, or distributing type"	2	442
+167	processes for the manufacture or reproduction of printing	2	604
+168	apparatus for the mechanical reproduction of printing surfaces for stereotype	2	308
+169	printing machines or presses	2	639
+170	"apparatus for bronze printing, line printing, or for bordering or edging shee"	2	321
+171	typewriters	2	645
+172	stamps	2	558
+173	"apparatus or devices for manifolding, duplicating, or printing for office or"	2	529
+174	"printing, duplicating, marking, or copying processes"	2	640
+175	printing plates or foils	2	612
+176	"indexing scheme relating to printing, lining machines, typewriters, and to st"	2	623
+177	"permanently attaching together sheets, quires or signatures"	2	482
+178	bookbinding	2	595
+180	sheets temporarily attached together	2	606
+181	"indexing scheme relating to books, filing appliances or the like"	2	555
+182	implements for writing or drawing	2	613
+183	articles for writing or drawing upon	2	614
+184	bureau accessories not otherwise provided for	2	612
+185	"machines, apparatus or tools for artistic work, e.g. for sculpturing, guilloc"	2	592
+187	"painting or artistic drawing, not otherwise provided for"	2	631
+236	"labelling or tagging machines, apparatus, or processes"	2	622
+240	"handling thin or filamentary material, e.g. sheets, webs, cables"	2	643
+250	"making articles from leather, canvas, or the like"	2	150
+284	treatment or chemical modification of rubbers	2	563
+285	macromolecular compounds obtained by reactions only involving carbon-to-carbo	2	644
+286	macromolecular compounds obtained otherwise than by reactions only involving	2	648
+288	working-up	2	645
+289	use of inorganic or non-macromolecular organic substances as	2	648
+290	compositions of macromolecular compounds	2	649
+291	organic dyes or closely-related compounds for producing dyes	2	619
+292	"treatment of inorganic materials, other than fibrous fillers,"	2	628
+293	"coating compositions, e.g. paints, varnishes or lacquers"	2	645
+297	adhesives	2	642
+311	detergent compositions	2	639
+326	"mechanical treatment or processing of skins, hides or leather in general"	2	502
+327	"chemical treatment of hides, skins or leather, e.g. tanning, impregnating, fi"	2	534
+33	shirts	2	592
+34	"corsets; brassieres"	2	553
+346	"mechanical methods or apparatus in the manufacture of artificial filaments, t"	2	629
+347	"chemical features in the manufacture of artificial filaments, threads, fibres"	2	631
+35	outerwear	2	642
+350	"crimping or curling fibres, filaments, threads, or yarns"	2	627
+351	"warping, beaming or leasing"	2	382
+352	"finishing or dressing of filaments, yarns, threads, cords, ropes"	2	585
+353	shedding mechanisms	2	507
+354	woven fabrics	2	642
+355	auxiliary weaving apparatus	2	537
+356	knitting	2	628
+357	"braiding or manufacture of lace, including bobbin-net or carbonised lace"	2	608
+358	trimmings	2	492
+359	making nets by knotting of filamentary material	2	432
+36	garment fastenings	2	577
+360	"making textile fabrics, e.g. from fibres or filamentary material"	2	641
+361	sewing	2	608
+362	embroidering	2	579
+363	"indexing scheme associated with subclasses d05b and d05c, relating to sewing,"	2	550
+364	"treating textile materials by liquids, gases or vapours"	2	624
+365	"finishing, dressing, tentering or stretching textile fabrics"	2	601
+366	"laundering, drying, ironing, pressing or folding textile articles"	2	645
+367	"mechanical or pressure cleaning of carpets, rugs, sacks, hides or other skin"	2	420
+368	"marking, inspecting, seaming or severing textile materials"	2	569
+369	"pleating, kilting, or goffering textile fabrics or wearing"	2	345
+370	"bleaching, e.g. optical bleaching, dry-cleaning or washing fibres, threads, y"	2	578
+371	"treatment, not provided for elsewhere in class d06, of fibres, threads, yarns"	2	638
+372	"wall, floor or like covering materials, e.g. linoleum, oilcloth, artificial l"	2	630
+373	dyeing or printing textiles	2	619
+374	decorating textiles	2	575
+375	ropes or cables in general	2	601
+376	"indexing scheme associated with sublasses of section d, relating to textiles"	2	633
+38	"appliances or methods for making clothes, e.g. for dress-making,"	2	575
+380	paper-making machines	2	633
+381	"calenders; accessories for paper-making machines"	2	623
+382	pulp compositions	2	640
+39	hats	2	622
+40	manufacturing or trimming hats or other head coverings	2	531
+41	characteristic features of footwear	2	640
+42	fastenings or attachments of footwear	2	569
+43	"machines, tools, equipment or methods for manufacturing or repairing footwear"	2	603
+44	"buttons, pins, buckles, slide fasteners, or the like"	2	629
+45	jewellery	2	619
+451	"belts, cables, or ropes, predominantly used for driving purposes"	2	629
+46	"indexing scheme relating to buttons, pins, buckles or slide fasteners, and to"	2	533
+49	hairdressing or shaving equipment	2	645
+496	drying solid materials or objects by removing liquid therefrom	2	645
+534	spectacles	2	622
+537	photosensitive materials for photographic purposes	2	633
+538	apparatus for processing exposed photographic materials	2	618
+539	"photomechanical production of textured or patterned surfaces, e.g. for printi"	2	642
+540	"electrography; electrophotography; magnetography"	2	647
+552	digital computers in which all the computation is effected	2	376
+559	counting mechanisms	2	589
+573	railway or like time or fare tables	2	347
+596	cables	2	643
+60	sanitary equipment not otherwise provided for	2	639
+642	static electricity	2	604
+65	filters implantable into blood vessels	2	651
+68	containers specially adapted for medical or pharmaceutical purposes	2	645
+70	methods or apparatus for sterilising materials or objects in general	2	648
+71	"devices for introducing media into, or onto, the body"	2	652
+74	"devices, apparatus or methods for life-saving"	2	641
+97	spraying apparatus	2	651
+98	apparatus for applying liquids or other fluent materials to	2	643
+99	processes for applying liquids or other fluent materials to	2	644

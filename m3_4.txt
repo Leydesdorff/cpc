@@ -1,0 +1,19 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+194	"arrangements or adaptations of heating, cooling, ventilating, or other air-tr"	0.6568	-0.3115	2	17	1755	87
+439	non-positive displacement pumps	0.501	0.4541	3	17	1462	96
+440	pumping of fluid by direct contact of another fluid or by using	0.3689	0.5815	3	17	1340	87
+460	steam traps or like apparatus for draining-off liquids from enclosures predom	-0.3612	0.3199	1	15	255	70
+471	methods of steam generation	-0.7616	0.1589	1	17	1963	97
+472	"preheating, or accumulating preheated, feed-water"	-0.6225	0.3993	1	16	1213	91
+473	superheating of steam	-0.8713	0.3765	1	16	957	90
+488	"domestic- or space-heating systems, e.g. central heating systems"	0.132	0.0125	3	17	2067	97
+489	"air-conditioning, air-humidification, ventilation, use of air"	0.6957	0.0073	2	17	3106	97
+490	"fluid heaters, e.g. water or air heaters, having heat generating"	0.0173	0.291	3	17	1979	98
+492	"refrigeration machines, plants or systems"	0.2715	-0.3308	2	17	2452	95
+500	steam or vapour condensers	-0.4635	-0.1207	1	16	1619	90
+501	"heat-exchange apparatus, not provided for in another subclass, in which the h"	-0.6941	-0.5517	4	17	1411	95
+502	"heat-exchange apparatus, not provided for in another subclass, in which the h"	-0.229	-0.479	4	17	3644	99
+503	"details of heat-exchange and heat-transfer apparatus, of"	-0.4112	-0.5865	4	17	3505	97
+504	cleaning of internal or external surfaces of heat-exchange or heat-transfer c	-0.8681	-0.0744	1	17	773	91
+609	spark gaps	1.3985	-0.122	2	13	1332	83
+93	magnetic or electrostatic separation of solid materials from solid materials	1.2408	-0.0242	2	16	1581	92

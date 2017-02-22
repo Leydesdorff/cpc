@@ -1,0 +1,99 @@
+id	label	cluster	weight
+101	"seperating solids from solids by sieving, screening, or sifting or by using g"	5	627
+102	postal sorting	5	632
+104	disposal of solid waste	5	631
+11	preservation of bodies of humans or animals or plants or parts thereof	5	643
+12	bakers ovens	5	617
+13	machines or equipment for making or processing doughs	5	628
+14	"treatment, e.g. preservation, of flour or dough, e.g. by addition of material"	5	607
+142	working veneer or plywood	5	546
+145	bending wood or similar material	5	395
+146	"mechanical working of cane, cork, or similar materials"	5	364
+147	"processes, apparatus or selection of substances for impregnating, staining, d"	5	586
+148	removing bark or vestiges of branches	5	570
+15	slaughtering	5	606
+150	"manufacture by dry processes of articles, with or without organic binding age"	5	617
+159	presses in general	5	643
+16	"processing meat, poultry, or fish"	5	635
+17	"preserving, e.g. by canning, meat, fish, eggs, fruit, vegetables, edible seed"	5	621
+18	"dairy products, e.g. milk, butter, cheese"	5	595
+19	"edible oils of fats, e.g. margarines, shortenings, cooking oils"	5	568
+20	coffee	5	573
+21	cocoa	5	635
+22	protein compositions for foodstuffs	5	561
+23	fodder	5	608
+24	"foods, foodstuffs, or non-alcoholic beverages, not covered by subclasses a23b"	5	643
+245	"applying closure members to bottles jars, or similar containers"	5	603
+246	"cleaning, filling with liquids or semiliquids, or emptying, of bottles, jars,"	5	600
+247	"dispensing, delivering or transferring liquids, not otherwise"	5	640
+25	"machines or apparatus for treating harvested fruit, vegetables or flower bulb"	5	607
+254	"nano-structures formed by manipulation of individual atoms, molecules, or lim"	5	520
+26	"shaping or working of foodstuffs, not fully covered by a single"	5	614
+262	"treatment of water, waste water, sewage, or sludge"	5	649
+266	phosphatic fertilisers	5	493
+267	nitrogenous fertilisers	5	528
+268	"inorganic fertilisers not covered by subclasses c05b, c05c"	5	553
+269	"organic fertilisers not covered by subclasses c05b, c05c, e.g."	5	605
+27	"indexing scheme relating to foods, foodstuffs or non-alcoholic beverages"	5	620
+270	mixtures of fertilisers covered individually by different subclasses of class	5	588
+275	general methods of organic chemistry	5	598
+276	acyclic or carbocyclic compounds	5	646
+277	heterocyclic compounds	5	643
+278	"acyclic, carbocyclic or heterocyclic compounds containing elements other than"	5	631
+279	compounds of unknown constitution	5	434
+28	indexing scheme relating to lactic or propionic acid bacteria used in foodstu	5	349
+280	sugars	5	622
+281	steroids	5	497
+282	peptides	5	637
+283	"polysaccharides; derivatives thereof"	5	614
+287	derivatives of natural macromolecular compounds	5	578
+29	manufacture or preparation of tobacco for smoking or chewing	5	599
+294	natural resins	5	416
+296	preparation of glue or gelatine	5	290
+30	machines for making cigars or cigarettes	5	604
+309	"producing (pressing, extraction), refining and preserving fats, fatty substan"	5	585
+31	cigars	5	607
+310	"fatty acids from fats, oils or waxes"	5	581
+312	brewing of beer	5	549
+314	wine	5	549
+315	pasteurisation	5	554
+316	vinegar	5	171
+317	pitching or depitching machines	5	225
+318	apparatus for enzymology or microbiology	5	640
+319	"micro-organisms or enzymes; compositions thereof"	5	642
+32	smokers requisites	5	613
+320	fermentation or enzyme-using processes to synthesise a desired chemical compo	5	623
+321	measuring or testing processes involving enzymes or micro- organisms	5	636
+322	processes using micro-organisms	5	546
+323	enzymes	5	598
+324	production of sucrose	5	524
+325	"saccharides, other than sucrose, obtained from natural sources or by hydrolys"	5	516
+343	combinatorial chemistry	5	623
+344	mechanical treatment of natural fibrous or filamentary material to obtain fib	5	470
+345	chemical treatment of natural filamentary or fibrous material to obtain filam	5	266
+348	"preliminary treatment of fibres, e.g. for spinning"	5	602
+349	spinning or twisting	5	603
+377	fibrous raw materials or their mechanical treatment	5	591
+378	production of cellulose by removing non-cellulose substances from cellulose-c	5	616
+379	treatment of the materials before passing to the paper-making machine	5	580
+383	fibreboard	5	550
+493	"production, working, storing or distribution of ice"	5	623
+494	refrigerators	5	645
+525	investigating or analysing materials by determining their	5	652
+59	kitchen equipment	5	647
+6	new plants or processes for obtaining them	5	584
+64	"veterinary instruments, implements, tools, or methods"	5	613
+651	climate change mitigation technologies related to wastewater treatment or was	5	649
+69	"preparations for medical, dental, or toilet purposes"	5	648
+7	manufacture of dairy products	5	602
+73	specific use of cosmetics or similar toilet preparations	5	639
+8	animal husbandry	5	649
+87	"mixing, e.g. dissolving, emulsifying, dispersing"	5	647
+89	chemical or physical laboratory apparatus for general use	5	646
+9	shoeing of animals	5	491
+90	preparing grain for milling	5	466
+91	"crushing, pulverising, or disintegrating in general"	5	632
+92	separating solid materials using liquids or using pneumatic	5	613
+94	flotation	5	584
+95	centrifuges	5	612
+96	"apparatus using free vortex flow, e.g. cyclones"	5	587

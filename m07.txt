@@ -1,0 +1,18 @@
+id	label	cluster	weight
+436	"producing a reactive propulsive thrust, not otherwise provided"	7	493
+530	measurement of nuclear or x-radiation	7	619
+531	geophysics	7	636
+532	meteorology	7	566
+587	fusion reactors	7	557
+588	nuclear reactors	7	633
+589	nuclear power plant	7	574
+590	"protection against x-radiation, gamma radiation, corpuscular radiation or par"	7	630
+591	conversion of chemical elements	7	539
+592	obtaining energy from radioactive sources	7	483
+593	nuclear explosives	7	225
+594	techniques for handling particles or ionising radiation not otherwise provide	7	625
+595	"indexing scheme relating to nuclear reactors, power plants and explosives, to"	7	624
+601	electric discharge tubes or discharge lamps	7	646
+643	x-ray technique	7	586
+644	plasma technique	7	626
+72	electrotherapy	7	646

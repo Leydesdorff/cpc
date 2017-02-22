@@ -1,0 +1,18 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+189	vehicle wheels	0.1934	-0.3301	1	16	1609	129
+193	vehicle suspension arrangements	-0.0418	0.762	2	16	3384	125
+196	arrangement or mounting of propulsion units or of transmissions in vehicles	-0.976	-0.2692	3	16	5539	126
+197	electric equipment or propulsion of electrically-propelled vehicles	-0.7428	-0.0045	3	16	3662	120
+204	vehicle brake control systems or parts thereof	-0.5375	0.5478	2	16	3491	118
+206	conjoint control of vehicle sub-units of different type or different function	-1.0447	0.301	3	16	5289	109
+207	indexing scheme relating to aspects cross-cutting vehicle technology	-0.6114	-0.4794	3	16	4651	115
+219	motor vehicles	-0.115	0.3205	2	16	3151	134
+220	cycle stands	1.1031	0.0558	4	16	678	110
+221	cycle saddles or seats	0.9329	-0.1207	4	16	1632	124
+222	cycles	0.7104	0.2192	4	16	3329	118
+223	brakes specially adapted for cycles	0.5339	-0.045	4	16	1011	72
+224	rider propulsion of wheeled vehicles or sledges	0.4169	-0.6339	1	16	3283	84
+448	shafts	0.1759	0.0303	1	16	1147	131
+449	couplings for transmitting rotation	-0.1599	-0.2135	1	16	2353	127
+450	springs	0.3271	0.6174	2	16	1604	130
+452	gearing	-0.1643	-0.7577	1	16	4127	116

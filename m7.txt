@@ -1,0 +1,18 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+436	"producing a reactive propulsive thrust, not otherwise provided"	-0.5974	0.542	1	16	428	493
+530	measurement of nuclear or x-radiation	-0.5646	-0.2917	1	16	1674	619
+531	geophysics	-0.7494	-0.4315	1	16	1201	636
+532	meteorology	-0.146	-0.5708	3	9	76	566
+587	fusion reactors	0.137	0.4496	3	15	2164	557
+588	nuclear reactors	1.1056	0.1435	2	16	2553	633
+589	nuclear power plant	0.4242	0.5853	3	15	2577	574
+590	"protection against x-radiation, gamma radiation, corpuscular radiation or par"	0.9372	-0.229	2	15	1536	630
+591	conversion of chemical elements	0.5546	-0.0271	2	15	1260	539
+592	obtaining energy from radioactive sources	0.527	-0.2223	2	14	554	483
+593	nuclear explosives	-0.0909	-0.5259	3	12	153	225
+594	techniques for handling particles or ionising radiation not otherwise provide	-0.6888	0.0131	1	15	2873	625
+595	"indexing scheme relating to nuclear reactors, power plants and explosives, to"	1.2558	-0.0687	2	15	2866	624
+601	electric discharge tubes or discharge lamps	-0.717	0.3016	1	16	1170	646
+643	x-ray technique	-0.9918	-0.0063	1	14	1900	586
+644	plasma technique	-0.3363	0.3314	1	16	2630	626
+72	electrotherapy	-0.0592	0.0069	1	15	697	646

@@ -1,0 +1,139 @@
+id	label	cluster	weight
+1	soil working in agriculture or forestry	1	634
+115	foundry moulding	1	636
+136	manipulators	1	641
+143	dovetailed work	1	564
+149	working of wood not provided for in subclasses b27b - b27l	1	606
+189	vehicle wheels	1	619
+190	vehicle tyres	1	639
+191	vehicle connections	1	602
+192	vehicles for use both on rail and on road	1	459
+193	vehicle suspension arrangements	1	632
+195	"windows, windscreens, non-fixed roofs, doors, or similar devices for vehicles"	1	644
+196	arrangement or mounting of propulsion units or of transmissions in vehicles	1	643
+197	electric equipment or propulsion of electrically-propelled vehicles	1	631
+198	"power supply lines, and devices along rails, for electrically-"	1	538
+199	vehicle passenger accommodation not otherwise provided for	1	642
+2	planting	1	636
+200	"vehicles adapted for load transportation or to transport,"	1	638
+201	vehicle lighting or signalling	1	631
+202	"vehicles, vehicle fittings, or vehicle parts, not otherwise provided for"	1	648
+203	"servicing, cleaning, repairing, supporting, lifting, or manoeuvring of vehicl"	1	634
+204	vehicle brake control systems or parts thereof	1	632
+205	air-cushion vehicles	1	488
+206	conjoint control of vehicle sub-units of different type or different function	1	623
+207	indexing scheme relating to aspects cross-cutting vehicle technology	1	618
+208	railway systems	1	584
+209	locomotives	1	569
+210	body details or kinds of railway vehicles	1	622
+211	"rail vehicle suspensions, e.g. underframes, bogies or arrangements of wheel a"	1	559
+212	couplings	1	521
+213	brakes or other retarding apparatus peculiar to rail vehicles	1	475
+214	shifting or shunting of rail vehicles	1	352
+215	other auxiliary equipment for railways	1	561
+216	guiding railway traffic	1	581
+217	"hand-propelled vehicles, e.g. hand carts, perambulators"	1	627
+218	vehicles drawn by animals	1	204
+219	motor vehicles	1	643
+220	cycle stands	1	552
+221	cycle saddles or seats	1	622
+222	cycles	1	628
+223	brakes specially adapted for cycles	1	515
+224	rider propulsion of wheeled vehicles or sledges	1	600
+225	ships or other waterborne vessels	1	648
+226	"launching, hauling-out, or dry-docking of vessels"	1	636
+227	offensive or defensive arrangements on vessels	1	612
+228	marine propulsion or steering	1	629
+229	auxiliaries on vessels	1	590
+230	lighter-than air aircraft	1	574
+231	aeroplanes	1	642
+232	equipment for fitting in or to aircraft	1	643
+233	ground or aircraft-carrier-deck installations specially adapted for use in co	1	635
+234	cosmonautics	1	636
+238	gathering or removal of domestic or like refuse	1	627
+239	"transport or storage devices, e.g. conveyors for loading or tipping"	1	646
+241	elevators	1	615
+242	cranes	1	631
+243	capstans	1	587
+244	"hoisting, lifting, hauling or pushing, not otherwise provided for,"	1	627
+248	harness	1	439
+249	b68c	1	453
+251	"methods, equipment, or machines for use in upholstering"	1	559
+271	explosives or thermic compositions	1	607
+272	detonating or priming devices	1	537
+273	means for generating smoke or mist	1	566
+274	matches	1	91
+3	harvesting	1	636
+384	permanent way	1	608
+385	"construction of, or surfaces for, roads, sports grounds, or the like"	1	642
+386	"construction of bridges,"	1	596
+387	"additional work, such as equipping roads or the construction of platforms, he"	1	628
+388	street cleaning	1	624
+389	hydraulic engineering	1	636
+390	ship-lifting devices or mechanisms	1	243
+391	foundations	1	642
+392	dredging	1	638
+393	"installations or methods for obtaining, collecting, or"	1	614
+394	domestic plumbing installations for fresh water or waste	1	627
+395	water-closets or urinals with flushing devices	1	614
+396	sewers	1	629
+397	general building constructions	1	646
+398	structural elements	1	643
+399	roof coverings	1	640
+4	processing of harvested produce	1	607
+400	"finishing work on buildings, e.g. stairs, floors"	1	644
+401	scaffolding	1	639
+402	buildings or like structures for particular purposes	1	647
+403	locks	1	638
+404	"bolts or fastening devices for wings, specially for doors"	1	619
+405	"hinges or other suspension devices for doors, windows or wings"	1	634
+406	devices for moving wings into open or closed position	1	632
+407	safes or strong-rooms for valuables	1	583
+408	"indexing scheme relating to hinges or other suspension devices for doors, win"	1	643
+409	"fixed or movable closures for openings in buildings, vehicles, fences or like"	1	641
+410	ladders	1	585
+432	machines or engines for liquids	1	607
+434	wind motors	1	628
+441	indexing scheme relating to machines or engines other than non-positive-displ	1	633
+447	devices for fastening or securing constructional elements or machine parts to	1	644
+448	shafts	1	646
+449	couplings for transmitting rotation	1	644
+450	springs	1	644
+452	gearing	1	647
+455	pipes	1	649
+456	"frames, casings, or beds of engines or other machines or apparatus not specif"	1	636
+459	constructional elements in general	1	315
+47	walking sticks	1	598
+48	purses	1	636
+50	travelling or camp equipment	1	629
+505	"functional features or details common to both smallarms and ordnance, e.g. ca"	1	634
+506	weapons for projecting missiles without use of explosive or combustible prope	1	626
+507	"smallarms, e.g. pistols, rifles"	1	605
+508	"apparatus for launching projectiles or missiles from barrels,"	1	545
+509	weapon sights	1	608
+510	armour	1	642
+511	targets	1	625
+512	"explosive charges, e.g. for blasting, fireworks, ammunition"	1	641
+513	ammunition fuzes	1	596
+514	blasting	1	618
+519	weighing	1	637
+53	tables	1	644
+54	chairs	1	641
+549	systems for controlling or regulating non-electric variables	1	650
+55	furniture specially adapted for children	1	595
+553	digital fluid-pressure computing devices	1	95
+58	furnishings for windows or doors	1	578
+61	domestic washing or cleaning	1	646
+614	dynamo-electric machines	1	645
+617	"control or regulation of electric motors, electric generators or dynamo-elect"	1	630
+641	electric circuits or apparatus specially designed for use in equipment for ki	1	432
+66	transport or accomodation for patients	1	641
+67	"physical therapy apparatus, e.g. devices for locating or stimulating reflex p"	1	640
+75	fire-fighting	1	642
+77	"apparatus for physical training, gymnastics, swimming, climbing,"	1	647
+78	skates	1	632
+79	bowling-alleys	1	583
+81	merry-go-rounds	1	605
+82	"toys, e.g. tops, dolls, hoops, building blocks"	1	642
+83	"devices for theatres, circuses, or the like"	1	595
+84	racing	1	455

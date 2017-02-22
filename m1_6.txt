@@ -1,0 +1,16 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+271	explosives or thermic compositions	1.1045	0.0234	2	13	2850	45
+272	detonating or priming devices	0.8402	-0.0005	2	13	2571	28
+273	means for generating smoke or mist	1.1643	-0.181	2	13	2054	39
+274	matches	1.3602	0.0704	2	6	53	7
+505	"functional features or details common to both smallarms and ordnance, e.g. ca"	-0.7401	-0.0822	1	13	2627	109
+506	weapons for projecting missiles without use of explosive or combustible prope	-0.7676	0.1406	1	13	1270	103
+507	"smallarms, e.g. pistols, rifles"	-1.0058	-0.0315	1	13	2394	88
+508	"apparatus for launching projectiles or missiles from barrels,"	-0.2602	-0.1524	3	13	1051	92
+509	weapon sights	-0.8648	-0.2554	1	13	1851	100
+510	armour	-0.3611	0.2511	1	13	1794	127
+511	targets	-0.5473	-0.2463	1	13	719	107
+512	"explosive charges, e.g. for blasting, fireworks, ammunition"	0.0294	0.0304	3	14	3068	116
+513	ammunition fuzes	0.2696	-0.1148	3	14	2385	77
+514	blasting	0.3506	0.1562	3	14	1896	110
+641	electric circuits or apparatus specially designed for use in equipment for ki	-0.572	0.3921	1	10	1161	43

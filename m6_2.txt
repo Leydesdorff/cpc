@@ -1,0 +1,16 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+118	turning	0.5647	-0.4579	1	14	2786	62
+119	milling	0.9914	-0.1837	1	14	1463	57
+121	making gears or toothed racks	1.0736	0.1208	1	11	338	43
+122	thread cutting	0.6254	-0.1734	1	14	941	51
+126	"details, components, or accessories for machine tools, e.g."	0.5067	0.1943	1	14	2537	65
+130	"tools or bench devices not otherwise provided for, for fastening, connecting,"	-0.5223	-0.4813	2	14	2697	61
+131	hand-held nailing or stapling tools	-0.4297	0.6692	3	13	911	44
+132	percussive tools	-0.1601	-0.6004	2	14	1700	51
+133	combination or multi-purpose tools not otherwise provided for	-0.5456	-0.0688	2	14	3712	49
+134	handles for hand implements	-0.9022	-0.3689	2	13	1812	48
+135	"workshop equipment, e.g. for marking-out work"	-0.2364	-0.1438	4	14	1622	55
+137	hand-held cutting tools not otherwise provided for	-0.9913	0.0572	2	14	664	54
+141	"planing, drilling, milling, turning or universal machines for"	0.0746	0.0514	4	14	1631	38
+62	diagnosis	-0.1904	0.8636	3	13	1150	64
+654	technical subjects covered by former us classification	0.1416	0.5217	3	14	2136	66

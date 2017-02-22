@@ -1,0 +1,16 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+556	analogue computers	-0.2059	0.8524	1	14	1190	91
+557	hybrid computing arrangements	0.0495	0.8041	1	14	412	87
+599	"capacitors; capacitors, rectifiers, detectors, switching devices or ..."	-0.8623	-0.3797	2	14	1077	85
+605	waveguides	-0.5926	-0.6308	2	14	2345	92
+606	aerials	-0.2306	-0.7583	2	14	1962	95
+619	"generation of oscillations, directly or by frequency-changing, by circuits em"	-0.5527	0.2221	1	14	4471	93
+620	modulation	1.0694	-0.0843	3	14	4571	86
+621	demodulation or transference of modulation from one carrier	0.9342	-0.4032	3	14	3948	83
+622	amplifiers	0.3569	0.1465	3	14	4285	88
+623	control of amplification	0.685	0.2737	3	14	4211	97
+624	"impedance networks, e.g. resonant circuits"	-0.4039	-0.1074	2	14	3902	95
+625	tuning resonant circuits	-0.1342	-0.3313	2	14	4209	91
+626	pulse technique	-0.3735	0.6319	1	14	1589	96
+627	"automatic control, starting, synchronisation, or stabilisation of generators"	-0.1649	0.2404	1	14	3230	92
+629	transmission	0.4258	-0.4762	3	14	4350	95

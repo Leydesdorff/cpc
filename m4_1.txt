@@ -1,0 +1,28 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+100	methods or apparatus for generating or transmitting mechanical vibrations of	0.693	0.6666	1	26	1264	90
+252	"micro-structural devices or systems, e.g. micro-mechanical"	-0.8296	-0.3065	4	26	5752	92
+253	processes or apparatus specially adapted for the manufacture or treatment of	-0.7919	-0.0522	4	26	5514	92
+255	specific uses or applications of nano-structures	-0.5685	0.3374	2	26	4520	95
+515	"measuring length, thickness or similar linear dimensions"	0.2935	-0.3434	1	26	2437	97
+517	measuring not specially adapted for a specific variable	0.6263	-0.064	1	26	2620	98
+518	"measuring volume, volume flow, mass flow or liquid level"	0.9708	0.0157	1	26	1510	96
+520	"measurement of mechanical vibrations or ultrasonic, sonic"	0.7812	0.1416	1	26	2145	97
+521	"measurement of intensity, velocity, spectral content, polarisation, phase or"	-0.047	-0.5137	3	26	3600	94
+522	measuring temperature	0.7689	-0.2155	1	26	1822	93
+523	"measuring force, stress, torque, work, mechanical power,"	0.341	-0.085	1	26	3246	97
+524	testing static or dynamic balance of machines or structures	0.6322	-0.405	1	26	2092	95
+526	"measuring linear or angular speed, acceleration, deceleration, or shock"	0.2735	0.1246	1	26	2291	97
+527	scanning-probe techniques or apparatus	-0.0978	0.3461	2	26	1126	66
+533	"optical elements, systems, or apparatus"	-0.5404	-0.4366	3	26	6063	95
+535	"devices or arrangements, the optical operation of which is modified by changi"	-0.5091	-0.0591	3	26	3254	95
+536	apparatus or arrangements for taking photographs or for projecting or viewing	-0.853	0.4493	2	26	2639	95
+541	holographic processes or apparatus	-0.4368	-0.8444	3	26	1303	85
+548	control or regulating systems in general	0.9474	-0.2527	1	26	1868	97
+554	optical computing devices	-0.3047	-0.936	3	25	878	78
+575	arrangements or circuits for control of indicating devices using static means	-1.0668	0.0988	2	26	4787	96
+582	sound-producing devices	0.7185	0.5286	1	26	1415	97
+585	static stores	-0.8253	0.7584	2	26	2507	94
+586	"constructional details of instruments, or comparable details of other apparat"	0.496	0.2408	1	25	602	86
+603	semiconductor devices	-0.5005	0.5986	2	26	3560	95
+608	devices using stimulated emission	-0.2384	-0.3129	3	26	1676	92
+616	electric machines not otherwise provided for	0.0674	0.5204	2	26	1601	92

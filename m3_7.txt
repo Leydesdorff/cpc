@@ -1,0 +1,5 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+417	"non-positive displacement machines or engines, e.g. steam"	0.5813	0.3187	1	3	3086	92
+424	gas-turbine plants	-0.5097	-0.3513	1	3	2808	98
+428	jet-propulsion plants	-0.4438	0.4614	1	3	2302	88
+443	indexing scheme for aspects relating to non-positive- displacement machines o	0.3722	-0.4288	1	3	3698	96

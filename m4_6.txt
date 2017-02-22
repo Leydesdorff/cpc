@@ -1,0 +1,9 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+576	organs	-0.0601	-0.3612	1	7	147	17
+577	"pianos, harpsichords, spinets or similar stringed musical"	-0.5533	-0.2568	1	7	1220	45
+578	"stringed musical instruments; wind musical instruments; accordions or ..."	-0.2887	0.5146	2	7	767	54
+579	automatic musical instruments	-0.8862	-0.1463	1	7	1062	45
+580	aids for music	-0.5049	0.2507	2	7	1304	78
+581	electrophonic musical instruments	0.1165	0.0238	1	7	1166	94
+637	"loudspeakers, microphones, gramophone pick-ups or like acoustic electromechan"	1.0595	-0.1144	3	7	663	98
+638	stereophonic systems	1.1172	0.0896	3	7	635	93

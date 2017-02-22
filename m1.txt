@@ -1,0 +1,139 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+1	soil working in agriculture or forestry	0.6768	-0.2185	7	113	2446	634
+115	foundry moulding	0.5434	-0.5566	3	89	781	636
+136	manipulators	0.4083	-0.2946	7	125	3833	641
+143	dovetailed work	-1.0357	1.0566	2	56	6077	564
+149	working of wood not provided for in subclasses b27b - b27l	-1.0821	0.9718	2	57	6103	606
+189	vehicle wheels	0.6565	0.0417	4	129	3699	619
+190	vehicle tyres	1.1086	0.4918	9	117	4084	639
+191	vehicle connections	0.8276	0.375	9	116	3176	602
+192	vehicles for use both on rail and on road	0.1717	-0.6876	3	96	1781	459
+193	vehicle suspension arrangements	0.8142	0.0578	4	125	4894	632
+195	"windows, windscreens, non-fixed roofs, doors, or similar devices for vehicles"	0.4599	0.6965	8	127	3350	644
+196	arrangement or mounting of propulsion units or of transmissions in vehicles	1.1289	0.068	4	126	10160	643
+197	electric equipment or propulsion of electrically-propelled vehicles	0.7707	-0.4418	4	120	7691	631
+198	"power supply lines, and devices along rails, for electrically-"	0.3366	-0.5807	3	103	1008	538
+199	vehicle passenger accommodation not otherwise provided for	0.6233	0.6045	1	127	5409	642
+2	planting	0.6304	-0.2596	7	98	1565	636
+200	"vehicles adapted for load transportation or to transport,"	0.289	0.0551	3	130	3440	638
+201	vehicle lighting or signalling	1.107	0.6121	9	115	7137	631
+202	"vehicles, vehicle fittings, or vehicle parts, not otherwise provided for"	0.8157	0.5507	9	131	8619	648
+203	"servicing, cleaning, repairing, supporting, lifting, or manoeuvring of vehicl"	1.0144	0.4023	9	119	5088	634
+204	vehicle brake control systems or parts thereof	0.9788	-0.0914	4	118	5984	632
+205	air-cushion vehicles	-0.2023	-0.6321	5	87	1024	488
+206	conjoint control of vehicle sub-units of different type or different function	1.2046	-0.0652	4	109	8326	623
+207	indexing scheme relating to aspects cross-cutting vehicle technology	1.017	-0.2678	4	115	6277	618
+208	railway systems	0.2623	-0.5734	3	116	2417	584
+209	locomotives	0.5082	-0.8214	3	103	3094	569
+210	body details or kinds of railway vehicles	0.4838	-0.5024	3	120	3293	622
+211	"rail vehicle suspensions, e.g. underframes, bogies or arrangements of wheel a"	0.6357	-0.701	3	75	1939	559
+212	couplings	0.5723	-0.6371	3	71	981	521
+213	brakes or other retarding apparatus peculiar to rail vehicles	0.6514	-0.5571	3	86	1123	475
+214	shifting or shunting of rail vehicles	0.3224	-0.7013	3	80	1068	352
+215	other auxiliary equipment for railways	0.2537	-0.7029	3	103	1563	561
+216	guiding railway traffic	0.4116	-0.7665	3	102	2544	581
+217	"hand-propelled vehicles, e.g. hand carts, perambulators"	0.2807	0.4151	1	123	2913	627
+218	vehicles drawn by animals	0.3611	0.7348	1	46	253	204
+219	motor vehicles	0.5938	0.1332	4	134	7007	643
+220	cycle stands	0.4296	0.4821	4	110	1518	552
+221	cycle saddles or seats	0.5473	0.4235	4	124	2819	622
+222	cycles	0.7211	0.2884	4	118	4526	628
+223	brakes specially adapted for cycles	0.9183	0.1931	4	72	1177	515
+224	rider propulsion of wheeled vehicles or sledges	1.0283	0.0681	4	84	3754	600
+225	ships or other waterborne vessels	-0.2031	-0.4028	5	134	4630	648
+226	"launching, hauling-out, or dry-docking of vessels"	-0.1963	-0.2843	5	127	2246	636
+227	offensive or defensive arrangements on vessels	-0.5293	-0.5374	5	116	2470	612
+228	marine propulsion or steering	-0.1037	-0.6857	5	118	2397	629
+229	auxiliaries on vessels	-0.1261	-0.6058	5	113	2115	590
+230	lighter-than air aircraft	-0.3675	-0.5819	5	87	958	574
+231	aeroplanes	-0.261	-0.5033	5	129	3540	642
+232	equipment for fitting in or to aircraft	-0.305	-0.2782	5	132	3440	643
+233	ground or aircraft-carrier-deck installations specially adapted for use in co	-0.1435	-0.3426	5	133	2288	635
+234	cosmonautics	-0.5079	-0.1841	5	128	1384	636
+238	gathering or removal of domestic or like refuse	0.153	0.0786	1	120	1408	627
+239	"transport or storage devices, e.g. conveyors for loading or tipping"	0.2484	-0.2281	3	130	1960	646
+241	elevators	0.1511	-0.0927	3	115	1059	615
+242	cranes	0.118	-0.2252	3	130	2899	631
+243	capstans	0.0905	-0.1287	3	119	1730	587
+244	"hoisting, lifting, hauling or pushing, not otherwise provided for,"	0.2499	-0.066	3	129	3247	627
+248	harness	0.3209	0.7414	1	50	453	439
+249	b68c	0.2903	0.7226	1	61	429	453
+251	"methods, equipment, or machines for use in upholstering"	0.2534	0.8208	1	73	1103	559
+271	explosives or thermic compositions	-1.7607	-0.3419	6	45	2980	607
+272	detonating or priming devices	-1.6562	-0.3196	6	28	2649	537
+273	means for generating smoke or mist	-1.7117	-0.381	6	39	2270	566
+274	matches	-1.8615	-0.3487	6	7	54	91
+3	harvesting	0.8106	-0.2417	7	115	2291	636
+384	permanent way	0.1954	-0.5743	3	109	1616	608
+385	"construction of, or surfaces for, roads, sports grounds, or the like"	-0.1179	0.0272	2	121	2382	642
+386	"construction of bridges,"	-0.3727	0.0089	2	115	2001	596
+387	"additional work, such as equipping roads or the construction of platforms, he"	-0.433	0.1841	2	124	1715	628
+388	street cleaning	0.3721	-0.1077	7	111	1212	624
+389	hydraulic engineering	-0.3553	-0.3782	2	120	2862	636
+390	ship-lifting devices or mechanisms	-0.142	-0.4696	5	48	509	243
+391	foundations	-0.4946	0.0332	2	122	2986	642
+392	dredging	0.4032	-0.1625	7	118	2498	638
+393	"installations or methods for obtaining, collecting, or"	-0.4619	-0.329	2	99	1142	614
+394	domestic plumbing installations for fresh water or waste	-0.4679	-0.401	2	98	1607	627
+395	water-closets or urinals with flushing devices	-0.5339	-0.4018	2	77	778	614
+396	sewers	-0.4557	-0.2541	2	98	1555	629
+397	general building constructions	-0.756	0.6209	2	125	8301	646
+398	structural elements	-0.7202	0.4828	2	121	6625	643
+399	roof coverings	-0.5835	0.3157	2	103	2274	640
+4	processing of harvested produce	0.7713	-0.2824	7	65	580	607
+400	"finishing work on buildings, e.g. stairs, floors"	-0.879	0.8296	2	106	7197	644
+401	scaffolding	-0.3659	0.3596	2	131	3676	639
+402	buildings or like structures for particular purposes	-0.3241	0.2285	2	130	3985	647
+403	locks	-0.0098	0.7116	8	122	3112	638
+404	"bolts or fastening devices for wings, specially for doors"	-0.1179	0.7767	8	121	2948	619
+405	"hinges or other suspension devices for doors, windows or wings"	-0.0693	0.8922	8	121	4403	634
+406	devices for moving wings into open or closed position	0.0956	0.7933	8	124	4753	632
+407	safes or strong-rooms for valuables	-0.3735	0.5866	8	99	1091	583
+408	"indexing scheme relating to hinges or other suspension devices for doors, win"	0.0248	0.9101	8	126	5547	643
+409	"fixed or movable closures for openings in buildings, vehicles, fences or like"	-0.2657	0.754	8	114	3184	641
+410	ladders	-0.0299	0.2985	1	114	1068	585
+432	machines or engines for liquids	-0.2162	-0.8696	5	83	2827	607
+434	wind motors	-0.0034	-0.9457	5	105	3894	628
+441	indexing scheme relating to machines or engines other than non-positive-displ	-0.095	-0.9306	5	116	4889	633
+447	devices for fastening or securing constructional elements or machine parts to	-0.5833	0.6626	2	131	6879	644
+448	shafts	0.5044	-0.0982	4	131	2718	646
+449	couplings for transmitting rotation	0.8119	-0.1115	4	127	3475	644
+450	springs	0.4359	0.0672	4	130	3288	644
+452	gearing	1.109	-0.1606	4	116	5000	647
+455	pipes	-0.315	-0.1382	2	132	2015	649
+456	"frames, casings, or beds of engines or other machines or apparatus not specif"	-0.0012	0.4303	1	131	3565	636
+459	constructional elements in general	-0.4743	0.3072	2	67	493	315
+47	walking sticks	-0.1223	0.361	1	105	1130	598
+48	purses	-0.1415	0.5334	1	113	2049	636
+50	travelling or camp equipment	-0.1507	0.4575	1	115	2361	629
+505	"functional features or details common to both smallarms and ordnance, e.g. ca"	-0.951	0.0431	6	109	3156	634
+506	weapons for projecting missiles without use of explosive or combustible prope	-0.8567	0.0486	6	103	1622	626
+507	"smallarms, e.g. pistols, rifles"	-0.9261	0.1585	6	88	2938	605
+508	"apparatus for launching projectiles or missiles from barrels,"	-0.9074	-0.3138	6	92	1832	545
+509	weapon sights	-0.9566	-0.0436	6	100	2264	608
+510	armour	-0.8514	-0.0588	6	127	3092	642
+511	targets	-0.687	-0.1009	6	107	1178	625
+512	"explosive charges, e.g. for blasting, fireworks, ammunition"	-1.1662	-0.2495	6	116	3770	641
+513	ammunition fuzes	-1.347	-0.2954	6	77	2639	596
+514	blasting	-1.2701	-0.2123	6	110	2396	618
+519	weighing	0.4038	0.2566	1	120	2193	637
+53	tables	-0.0674	0.5246	1	123	2542	644
+54	chairs	0.2042	0.6266	1	125	3603	641
+549	systems for controlling or regulating non-electric variables	0.2915	-0.3263	7	129	5919	650
+55	furniture specially adapted for children	0.1414	0.5158	1	95	1358	595
+553	digital fluid-pressure computing devices	-0.0036	-0.3146	1	8	39	95
+58	furnishings for windows or doors	-0.3094	0.6571	8	96	1129	578
+61	domestic washing or cleaning	0.4812	-0.2436	7	120	3663	646
+614	dynamo-electric machines	0.3187	-0.4769	5	122	3245	645
+617	"control or regulation of electric motors, electric generators or dynamo-elect"	0.4274	-0.6248	5	111	2434	630
+641	electric circuits or apparatus specially designed for use in equipment for ki	-1.0742	-0.0111	6	43	1244	432
+66	transport or accomodation for patients	0.3437	0.372	1	126	3515	641
+67	"physical therapy apparatus, e.g. devices for locating or stimulating reflex p"	0.0894	0.2747	1	120	1509	640
+75	fire-fighting	-0.199	-0.1761	1	126	2033	642
+77	"apparatus for physical training, gymnastics, swimming, climbing,"	-0.0284	0.2117	1	126	1505	647
+78	skates	0.2236	0.2717	1	122	1684	632
+79	bowling-alleys	-0.2293	0.2696	1	86	369	583
+81	merry-go-rounds	-0.0508	-0.1523	1	118	1790	605
+82	"toys, e.g. tops, dolls, hoops, building blocks"	-0.2177	-0.0061	1	129	2939	642
+83	"devices for theatres, circuses, or the like"	-0.1826	-0.0593	1	109	2327	595
+84	racing	-0.1318	0.1698	1	102	500	455

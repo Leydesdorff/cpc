@@ -1,0 +1,23 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+256	non-metallic elements	-0.8205	0.0414	1	21	5559	99
+257	ammonia	-0.5548	0.0025	1	20	1298	93
+258	"compounds of alkali metals, i.e. lithium, sodium, potassium,"	-0.08	0.1225	2	21	1948	74
+259	"compounds of the metals beryllium, magnesium, aluminium, calcium, strontium,"	-0.1223	0.39	2	21	2967	89
+260	compounds containing metals not covered	-0.2953	0.5831	2	20	4117	89
+261	indexing scheme relating to structural and physical aspects of solid inorgani	-0.5545	0.6182	2	21	3583	89
+303	production of acetylene by wet methods	-0.3787	0.2251	2	15	83	46
+313	distillation or rectification of fermented solutions	-1.103	-0.2041	1	19	1929	78
+328	manufacture of iron or steel	0.9124	-0.0505	3	21	3019	85
+329	"processing of pig-iron, e.g. refining, manufacture of wrought- iron or steel"	1.1132	-0.2696	3	19	3171	82
+331	production and refining of metals	0.5561	-0.0722	3	21	4209	93
+338	electrolytic or electrophoretic processes for the production of compounds or	-0.2054	-0.4302	2	21	2205	95
+339	"processes for the electrolytic production, recovery or refining of metals"	0.1932	-0.3845	2	20	995	76
+497	"furnaces, kilns, ovens, or retorts in general"	1.2831	0.1025	3	20	3552	95
+498	"details or accessories of furnaces, kilns, ovens, or retorts, in so far as th"	1.2981	-0.1134	3	21	3778	97
+499	"indexing scheme relating to aspects of the charges or furnaces, kilns, ovens"	1.1061	0.2338	3	19	1631	73
+604	"processes or means, e.g. batteries, for the direct conversion of"	-0.8368	-0.3617	1	21	3883	97
+648	"reduction of greenhouse gases [ghg] emission, related to energy generation, t"	-0.6246	-0.4659	1	21	4310	99
+649	climate change mitigation technologies in the production or processing of goo	-0.1191	-0.1909	1	21	5098	99
+76	chemical means for extinguishing fires or for combating or protecting against	0.3636	0.1626	3	21	1107	92
+86	separation	-0.4629	-0.182	1	21	2766	99
+88	"chemical or physical processes, e.g. catalysis, colloid chemistry"	-0.6678	0.2434	1	21	4050	99

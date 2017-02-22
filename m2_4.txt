@@ -1,0 +1,17 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight
+154	preparation or pretreatment of the material to be shaped	0.9143	-0.2125	2	15	3998	104
+155	shaping or joining of plastics	0.5803	0.4429	2	15	6872	111
+156	producing particular articles from plastics or from substances	0.1779	0.8238	3	15	3622	107
+157	"indexing scheme associated with subclasses b29b, b29c or b29d, relating to mo"	0.8033	0.1587	2	15	7440	111
+158	"indexing scheme associated with subclass b29c, relating to particular article"	0.2971	0.2436	2	15	7370	110
+161	"making wound articles, e.g. wound tubes, of paper or cardboard"	0.6812	-0.6395	2	14	251	65
+164	"layered products, i.e. products built-up of strata of flat or non- flat, e.g."	0.437	-0.2286	2	15	4637	110
+49	hairdressing or shaving equipment	-0.307	-0.3495	1	15	589	106
+534	spectacles	-0.2487	0.9331	3	14	782	82
+65	filters implantable into blood vessels	-0.688	0.4278	1	15	3287	104
+68	containers specially adapted for medical or pharmaceutical purposes	0.0213	-0.0903	1	15	2104	92
+70	methods or apparatus for sterilising materials or objects in general	-0.8612	0.0565	1	15	4136	101
+71	"devices for introducing media into, or onto, the body"	-0.4466	0.1286	1	15	2577	97
+97	spraying apparatus	-0.5266	-0.644	1	15	2565	104
+98	apparatus for applying liquids or other fluent materials to	-0.0459	-0.6921	1	15	3195	106
+99	processes for applying liquids or other fluent materials to	-0.7884	-0.3585	1	15	3445	106
